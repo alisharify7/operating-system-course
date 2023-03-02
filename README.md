@@ -13,7 +13,7 @@ read more in <a href="https://en.wikipedia.org/wiki/Operating_system">here</a>
 this repository contain OS Lectures(Operating System) of shahid beheshti university 
 
 
-source:
+#### source:
  - Modern Operating Systems (by Andrew Tanenbaum, Herbert Bos)
  - Operating Systems: Internals and Design Principles (by William Stallings)
  - Operating System Concepts 10th Edition (by Abraham Silberschatz , Greg Gagne, Peter B. Galvin)
@@ -35,7 +35,9 @@ feel free to contribute and add or update topics :)
   بیشتر بخوانید در این <a href="https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%E2%80%8C%D8%B9%D8%A7%D9%85%D9%84">لینک</a>
   
   
-  ###### منابع مورد استفاده : 
+ 
+ 
+ #### منابع مورد استفاده : 
  - Modern Operating Systems (by Andrew Tanenbaum, Herbert Bos)
  - Operating Systems: Internals and Design Principles (by William Stallings)
  - Operating System Concepts 10th Edition  (by Abraham Silberschatz , Greg Gagne, Peter B. Galvin)
