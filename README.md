@@ -3,7 +3,8 @@ operating-system-course in <a href="https://en.sbu.ac.ir/">shahid beheshti unive
 
 ## OS (Oprating System)
 <img src="https://techsevi.com/wp-content/uploads/2021/04/Operating-System-Kya-Hai.jpg">
-An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs. ...
+
+ - An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs. ...
 read more in <a href="https://en.wikipedia.org/wiki/Operating_system">here</a>
 
 --- 
