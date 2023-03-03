@@ -54,5 +54,5 @@ feel free to contribute and add or update topics :)
  جدول محتوا
 | لینک     | جلسه |
 | ---      | ---       |
-| <a href="">مشاهده<a>  | اول   |
-| <a href="">مشاهده<a>  | دوم    |
+| <a href="https://github.com/alisharify7/operating-system-course/tree/main/Lecture-1">مشاهده<a>  | اول   |
+| <a href="https://github.com/alisharify7/operating-system-course/tree/main/Lecture-2">مشاهده<a>  | دوم    |
