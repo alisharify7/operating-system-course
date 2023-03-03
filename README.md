@@ -44,14 +44,15 @@ feel free to contribute and add or update topics :)
 
  
  
- 
  اگر دوست داشتید  میتونید مطالب رو براحتی دانلود و استفاده کنید و اگر مشکلی دیدید میتونید آپدیت فیکس بدید 
  و اگر فکر می کنید مبحثی جاش خالیه میتونید pull request بدید برای اضافه کردنش :)
  
  
+ تمامی جلسات به فرمت های زیر موجود است:
+ txt, docx, html, md, pdf
  
  
- جدول محتوا
+ ### جدول محتوا
 | لینک     | جلسه |
 | ---      | ---       |
 | <a href="https://github.com/alisharify7/operating-system-course/tree/main/Lecture-1">مشاهده<a>  | اول   |
