@@ -52,5 +52,8 @@ feel free to contribute and add or update topics :)
  
  
  جدول محتوا
- | جلسه اول |
-|  مشاهده |
+ 
+|    جلسه  |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
