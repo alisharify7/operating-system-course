@@ -54,5 +54,5 @@ feel free to contribute and add or update topics :)
  جدول محتوا
 | جلسه     | لینک |
 | ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |
+| اول  | مشاهده   |
+| دوم  | مشاهده    |
