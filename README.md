@@ -52,7 +52,7 @@ feel free to contribute and add or update topics :)
  
  
  جدول محتوا
- | Name     | Character |
+| جلسه     | لینک |
 | ---      | ---       |
 | Backtick | `         |
 | Pipe     | \|        |
