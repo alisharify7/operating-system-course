@@ -48,8 +48,8 @@ feel free to contribute and add or update topics :)
  و اگر فکر می کنید مبحثی جاش خالیه میتونید pull request بدید برای اضافه کردنش :)
  
  
- تمامی جلسات به فرمت های زیر موجود است:
- txt, docx, html, md, pdf
+     تمامی جلسات به فرمت های زیر موجود است:
+     txt, docx, html, md, pdf
  
  
  ### جدول محتوا
