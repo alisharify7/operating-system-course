@@ -59,3 +59,7 @@ feel free to contribute and add or update topics :)
 | <a href="https://github.com/alisharify7/operating-system-course/tree/main/Lecture-1">مشاهده<a>  | اول   |
 | <a href="https://github.com/alisharify7/operating-system-course/tree/main/Lecture-2">مشاهده<a>  | دوم    |
 | <a href="https://github.com/alisharify7/operating-system-course/tree/main/Lecture-3">مشاهده<a>  | سوم    |
+ 
+ 
+ 
+#### هدف این ریپازیتوری صرفا به اشتراک گذاری چیزایی هست که شاید به درد بعضی افراد بخوره و مفید باشند از اونجایی که من خودم به شخصه طرفدار دنیای Open Source و آزادی #### نرم افزار و اشتراک گذاری و دسترسی عامه مردم به اطلاعات و دانش هستم خواستم جزوه هایی  که در توان خودم هست و در کلاس نوشتم رو تایپ کنم و توی یه فرمت تمیز برای #### باقی اینجا بزارم باشه :) - 1401-12-19 * 2022-3-10
