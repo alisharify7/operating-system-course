@@ -1,9 +1,9 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01D95377.2FF8ABE0"
+Content-Type: multipart/related; boundary="----=_NextPart_01D95387.BC6EAB00"
 
 This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Windows® Internet Explorer®.
 
-------=_NextPart_01D95377.2FF8ABE0
+------=_NextPart_01D95387.BC6EAB00
 Content-Location: file:///C:/AF8A99D3/Lecture-3.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="windows-1252"
@@ -34,16 +34,16 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>alisharify</o:Author>
   <o:LastAuthor>alisharify</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>64</o:TotalTime>
-  <o:LastPrinted>2023-03-10T14:08:00Z</o:LastPrinted>
-  <o:Created>2023-03-10T14:08:00Z</o:Created>
-  <o:LastSaved>2023-03-10T14:08:00Z</o:LastSaved>
-  <o:Pages>9</o:Pages>
-  <o:Words>836</o:Words>
-  <o:Characters>4771</o:Characters>
-  <o:Lines>39</o:Lines>
-  <o:Paragraphs>11</o:Paragraphs>
-  <o:CharactersWithSpaces>5596</o:CharactersWithSpaces>
+  <o:TotalTime>0</o:TotalTime>
+  <o:LastPrinted>2023-03-10T16:06:00Z</o:LastPrinted>
+  <o:Created>2023-03-10T16:07:00Z</o:Created>
+  <o:LastSaved>2023-03-10T16:07:00Z</o:LastSaved>
+  <o:Pages>13</o:Pages>
+  <o:Words>1584</o:Words>
+  <o:Characters>9033</o:Characters>
+  <o:Lines>75</o:Lines>
+  <o:Paragraphs>21</o:Paragraphs>
+  <o:CharactersWithSpaces>10596</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -952,6 +952,13 @@ k Accent 6"/>
 <!--
  /* Font Definitions */
  @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
 	mso-font-charset:0;
@@ -1220,57 +1227,87 @@ div.WordSection1
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
 @list l1
+	{mso-list-id:655764593;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1041261144 1149649298 67698691 67698693 67698689 676=
+98691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F02D;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.25in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.75in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l2
 	{mso-list-id:865677760;
 	mso-list-type:hybrid;
 	mso-list-template-ids:-1992930362 67698703 67698713 67698715 67698703 6769=
 8713 67698715 67698703 67698713 67698715;}
-@list l1:level1
-	{mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l1:level2
-	{mso-level-number-format:alpha-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l1:level3
-	{mso-level-number-format:roman-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:right;
-	text-indent:-9.0pt;}
-@list l1:level4
-	{mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l1:level5
-	{mso-level-number-format:alpha-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l1:level6
-	{mso-level-number-format:roman-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:right;
-	text-indent:-9.0pt;}
-@list l1:level7
-	{mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l1:level8
-	{mso-level-number-format:alpha-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-.25in;}
-@list l1:level9
-	{mso-level-number-format:roman-lower;
-	mso-level-tab-stop:none;
-	mso-level-number-position:right;
-	text-indent:-9.0pt;}
-@list l2
-	{mso-list-id:879047771;
-	mso-list-type:hybrid;
-	mso-list-template-ids:2005328656 67698703 67698713 67698715 67698703 67698=
-713 67698715 67698703 67698713 67698715;}
 @list l2:level1
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
@@ -1314,10 +1351,10 @@ div.WordSection1
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
 @list l3
-	{mso-list-id:1893038931;
+	{mso-list-id:879047771;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-1992630126 67698703 67698713 67698715 67698703 6769=
-8713 67698715 67698703 67698713 67698715;}
+	mso-list-template-ids:2005328656 67698703 67698713 67698715 67698703 67698=
+713 67698715 67698703 67698713 67698715;}
 @list l3:level1
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
@@ -1360,6 +1397,121 @@ div.WordSection1
 	mso-level-tab-stop:none;
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
+@list l4
+	{mso-list-id:1893038931;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1992630126 67698703 67698713 67698715 67698703 6769=
+8713 67698715 67698703 67698713 67698715;}
+@list l4:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l4:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l4:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l5
+	{mso-list-id:1940284916;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-130915782 1149649298 67698691 67698693 67698689 676=
+98691 67698693 67698689 67698691 67698693;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F02D;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l5:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l5:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l5:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l5:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l5:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l5:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l5:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l5:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
 ol
 	{margin-bottom:0in;}
 ul
@@ -2712,7 +2864,7 @@ span></p>
 in-right:
 .5in;margin-bottom:8.0pt;margin-left:0in;mso-add-space:auto;text-align:righ=
 t;
-text-indent:-.25in;mso-list:l3 level1 lfo4;direction:rtl;unicode-bidi:embed=
+text-indent:-.25in;mso-list:l4 level1 lfo4;direction:rtl;unicode-bidi:embed=
 '><![if !supportLists]><span
 style=3D'font-size:16.0pt;mso-bidi-font-size:18.0pt;line-height:107%;font-f=
 amily:
@@ -2769,7 +2921,7 @@ p>
 gin-right:
 .5in;margin-bottom:8.0pt;margin-left:0in;mso-add-space:auto;text-align:righ=
 t;
-text-indent:-.25in;mso-list:l3 level1 lfo4;direction:rtl;unicode-bidi:embed=
+text-indent:-.25in;mso-list:l4 level1 lfo4;direction:rtl;unicode-bidi:embed=
 '><![if !supportLists]><span
 style=3D'font-size:16.0pt;mso-bidi-font-size:18.0pt;line-height:107%;font-f=
 amily:
@@ -2801,7 +2953,7 @@ p>
 gin-right:
 .5in;margin-bottom:8.0pt;margin-left:0in;mso-add-space:auto;text-align:righ=
 t;
-text-indent:-.25in;mso-list:l3 level1 lfo4;direction:rtl;unicode-bidi:embed=
+text-indent:-.25in;mso-list:l4 level1 lfo4;direction:rtl;unicode-bidi:embed=
 '><![if !supportLists]><span
 style=3D'font-size:16.0pt;mso-bidi-font-size:18.0pt;line-height:107%;font-f=
 amily:
@@ -2841,7 +2993,7 @@ family:
 n-right:
 .5in;margin-bottom:8.0pt;margin-left:0in;mso-add-space:auto;text-align:righ=
 t;
-text-indent:-.25in;mso-list:l3 level1 lfo4;direction:rtl;unicode-bidi:embed=
+text-indent:-.25in;mso-list:l4 level1 lfo4;direction:rtl;unicode-bidi:embed=
 '><![if !supportLists]><span
 style=3D'font-size:16.0pt;mso-bidi-font-size:18.0pt;line-height:107%;font-f=
 amily:
@@ -3090,9 +3242,1195 @@ mso-bidi-language:FA'><span dir=3DRTL></span> &#1605;&#1587;&#1583;&#1608;&=
 
 <p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
 ode-bidi:
+embed'><span lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'>&#1583;&#1585;
+&#1586;&#1605;&#1575;&#1606;&#1576;&#1606;&#1583;&#1740;
+&#1576;&#1583;&#1608;&#1606; &#1602;&#1576;&#1590;&#1607;
+&#1705;&#1585;&#1583;&#1606;&#1548;&#1608;&#1602;&#1578;&#1740;
+&#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607; &#1576;&#1607;
+&#1601;&#1585;&#1575;&#1740;&#1606;&#1583;&#1740;
+&#1578;&#1582;&#1589;&#1740;&#1589; &#1605;&#1740;
+&#1740;&#1575;&#1601;&#1578;&#1548; &#1570;&#1606; &#1602;&#1583;&#1585;
+&#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607; &#1585;&#1575;
+&#1606;&#1711;&#1607; &#1605;&#1740; &#1583;&#1575;&#1585;&#1583;
+&#1578;&#1575; &#1575;&#1740;&#1606; &#1705;&#1607;
+&#1582;&#1575;&#1578;&#1605;&#1607; &#1740;&#1575;&#1576;&#1583; &#1740;&#1=
+575;
+&#1576;&#1607; &#1581;&#1575;&#1604;&#1578;
+&#1575;&#1606;&#1578;&#1592;&#1575;&#1585; &#1576;&#1585;&#1608;&#1583;
+&#1705;&#1607; &#1583;&#1585; &#1575;&#1740;&#1606;
+&#1589;&#1608;&#1585;&#1578; &#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#15=
+83;&#1607;
+&#1585;&#1575; &#1570;&#1586;&#1575;&#1583; &#1605;&#1740;
+&#1705;&#1606;&#1583;. &#1575;&#1740;&#1606; &#1585;&#1608;&#1588;
+&#1586;&#1605;&#1575;&#1606;&#1576;&#1606;&#1583;&#1740;
+&#1578;&#1608;&#1587;&#1591; &#1608;&#1740;&#1606;&#1583;&#1608;&#1586; </s=
+pan><span
+dir=3DLTR></span><span dir=3DLTR style=3D'font-size:16.0pt;mso-bidi-font-si=
+ze:18.0pt;
+line-height:107%;font-family:"Bahnschrift",sans-serif;mso-bidi-font-family:
+"B Nazanin";mso-bidi-language:FA'><span dir=3DLTR></span>3.x </span><span
+lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:1=
+07%;
+font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-fa=
+mily:
+Bahnschrift;mso-bidi-language:FA'>&#1605;&#1608;&#1585;&#1583;
+&#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607; &#1602;&#1585;&#1575;&#15=
+85;
+&#1605;&#1740; &#1711;&#1585;&#1601;&#1578;.
+.&#1608;&#1740;&#1606;&#1583;&#1608;&#1586; 95 &#1548;
+&#1586;&#1605;&#1575;&#1576;&#1606;&#1583;&#1740; &#1576;&#1575;
+&#1602;&#1576;&#1590;&#1607; &#1705;&#1585;&#1583;&#1606; &#1585;&#1575;
+&#1605;&#1593;&#1585;&#1601;&#1740; &#1705;&#1585;&#1583;
+&#1608;&#1578;&#1605;&#1575;&#1605; &#1606;&#1587;&#1582;&#1607;
+&#1607;&#1575;&#1740; &#1576;&#1593;&#1583;&#1740;
+&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
+&#1608;&#1740;&#1606;&#1583;&#1608;&#1586; &#1575;&#1586;
+&#1586;&#1605;&#1575;&#1606;&#1576;&#1606;&#1583;&#1740; &#1576;&#1575;
+&#1602;&#1576;&#1590;&#1607; &#1705;&#1585;&#1583;&#1606;
+&#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607;
+&#1606;&#1605;&#1608;&#1583;&#1606;&#1583;. &#1587;&#1740;&#1587;&#1578;&#1=
+605;
+&#1593;&#1575;&#1605;&#1604; </span><span dir=3DLTR style=3D'font-size:16.0=
+pt;
+mso-bidi-font-size:18.0pt;line-height:107%;font-family:"Bahnschrift",sans-s=
+erif;
+mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'>Mac OS X</span><span
+dir=3DRTL></span><span lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-si=
+ze:16.0pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'><span dir=3DRTL></s=
+pan>
+&#1576;&#1585;&#1575;&#1740; &#1605;&#1705;&#1740;&#1606;&#1578;&#1575;&#15=
+88;
+&#1606;&#1740;&#1586; &#1575;&#1586;
+&#1586;&#1605;&#1575;&#1606;&#1576;&#1606;&#1583;&#1740; &#1576;&#1575;
+&#1602;&#1576;&#1590;&#1607; &#1705;&#1585;&#1583;&#1606; &#1575;&#1587;&#1=
+578;&#1601;&#1575;&#1583;&#1607;&#1605;&#1740;
+&#1705;&#1606;&#1583;&#1548; &#1606;&#1587;&#1582;&#1607;
+&#1602;&#1576;&#1604;&#1740; &#1587;&#1740;&#1587;&#1578;&#1605;
+&#1593;&#1575;&#1605;&#1604; &#1605;&#1705;&#1740;&#1606;&#1578;&#1575;&#15=
+88;
+&#1605;&#1576;&#1578;&#1606;&#1740; </span><b><i><span lang=3DFA
+style=3D'font-size:22.0pt;mso-ansi-font-size:20.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+mso-bidi-language:FA'>&#1576;&#1585;
+&#1586;&#1605;&#1575;&#1606;&#1576;&#1606;&#1583;&#1740;
+&#1607;&#1605;&#1705;&#1575;&#1585;&#1740; (</span></i></b><b><i><span dir=
+=3DLTR
+style=3D'font-size:20.0pt;mso-bidi-font-size:22.0pt;line-height:107%;font-f=
+amily:
+"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";mso-bidi-language:
+FA'>Cooperative Scheduling</span></i></b><span dir=3DRTL></span><b><i><span
+lang=3DFA style=3D'font-size:22.0pt;mso-ansi-font-size:20.0pt;line-height:1=
+07%;
+font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-fa=
+mily:
+Bahnschrift;mso-bidi-language:FA'><span dir=3DRTL></span>) &#1576;&#1608;&#=
+1583;.</span></i></b><span
+lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:1=
+07%;
+font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-fa=
+mily:
+Bahnschrift;mso-bidi-language:FA'>
+&#1586;&#1605;&#1575;&#1606;&#1576;&#1606;&#1583;&#1740;
+&#1607;&#1605;&#1705;&#1575;&#1585;&#1740; &#1578;&#1606;&#1607;&#1575;
+&#1585;&#1608;&#1588;&#1587;&#1740; &#1575;&#1587;&#1578; &#1705;&#1607;
+&#1605;&#1740; &#1578;&#1608;&#1575;&#1606;&#1583; &#1576;&#1585;
+&#1585;&#1608;&#1740; &#1587;&#1705;&#1608;&#1607;&#1575;&#1740;
+&#1587;&#1582;&#1578; &#1575;&#1601;&#1586;&#1575;&#1585;
+&#1575;&#1580;&#1585;&#1575; &#1588;&#1608;&#1583;&#1548;
+&#1586;&#1740;&#1585;&#1575; &#1576;&#1607; &#1587;&#1582;&#1578;
+&#1575;&#1601;&#1586;&#1575;&#1585; &#1582;&#1575;&#1589;&#1740; (&#1605;&#=
+1579;&#1604;&#1575;
+&#1578;&#1575;&#1740;&#1605;&#1585;) &#1705;&#1607;
+&#1576;&#1585;&#1575;&#1740;
+&#1586;&#1605;&#1575;&#1606;&#1576;&#1606;&#1583;&#1740; &#1576;&#1575;
+&#1576;&#1575; &#1602;&#1576;&#1590;&#1607; &#1705;&#1585;&#1583;&#1606;
+&#1606;&#1740;&#1575;&#1586; &#1575;&#1587;&#1578; &#1606;&#1740;&#1575;&#1=
+586;
+&#1606;&#1583;&#1575;&#1585;&#1583;.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><span lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'>&#1586;&#1605;&#157=
+5;&#1606;&#1576;&#1606;&#1583;&#1740;
+&#1576;&#1575; &#1602;&#1576;&#1590;&#1607; &#1705;&#1585;&#1583;&#1606;
+&#1607;&#1586;&#1740;&#1606;&#1607; &#1583;&#1575;&#1585;&#1583; .
+&#1581;&#1575;&#1604;&#1578;&#1740; &#1585;&#1575; &#1583;&#1585;
+&#1606;&#1592;&#1585; &#1576;&#1711;&#1740;&#1585;&#1740;&#1583; &#1705;&#1=
+607;
+&#1583;&#1608; &#1601;&#1585;&#1575;&#1740;&#1606;&#1583;
+&#1583;&#1575;&#1583;&#1607; &#1607;&#1575;&#1740;
+&#1605;&#1588;&#1578;&#1585;&#1705;&#1740; &#1583;&#1575;&#1585;&#1606;&#15=
+83;.
+&#1740;&#1705;&#1740; &#1575;&#1586; &#1570;&#1606; &#1607;&#1575;
+&#1605;&#1605;&#1705;&#1606; &#1575;&#1587;&#1578; &#1583;&#1585;
+&#1586;&#1605;&#1575;&#1606; &#1576;&#1607; &#1607;&#1606;&#1711;&#1575;&#1=
+605;
+&#1584;&#1582;&#1740;&#1585;&#1607; &#1587;&#1575;&#1586;&#1740;
+&#1583;&#1575;&#1583;&#1607; &#1607;&#1575; &#1602;&#1576;&#1590;&#1607;
+&#1588;&#1608;&#1583; &#1608; &#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1=
+583;&#1607;
+&#1740; &#1583;&#1608;&#1605; &#1583;&#1585; &#1581;&#1575;&#1604;
+&#1575;&#1580;&#1585;&#1575; &#1576;&#1575;&#1588;&#1583;.
+&#1601;&#1585;&#1575;&#1740;&#1606;&#1583; &#1583;&#1608;&#1605;
+&#1605;&#1605;&#1705;&#1606; &#1575;&#1587;&#1578; &#1578;&#1604;&#1575;&#1=
+588;
+&#1705;&#1606;&#1583; &#1583;&#1575;&#1583;&#1607; &#1607;&#1575;&#1740;&#1=
+740;
+&#1585;&#1575; &#1576;&#1582;&#1608;&#1575;&#1606;&#1583; &#1705;&#1607;
+&#1583;&#1585; &#1581;&#1575;&#1604;&#1578;
+&#1606;&#1575;&#1587;&#1575;&#1586;&#1711;&#1575;&#1585;
+&#1602;&#1585;&#1575;&#1585; &#1583;&#1575;&#1585;&#1583;. &#1576;&#1606;&#=
+1575;&#1576;&#1585;&#1575;&#1740;&#1606;
+&#1606;&#1740;&#1575;&#1586; &#1576;&#1607;
+&#1585;&#1575;&#1607;&#1705;&#1575;&#1585; &#1580;&#1583;&#1740;&#1583;&#17=
+40;
+&#1575;&#1587;&#1578; &#1578;&#1575;
+&#1583;&#1587;&#1578;&#1740;&#1575;&#1576;&#1740; &#1576;&#1607;
+&#1583;&#1575;&#1583;&#1607; &#1607;&#1575;&#1740;
+&#1605;&#1588;&#1578;&#1585;&#1705; &#1585;&#1575;
+&#1607;&#1605;&#1575;&#1607;&#1606;&#1711; &#1705;&#1606;&#1583;<o:p></o:p>=
+</span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><span lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'>&#1586;&#1605;&#157=
+5;&#1606;&#1576;&#1606;&#1583;&#1740;
+&#1576;&#1575; &#1602;&#1576;&#1590;&#1607; &#1705;&#1585;&#1583;&#1606;
+&#1583;&#1585; &#1591;&#1585;&#1575;&#1581;&#1740; &#1607;&#1587;&#1578;&#1=
+607;
+&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
+&#1605;&#1608;&#1579;&#1585; &#1575;&#1587;&#1578;.
+&#1607;&#1606;&#1711;&#1575;&#1605; &#1662;&#1585;&#1583;&#1575;&#1586;&#15=
+88;
+&#1601;&#1585;&#1575;&#1582;&#1608;&#1575;&#1606;
+&#1587;&#1740;&#1587;&#1578;&#1605; &#1548;&#1607;&#1587;&#1578;&#1607;
+&#1605;&#1605;&#1705;&#1606; &#1575;&#1587;&#1578;
+&#1605;&#1588;&#1594;&#1608;&#1604; &#1575;&#1606;&#1580;&#1575;&#1605;
+&#1601;&#1593;&#1575;&#1604;&#1740;&#1578;&#1740; &#1583;&#1585;
+&#1585;&#1575;&#1576;&#1591;&#1607; &#1576;&#1575; &#1740;&#1705;
+&#1601;&#1585;&#1575;&#1740;&#1606;&#1583; &#1576;&#1575;&#1588;&#1583;.&#1=
+575;&#1740;&#1606;
+&#1601;&#1593;&#1575;&#1604;&#1740;&#1578; &#1607;&#1575;
+&#1605;&#1605;&#1705;&#1606; &#1575;&#1587;&#1578; &#1583;&#1575;&#1583;&#1=
+607;
+&#1607;&#1575;&#1740; &#1605;&#1607;&#1605; &#1607;&#1587;&#1578;&#1607;
+&#1585;&#1575; &#1578;&#1594;&#1740;&#1740;&#1585; &#1583;&#1607;&#1606;&#1=
+583;
+(&#1605;&#1579;&#1604; &#1589;&#1601; </span><span dir=3DLTR style=3D'font-=
+size:
+16.0pt;mso-bidi-font-size:18.0pt;line-height:107%;font-family:"Bahnschrift"=
+,sans-serif;
+mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'>i/o</span><span dir=
+=3DRTL></span><span
+lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:1=
+07%;
+font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-fa=
+mily:
+Bahnschrift;mso-bidi-language:FA'><span dir=3DRTL></span>)</span><span dir=
+=3DLTR
+style=3D'font-size:16.0pt;mso-bidi-font-size:18.0pt;line-height:107%;font-f=
+amily:
+"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";mso-bidi-language:
+FA'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><span lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'><o:p>&nbsp;</o:p></=
+span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
 embed'><span dir=3DLTR style=3D'font-size:16.0pt;mso-bidi-font-size:18.0pt;
 line-height:107%;font-family:"Bahnschrift",sans-serif;mso-bidi-font-family:
 "B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><span lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'>&#1575;&#1711;&#158=
+5;
+&#1601;&#1585;&#1575;&#1740;&#1606;&#1583;&#1740; &#1705;&#1607; &#1583;&#1=
+585;
+&#1581;&#1575;&#1604; &#1575;&#1606;&#1580;&#1575;&#1605; &#1575;&#1740;&#1=
+606;
+&#1578;&#1594;&#1740;&#1740;&#1585;&#1575;&#1578; &#1575;&#1587;&#1578; &#1=
+548;
+&#1602;&#1576;&#1590;&#1607; &#1588;&#1608;&#1583; &#1608;
+&#1607;&#1587;&#1578;&#1607; (&#1740;&#1575;
+&#1711;&#1585;&#1583;&#1575;&#1606;&#1606;&#1583;&#1607;
+&#1583;&#1587;&#1578;&#1711;&#1575;&#1607;) &#1606;&#1740;&#1575;&#1586;
+&#1576;&#1607; &#1582;&#1608;&#1575;&#1606;&#1583;&#1607; &#1740;&#1575;
+&#1578;&#1594;&#1740;&#1740;&#1585; &#1607;&#1605;&#1575;&#1606;
+&#1587;&#1575;&#1582;&#1578;&#1575;&#1585; &#1583;&#1575;&#1588;&#1578;&#16=
+07;
+&#1576;&#1575;&#1588;&#1583; &#1548; &#1670;&#1607;
+&#1575;&#1578;&#1601;&#1575;&#1602;&#1740; &#1605;&#1740;
+&#1575;&#1601;&#1578;&#1583;&#1567;<o:p></o:p></span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><span lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'>&#1576;&#1607;
+&#1606;&#1592;&#1585; &#1605;&#1740; &#1585;&#1587;&#1583; &#1705;&#1607;
+&#1607;&#1585;&#1580; &#1608; &#1605;&#1585;&#1580; &#1662;&#1740;&#1588;
+&#1605;&#1740; &#1575;&#1740;&#1583;. &#1576;&#1593;&#1590;&#1740;
+&#1575;&#1586; &#1587;&#1740;&#1587;&#1578;&#1605; &#1607;&#1575;&#1740;
+&#1593;&#1575;&#1605;&#1604;&#1548; &#1575;&#1586; &#1580;&#1605;&#1604;&#1=
+607;
+&#1575;&#1594;&#1604;&#1576; &#1606;&#1587;&#1582;&#1607; &#1607;&#1575;&#1=
+740;
+&#1740;&#1608;&#1606;&#1740;&#1705;&#1587;&#1548; &#1575;&#1740;&#1606;
+&#1605;&#1587;&#1575;&#1740;&#1604;&#1607; &#1585;&#1575; &#1576;&#1607;
+&#1575;&#1740;&#1606; &#1578;&#1585;&#1578;&#1740;&#1576; &#1581;&#1604;
+&#1605;&#1740; &#1705;&#1606;&#1606;&#1583; &#1705;&#1607;
+&#1602;&#1576;&#1604; &#1575;&#1586; &#1578;&#1593;&#1608;&#1740;&#1590; &#=
+1605;&#1578;&#1606;
+&#1548; &#1605;&#1606;&#1578;&#1592;&#1585; &#1605;&#1740;
+&#1605;&#1575;&#1606;&#1606;&#1583; &#1578;&#1575;
+&#1601;&#1585;&#1575;&#1582;&#1608;&#1575;&#1606;
+&#1587;&#1740;&#1587;&#1578;&#1605; &#1705;&#1575;&#1605;&#1604; &#1588;&#1=
+608;&#1583;
+&#1740;&#1575; &#1740;&#1705; &#1593;&#1605;&#1604; </span><span dir=3DLTR
+style=3D'font-size:16.0pt;mso-bidi-font-size:18.0pt;line-height:107%;font-f=
+amily:
+"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";mso-bidi-language:
+FA'>i/o</span><span dir=3DRTL></span><span lang=3DFA style=3D'font-size:18.=
+0pt;
+mso-ansi-font-size:16.0pt;line-height:107%;font-family:"B Nazanin";mso-asci=
+i-font-family:
+Bahnschrift;mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'><span
+dir=3DRTL></span> &#1585;&#1582; &#1583;&#1607;&#1583;&#1608;
+&#1575;&#1740;&#1606; &#1575;&#1604;&#1711;&#1608;
+&#1578;&#1590;&#1605;&#1740;&#1606; &#1605;&#1740; &#1705;&#1606;&#1583;
+&#1705;&#1607; &#1587;&#1575;&#1582;&#1578;&#1575;&#1585; &#1607;&#1587;&#1=
+578;&#1607;
+&#1587;&#1575;&#1583;&#1607; &#1576;&#1575;&#1588;&#1583;
+&#1548;&#1586;&#1740;&#1585;&#1575; &#1583;&#1585; &#1581;&#1575;&#1604;&#1=
+740;
+&#1705;&#1607; &#1587;&#1575;&#1582;&#1578;&#1605;&#1575;&#1606;
+&#1583;&#1575;&#1583;&#1607; &#1607;&#1575;&#1740; &#1607;&#1587;&#1578;&#1=
+607;
+&#1583;&#1585; &#1608;&#1590;&#1593;&#1740;&#1578;
+&#1606;&#1575;&#1587;&#1575;&#1586;&#1711;&#1575;&#1585;&#1740; &#1608;&#15=
+80;&#1608;&#1583;
+&#1583;&#1575;&#1585;&#1606;&#1583; &#1563; &#1607;&#1587;&#1578;&#1607;
+&#1601;&#1585;&#1575;&#1740;&#1606;&#1740; &#1585;&#1575;
+&#1602;&#1576;&#1590;&#1607; &#1606;&#1605;&#1740; &#1705;&#1606;&#1583;.<o=
+:p></o:p></span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><span lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'>&#1605;&#1578;&#157=
+5;&#1587;&#1601;&#1575;&#1606;&#1607;
+&#1575;&#1740;&#1606; &#1605;&#1583;&#1604; &#1575;&#1580;&#1585;&#1575;&#1=
+740;
+&#1607;&#1587;&#1578;&#1607; &#1576;&#1585;&#1575;&#1740;
+&#1662;&#1588;&#1578;&#1740;&#1576;&#1575;&#1606;&#1740; &#1576;&#1740;
+&#1583;&#1585;&#1606;&#1711; &#1608;
+&#1662;&#1585;&#1583;&#1575;&#1586;&#1588;&#1740;
+&#1605;&#1606;&#1575;&#1587;&#1576; &#1606;&#1740;&#1587;&#1578;.<o:p></o:p=
+></span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><span lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'>&#1670;&#1608;&#160=
+6;
+&#1608;&#1602;&#1601;&#1607; &#1607;&#1575; &#1583;&#1585;&#1607;&#1585;
+&#1586;&#1605;&#1575;&#1606;&#1740; &#1605;&#1740;
+&#1578;&#1608;&#1575;&#1606;&#1606;&#1583; &#1585;&#1582;
+&#1583;&#1607;&#1606;&#1583; &#1608; &#1670;&#1608;&#1606;
+&#1607;&#1587;&#1578;&#1607; &#1607;&#1605;&#1740;&#1588;&#1607; &#1606;&#1=
+605;&#1740;
+&#1578;&#1608;&#1575;&#1606;&#1583; &#1570;&#1606; &#1607;&#1575;
+&#1585;&#1575; &#1606;&#1575;&#1583;&#1740;&#1583;&#1607;
+&#1576;&#1711;&#1740;&#1585;&#1583;&#1548;&#1576;&#1582;&#1588;
+&#1607;&#1575;&#1740;&#1740; &#1575;&#1586; &#1705;&#1583;
+&#1578;&#1581;&#1578; &#1578;&#1575;&#1579;&#1740;&#1585;
+&#1608;&#1602;&#1601;&#1607; &#1607;&#1575; &#1602;&#1585;&#1575;&#1585;
+&#1583;&#1575;&#1585;&#1606;&#1583; &#1548; &#1576;&#1575;&#1740;&#1583;
+&#1575;&#1586; &#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607; &#1740;
+&#1607;&#1605;&#1586;&#1605;&#1575;&#1606; &#1583;&#1585;
+&#1575;&#1605;&#1575;&#1606; &#1576;&#1575;&#1588;&#1606;&#1583;&#1608;
+&#1604;&#1575;&#1586;&#1605; &#1575;&#1587;&#1578;
+&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
+&#1608;&#1602;&#1601;&#1607; &#1607;&#1575; &#1585;&#1575; &#1583;&#1585;
+&#1578;&#1605;&#1575;&#1605; &#1575;&#1608;&#1602;&#1575;&#1578;
+&#1576;&#1662;&#1584;&#1740;&#1585;&#1583;&#1548;
+&#1608;&#1711;&#1585;&#1606;&#1607; &#1605;&#1605;&#1705;&#1606;
+&#1575;&#1587;&#1578; &#1608;&#1585;&#1608;&#1583;&#1740;
+&#1605;&#1601;&#1602;&#1608;&#1583; &#1588;&#1608;&#1583; &#1608;
+&#1582;&#1585;&#1608;&#1580;&#1740; &#1575;&#1586; &#1576;&#1740;&#1606;
+&#1576;&#1585;&#1608;&#1583;. &#1576;&#1585;&#1575;&#1740;
+&#1575;&#1740;&#1606; &#1705;&#1607; &#1670;&#1606;&#1583;&#1740;&#1606;
+&#1601;&#1585;&#1575;&#1740;&#1606;&#1583; &#1576;&#1607; &#1591;&#1608;&#1=
+585;
+&#1607;&#1605;&#1586;&#1605;&#1575;&#1606; &#1576;&#1607; &#1575;&#1740;&#1=
+606;
+&#1576;&#1582;&#1588; &#1607;&#1575;&#1740; &#1705;&#1583;
+&#1583;&#1587;&#1578;&#1585;&#1587;&#1740;
+&#1606;&#1583;&#1575;&#1588;&#1578;&#1607;
+&#1576;&#1575;&#1588;&#1606;&#1583;&#1548; &#1607;&#1606;&#1711;&#1575;&#16=
+05;
+&#1608;&#1585;&#1608;&#1583; &#1576;&#1607; &#1570;&#1606; &#1607;&#1575;
+&#1608;&#1602;&#1601;&#1607; &#1585;&#1575;
+&#1594;&#1740;&#1585;&#1601;&#1593;&#1575;&#1604; &#1608;
+&#1607;&#1606;&#1711;&#1575;&#1605; &#1582;&#1585;&#1608;&#1580;&#1548;
+&#1608;&#1602;&#1601;&#1607; &#1585;&#1575; &#1601;&#1593;&#1575;&#1604;
+&#1605;&#1740; &#1587;&#1575;&#1586;&#1606;&#1583;.
+&#1578;&#1608;&#1580;&#1607; &#1576;&#1607; &#1575;&#1740;&#1606;
+&#1606;&#1705;&#1578;&#1607; &#1605;&#1607;&#1605; &#1575;&#1587;&#1578;
+&#1705;&#1607; &#1576;&#1582;&#1588; &#1607;&#1575;&#1740;&#1740;
+&#1575;&#1586; &#1705;&#1583;</span><span dir=3DLTR></span><span lang=3DFA =
+dir=3DLTR
+style=3D'font-size:16.0pt;mso-bidi-font-size:18.0pt;line-height:107%;font-f=
+amily:
+"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";mso-bidi-language:
+FA'><span dir=3DLTR></span> </span><span lang=3DFA style=3D'font-size:18.0p=
+t;
+mso-ansi-font-size:16.0pt;line-height:107%;font-family:"B Nazanin";mso-asci=
+i-font-family:
+Bahnschrift;mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'>&#1705;=
+&#1607;
+&#1608;&#1602;&#1601;&#1607; &#1607;&#1575; &#1585;&#1575;
+&#1594;&#1740;&#1585;&#1601;&#1593;&#1575;&#1604; &#1605;&#1740;
+&#1705;&#1606;&#1583; &#1586;&#1740;&#1575;&#1583;
+&#1606;&#1740;&#1587;&#1578;&#1606;&#1583; &#1608; &#1583;&#1587;&#1578;&#1=
+608;&#1585;
+&#1575;&#1604;&#1593;&#1605;&#1604; &#1607;&#1575;&#1740;
+&#1586;&#1740;&#1575;&#1583;&#1740; &#1606;&#1583;&#1575;&#1585;&#1606;&#15=
+83;.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><b><span lang=3DFA style=3D'font-size:24.0pt;mso-ansi-font-size:22.0=
+pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;color:#70AD47;mso-themecolor:accent6;
+mso-bidi-language:FA'>&#1608;&#1602;&#1601;&#1607; </span></b><span dir=3DL=
+TR></span><b><span
+dir=3DLTR style=3D'font-size:22.0pt;mso-bidi-font-size:24.0pt;line-height:1=
+07%;
+font-family:"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><span dir=3DLTR>=
+</span>(interrupt)</span></b><b><span
+lang=3DFA style=3D'font-size:24.0pt;mso-ansi-font-size:22.0pt;line-height:1=
+07%;
+font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-fa=
+mily:
+Bahnschrift;color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><o:p=
+></o:p></span></b></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><span lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'>&#1608;&#1602;&#160=
+1;&#1607;
+&#1585;&#1582;&#1583;&#1575;&#1583;&#1740; &#1583;&#1585;
+&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
+&#1575;&#1587;&#1578; &#1705;&#1607; &#1578;&#1585;&#1578;&#1740;&#1576;
+&#1575;&#1580;&#1585;&#1575;&#1740;
+&#1583;&#1587;&#1578;&#1608;&#1585;&#1575;&#1593;&#1605;&#1604; &#1607;&#15=
+75;
+&#1585;&#1575; &#1578;&#1608;&#1587;&#1591;
+&#1662;&#1585;&#1583;&#1575;&#1586;&#1588;&#1711;&#1585; (</span><span dir=
+=3DLTR
+style=3D'font-size:16.0pt;mso-bidi-font-size:18.0pt;line-height:107%;font-f=
+amily:
+"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";mso-bidi-language:
+FA'>CPU</span><span dir=3DRTL></span><span lang=3DFA style=3D'font-size:18.=
+0pt;
+mso-ansi-font-size:16.0pt;line-height:107%;font-family:"B Nazanin";mso-asci=
+i-font-family:
+Bahnschrift;mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'><span
+dir=3DRTL></span>)</span><span dir=3DLTR></span><span lang=3DFA dir=3DLTR
+style=3D'font-size:16.0pt;mso-bidi-font-size:18.0pt;line-height:107%;font-f=
+amily:
+"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";mso-bidi-language:
+FA'><span dir=3DLTR></span> </span><span dir=3DRTL></span><span lang=3DFA
+style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+mso-bidi-language:FA'><span dir=3DRTL></span><span
+style=3D'mso-spacerun:yes'> </span>&#1578;&#1594;&#1740;&#1740;&#1585;
+&#1605;&#1740; &#1583;&#1607;&#1583;. &#1608;&#1602;&#1601;&#1607;
+&#1585;&#1575; &#1587;&#1582;&#1578; &#1575;&#1601;&#1586;&#1575;&#1585;
+&#1705;&#1575;&#1605;&#1662;&#1740;&#1608;&#1578;&#1585;
+&#1578;&#1608;&#1604;&#1740;&#1583; &#1605;&#1740; &#1705;&#1606;&#1583;
+&#1575;&#1605;&#1575; &#1593;&#1604;&#1578; &#1570;&#1606; &#1605;&#1740;
+&#1578;&#1608;&#1575;&#1606;&#1583; &#1606;&#1585;&#1605; &#1575;&#1601;&#1=
+586;&#1575;&#1585;&#1740;
+&#1576;&#1575;&#1588;&#1583;<o:p></o:p></span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><b><span lang=3DFA style=3D'font-size:24.0pt;mso-ansi-font-size:22.0=
+pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;color:#70AD47;mso-themecolor:accent6;
+mso-bidi-language:FA'>&#1575;&#1606;&#1608;&#1575;&#1593;
+&#1608;&#1602;&#1601;&#1607; &#1607;&#1575;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><b><span lang=3DFA style=3D'font-size:24.0pt;mso-ansi-font-size:22.0=
+pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;color:#4472C4;mso-themecolor:accent1;
+mso-bidi-language:FA'>&#1583;&#1575;&#1582;&#1604;&#1740; (</span></b><b><s=
+pan
+dir=3DLTR style=3D'font-size:22.0pt;mso-bidi-font-size:24.0pt;line-height:1=
+07%;
+font-family:"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";
+color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>Trap</span></b><=
+span
+dir=3DRTL></span><b><span lang=3DFA style=3D'font-size:24.0pt;mso-ansi-font=
+-size:
+22.0pt;line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahns=
+chrift;
+mso-hansi-font-family:Bahnschrift;color:#4472C4;mso-themecolor:accent1;
+mso-bidi-language:FA'><span dir=3DRTL></span>):</span></b><span lang=3DFA
+style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+mso-bidi-language:FA'>&#1576;&#1585; &#1575;&#1579;&#1585;
+&#1575;&#1580;&#1585;&#1575;&#1740;
+&#1583;&#1587;&#1578;&#1608;&#1585;&#1575;&#1578; &#1582;&#1608;&#1583;
+&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1576;&#1607;
+&#1589;&#1608;&#1585;&#1578; &#1583;&#1575;&#1582;&#1604;&#1740; &#1583;&#1=
+585;
+</span><span dir=3DLTR style=3D'font-size:16.0pt;mso-bidi-font-size:18.0pt;
+line-height:107%;font-family:"Bahnschrift",sans-serif;mso-bidi-font-family:
+"B Nazanin";mso-bidi-language:FA'>CPU</span><span dir=3DRTL></span><span la=
+ng=3DFA
+style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+mso-bidi-language:FA'><span dir=3DRTL></span> &#1585;&#1582; &#1605;&#1740;
+&#1583;&#1607;&#1583;.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><b><span lang=3DFA style=3D'font-size:24.0pt;mso-ansi-font-size:22.0=
+pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;color:#4472C4;mso-themecolor:accent1;
+mso-bidi-language:FA'>&#1582;&#1575;&#1585;&#1580;&#1740;:</span></b><span
+lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:1=
+07%;
+font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-fa=
+mily:
+Bahnschrift;mso-bidi-language:FA'>&#1575;&#1586;
+&#1583;&#1587;&#1578;&#1711;&#1575;&#1607; &#1607;&#1575;&#1740;
+&#1582;&#1575;&#1585;&#1580;&#1740; &#1605;&#1579;&#1604;
+&#1583;&#1587;&#1578;&#1711;&#1575;&#1607; &#1607;&#1575;&#1740;
+&#1608;&#1585;&#1608;&#1583;&#1740; &#1740;&#1575; &#1582;&#1585;&#1608;&#1=
+580;&#1740;
+&#1548; &#1578;&#1575;&#1740;&#1605;&#1585; &#1548;
+&#1589;&#1601;&#1581;&#1607; &#1705;&#1604;&#1740;&#1583;&#1608;
+&#1582;&#1591;&#1575;&#1607;&#1575;&#1740; &#1587;&#1582;&#1578;
+&#1575;&#1601;&#1586;&#1575;&#1585;&#1740; &#1606;&#1575;&#1588;&#1740;
+&#1605;&#1740; &#1588;&#1608;&#1583;.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><b><span lang=3DFA style=3D'font-size:24.0pt;mso-ansi-font-size:22.0=
+pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;color:#4472C4;mso-themecolor:accent1;
+mso-bidi-language:FA'>&#1606;&#1585;&#1605; &#1575;&#1601;&#1586;&#1575;&#1=
+585;
+(</span></b><b><span dir=3DLTR style=3D'font-size:22.0pt;mso-bidi-font-size=
+:24.0pt;
+line-height:107%;font-family:"Bahnschrift",sans-serif;mso-bidi-font-family:
+"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>SVC<=
+/span></b><span
+dir=3DRTL></span><b><span lang=3DFA style=3D'font-size:24.0pt;mso-ansi-font=
+-size:
+22.0pt;line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahns=
+chrift;
+mso-hansi-font-family:Bahnschrift;color:#4472C4;mso-themecolor:accent1;
+mso-bidi-language:FA'><span dir=3DRTL></span>)</span></b><span dir=3DLTR></=
+span><b><span
+dir=3DLTR style=3D'font-size:22.0pt;mso-bidi-font-size:24.0pt;line-height:1=
+07%;
+font-family:"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";
+color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'><span dir=3DLTR>=
+</span>:</span></b><span
+dir=3DRTL></span><span lang=3DFA style=3D'font-size:20.0pt;mso-ansi-font-si=
+ze:18.0pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'><span dir=3DRTL></s=
+pan>
+&#1576;&#1585; &#1575;&#1579;&#1585;
+&#1601;&#1585;&#1575;&#1582;&#1608;&#1575;&#1606;&#1740;
+&#1578;&#1608;&#1575;&#1576;&#1593; &#1587;&#1740;&#1587;&#1578;&#1605;&#17=
+40;
+&#1578;&#1608;&#1587;&#1591; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1=
+585;&#1582;
+&#1605;&#1740; &#1583;&#1607;&#1583;<o:p></o:p></span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><span lang=3DFA style=3D'font-size:20.0pt;mso-ansi-font-size:18.0pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'><o:p>&nbsp;</o:p></=
+span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><b><span lang=3DFA style=3D'font-size:28.0pt;mso-ansi-font-size:26.0=
+pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;color:#70AD47;mso-themecolor:accent6;
+mso-bidi-language:FA'>&#1578;&#1608;&#1586;&#1740;&#1593;
+&#1705;&#1606;&#1606;&#1583;&#1607;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><span lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'>&#1605;&#1608;&#160=
+4;&#1601;&#1607;
+&#1740; &#1583;&#1740;&#1711;&#1585;&#1740; &#1705;&#1607; &#1583;&#1585;
+&#1586;&#1605;&#1575;&#1606;&#1576;&#1606;&#1583;&#1740;
+&#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607;
+&#1583;&#1582;&#1575;&#1604;&#1578; &#1583;&#1575;&#1585;&#1583;&#1548;
+&#1578;&#1608;&#1586;&#1740;&#1593; &#1705;&#1606;&#1606;&#1583;&#1607; (</=
+span><span
+dir=3DLTR style=3D'font-size:16.0pt;mso-bidi-font-size:18.0pt;line-height:1=
+07%;
+font-family:"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";
+mso-bidi-language:FA'>Dispatcher</span><span dir=3DRTL></span><span lang=3D=
+FA
+style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+mso-bidi-language:FA'><span dir=3DRTL></span>) &#1575;&#1587;&#1578; &#1563;
+&#1578;&#1608;&#1586;&#1740;&#1593; &#1705;&#1606;&#1606;&#1583;&#1607; &#1=
+548;
+&#1662;&#1740;&#1605;&#1575;&#1606;&#1607; &#1575;&#1740; &#1575;&#1587;&#1=
+578;
+&#1705;&#1607; &#1705;&#1606;&#1578;&#1585;&#1604; &#1585;&#1575;
+&#1576;&#1607; &#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607;
+&#1575;&#1740; &#1605;&#1740; &#1583;&#1607;&#1583; &#1705;&#1607;
+&#1586;&#1605;&#1575;&#1606;&#1576;&#1606;&#1583;
+&#1705;&#1608;&#1578;&#1575;&#1607; &#1605;&#1583;&#1578; &#1548;
+&#1570;&#1606; &#1585;&#1575; &#1575;&#1606;&#1578;&#1582;&#1575;&#1576;
+&#1705;&#1585;&#1583;&#1607; &#1575;&#1587;&#1578;<o:p></o:p></span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'text-align:right;direction:rtl;unic=
+ode-bidi:
+embed'><span lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;color:#4472C4;mso-themecolor:accent1;
+mso-bidi-language:FA'>&#1575;&#1740;&#1606; &#1593;&#1605;&#1604;
+&#1588;&#1575;&#1605;&#1604; &#1605;&#1608;&#1575;&#1585;&#1583;
+&#1586;&#1740;&#1585; &#1575;&#1587;&#1578;:</span><span dir=3DLTR></span><=
+span
+lang=3DFA dir=3DLTR style=3D'font-size:16.0pt;mso-bidi-font-size:18.0pt;lin=
+e-height:
+107%;font-family:"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";
+color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'><span dir=3DLTR>=
+</span>
+</span><span lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;
+line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;
+mso-hansi-font-family:Bahnschrift;color:#4472C4;mso-themecolor:accent1;
+mso-bidi-language:FA'><o:p></o:p></span></p>
+
+<p class=3DMsoListParagraphCxSpFirst dir=3DRTL style=3D'margin-top:0in;marg=
+in-right:
+.5in;margin-bottom:8.0pt;margin-left:0in;mso-add-space:auto;text-align:righ=
+t;
+text-indent:-.25in;mso-list:l5 level1 lfo5;direction:rtl;unicode-bidi:embed=
+'><![if !supportLists]><b
+style=3D'mso-ansi-font-weight:normal'><span style=3D'font-size:16.0pt;mso-b=
+idi-font-size:
+18.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;color:#4472C4;mso-themecolor:accent1;mso-bidi-l=
+anguage:
+FA'><span style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New R=
+oman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><span dir=3DRTL></span><b><span lang=3DFA
+style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>&#1578;&#1593;&#=
+1608;&#1740;&#1590;
+&#1605;&#1578;&#1606; (&#1578;&#1593;&#1608;&#1740;&#1590;
+&#1576;&#1587;&#1578;&#1585;)</span></b><b><span dir=3DLTR style=3D'font-si=
+ze:16.0pt;
+mso-bidi-font-size:18.0pt;line-height:107%;font-family:"Bahnschrift",sans-s=
+erif;
+mso-bidi-font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;
+mso-bidi-language:FA'><o:p></o:p></span></b></p>
+
+<p class=3DMsoListParagraphCxSpMiddle dir=3DRTL style=3D'margin-top:0in;mar=
+gin-right:
+.5in;margin-bottom:8.0pt;margin-left:0in;mso-add-space:auto;text-align:righ=
+t;
+text-indent:-.25in;mso-list:l5 level1 lfo5;direction:rtl;unicode-bidi:embed=
+'><![if !supportLists]><b
+style=3D'mso-ansi-font-weight:normal'><span style=3D'font-size:16.0pt;mso-b=
+idi-font-size:
+18.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;color:#4472C4;mso-themecolor:accent1;mso-bidi-l=
+anguage:
+FA'><span style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New R=
+oman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><span dir=3DRTL></span><b><span lang=3DFA
+style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>&#1578;&#1594;&#=
+1740;&#1740;&#1585;
+&#1576;&#1607; &#1581;&#1575;&#1604;&#1578; &#1705;&#1575;&#1585;&#1576;&#1=
+585;</span></b><b><span
+dir=3DLTR style=3D'font-size:16.0pt;mso-bidi-font-size:18.0pt;line-height:1=
+07%;
+font-family:"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";
+color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'><o:p></o:p></spa=
+n></b></p>
+
+<p class=3DMsoListParagraphCxSpLast dir=3DRTL style=3D'margin-top:0in;margi=
+n-right:
+.5in;margin-bottom:8.0pt;margin-left:0in;mso-add-space:auto;text-align:righ=
+t;
+text-indent:-.25in;mso-list:l5 level1 lfo5;direction:rtl;unicode-bidi:embed=
+'><![if !supportLists]><b
+style=3D'mso-ansi-font-weight:normal'><span style=3D'font-size:16.0pt;mso-b=
+idi-font-size:
+18.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;color:#4472C4;mso-themecolor:accent1;mso-bidi-l=
+anguage:
+FA'><span style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New R=
+oman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><span dir=3DRTL></span><b><span lang=3DFA
+style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>&#1662;&#1585;&#=
+1588;
+&#1576;&#1607; &#1605;&#1581;&#1604; &#1605;&#1606;&#1575;&#1587;&#1576;&#1=
+740;
+&#1583;&#1585; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1740;
+&#1705;&#1575;&#1585;&#1576;&#1585; &#1608; &#1570;&#1594;&#1575;&#1586;
+&#1605;&#1580;&#1583;&#1583; &#1570;&#1606;
+&#1576;&#1585;&#1606;&#1575;&#1605;&#1607;</span></b><b><span dir=3DLTR
+style=3D'font-size:16.0pt;mso-bidi-font-size:18.0pt;line-height:107%;font-f=
+amily:
+"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";color:#4472C4;
+mso-themecolor:accent1;mso-bidi-language:FA'><o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'margin-right:.25in;text-align:right;
+direction:rtl;unicode-bidi:embed'><span lang=3DFA style=3D'font-size:18.0pt;
+mso-ansi-font-size:16.0pt;line-height:107%;font-family:"B Nazanin";mso-asci=
+i-font-family:
+Bahnschrift;mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'>&#1578;=
+&#1608;&#1586;&#1740;&#1593;
+&#1705;&#1606;&#1606;&#1583;&#1607; &#1576;&#1575;&#1740;&#1583;
+&#1587;&#1585;&#1593;&#1578; &#1576;&#1575;&#1604;&#1575;&#1740;&#1740;
+&#1583;&#1575;&#1588;&#1578;&#1607; &#1576;&#1575;&#1588;&#1583;&#1548; &#1=
+586;&#1740;&#1585;&#1575;
+&#1607;&#1606;&#1711;&#1575;&#1605; &#1578;&#1593;&#1608;&#1740;&#1590;
+&#1607;&#1585; &#1601;&#1585;&#1575;&#1740;&#1606;&#1583;
+&#1601;&#1585;&#1575;&#1582;&#1608;&#1575;&#1606;&#1740; &#1605;&#1740;
+&#1588;&#1608;&#1583;. &#1605;&#1583;&#1578;
+&#1586;&#1605;&#1575;&#1606;&#1740; &#1705;&#1607;
+&#1578;&#1608;&#1586;&#1740;&#1593; &#1705;&#1606;&#1606;&#1583;&#1607;
+&#1589;&#1585;&#1601; &#1605;&#1740; &#1705;&#1606;&#1583; &#1578;&#1575;
+&#1740;&#1705; &#1601;&#1585;&#1575;&#1740;&#1606;&#1583; &#1585;&#1575;
+&#1605;&#1578;&#1608;&#1602;&#1601; &#1608;
+&#1601;&#1585;&#1575;&#1740;&#1606;&#1583; &#1583;&#1740;&#1711;&#1585;&#17=
+40;
+&#1585;&#1575; &#1588;&#1585;&#1608;&#1593; &#1705;&#1606;&#1583;</span><b>=
+<span
+lang=3DFA style=3D'font-size:20.0pt;mso-ansi-font-size:18.0pt;line-height:1=
+07%;
+font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-fa=
+mily:
+Bahnschrift;mso-bidi-language:FA'> &#1578;&#1575;&#1582;&#1740;&#1585;
+&#1578;&#1608;&#1586;&#1740;&#1593; (</span></b><b><span dir=3DLTR
+style=3D'font-size:18.0pt;mso-bidi-font-size:20.0pt;line-height:107%;font-f=
+amily:
+"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";mso-bidi-language:
+FA'>Dispatch Latency</span></b><span dir=3DRTL></span><b><span lang=3DFA
+style=3D'font-size:20.0pt;mso-ansi-font-size:18.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+mso-bidi-language:FA'><span dir=3DRTL></span>) </span></b><span lang=3DFA
+style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+mso-bidi-language:FA'>&#1606;&#1575;&#1605; &#1583;&#1575;&#1585;&#1583;<o:=
+p></o:p></span></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'margin-right:.25in;text-align:right;
+direction:rtl;unicode-bidi:embed'><b><span lang=3DFA style=3D'font-size:24.=
+0pt;
+mso-ansi-font-size:22.0pt;line-height:107%;font-family:"B Nazanin";mso-asci=
+i-font-family:
+Bahnschrift;mso-hansi-font-family:Bahnschrift;color:#70AD47;mso-themecolor:
+accent6;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=3DMsoNormal dir=3DRTL style=3D'margin-right:.25in;text-align:right;
+direction:rtl;unicode-bidi:embed'><b><span lang=3DFA style=3D'font-size:24.=
+0pt;
+mso-ansi-font-size:22.0pt;line-height:107%;font-family:"B Nazanin";mso-asci=
+i-font-family:
+Bahnschrift;mso-hansi-font-family:Bahnschrift;color:#70AD47;mso-themecolor:
+accent6;mso-bidi-language:FA'>&#1605;&#1593;&#1740;&#1575;&#1585;
+&#1607;&#1575;&#1740; &#1586;&#1605;&#1575;&#1606;&#1576;&#1606;&#1583;&#17=
+40;<o:p></o:p></span></b></p>
+
+<p class=3DMsoListParagraphCxSpFirst dir=3DRTL style=3D'margin-top:0in;marg=
+in-right:
+.75in;margin-bottom:8.0pt;margin-left:0in;mso-add-space:auto;text-align:rig=
+ht;
+text-indent:-.25in;mso-list:l1 level1 lfo6;direction:rtl;unicode-bidi:embed=
+'><![if !supportLists]><b
+style=3D'mso-ansi-font-weight:normal'><span style=3D'font-size:22.0pt;mso-b=
+idi-font-size:
+24.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;color:#70AD47;mso-themecolor:accent6;mso-bidi-l=
+anguage:
+FA'><span style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New R=
+oman"'>&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><span dir=3DRTL></span><b><span lang=3DFA
+style=3D'font-size:24.0pt;mso-ansi-font-size:22.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'>&#1576;&#1607;&#=
+1585;&#1607;
+&#1608;&#1585;&#1740; &#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#16=
+07; </span></b><span
+dir=3DLTR></span><b><span dir=3DLTR style=3D'font-size:22.0pt;mso-bidi-font=
+-size:
+24.0pt;line-height:107%;font-family:"Bahnschrift",sans-serif;mso-bidi-font-=
+family:
+"B Nazanin";color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><span
+dir=3DLTR></span>:</span></b><span dir=3DRTL></span><span style=3D'font-siz=
+e:20.0pt;
+mso-ansi-font-size:18.0pt;line-height:107%;font-family:"B Nazanin";mso-asci=
+i-font-family:
+Bahnschrift;mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'><span
+dir=3DRTL></span> </span><span lang=3DFA style=3D'font-size:18.0pt;mso-ansi=
+-font-size:
+16.0pt;line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahns=
+chrift;
+mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'>&#1605;&#1740;&#158=
+2;&#1608;&#1575;&#1607;&#1740;&#1605;
+&#1578;&#1575; &#1570;&#1606; &#1580;&#1575;&#1740;&#1740; &#1705;&#1607;
+&#1605;&#1605;&#1705;&#1606; &#1575;&#1587;&#1578;
+&#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607;
+&#1605;&#1588;&#1594;&#1608;&#1604; &#1576;&#1575;&#1588;&#1583;.
+&#1583;&#1585;&#1589;&#1583; &#1576;&#1607;&#1585;&#1607; &#1608;&#1585;&#1=
+740;
+&#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607; &#1605;&#1740;
+&#1578;&#1608;&#1575;&#1606;&#1583; &#1575;&#1586; 0 &#1578;&#1575; 100
+&#1576;&#1575;&#1588;&#1583; &#1548; &#1583;&#1585; &#1740;&#1705;
+&#1587;&#1740;&#1587;&#1578;&#1605; &#1608;&#1575;&#1602;&#1593;&#1740; &#1=
+548;
+&#1576;&#1575;&#1740;&#1583; &#1575;&#1586; 40 (&#1576;&#1585;&#1575;&#1740;
+&#1587;&#1740;&#1587;&#1578;&#1605; &#1607;&#1575;&#1740;&#1740; &#1576;&#1=
+575;
+&#1576;&#1575;&#1585; &#1705;&#1605;) &#1578;&#1575; 90
+&#1583;&#1585;&#1589;&#1583; (&#1587;&#1740;&#1587;&#1578;&#1605;
+&#1607;&#1575;&#1740;&#1740; &#1576;&#1575; &#1576;&#1575;&#1585;
+&#1586;&#1740;&#1575;&#1583;) &#1576;&#1575;&#1588;&#1583;</span><b><span
+dir=3DLTR style=3D'font-size:22.0pt;mso-bidi-font-size:24.0pt;line-height:1=
+07%;
+font-family:"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><o:p></o:p></spa=
+n></b></p>
+
+<p class=3DMsoListParagraphCxSpMiddle dir=3DRTL style=3D'margin-top:0in;mar=
+gin-right:
+.75in;margin-bottom:8.0pt;margin-left:0in;mso-add-space:auto;text-align:rig=
+ht;
+direction:rtl;unicode-bidi:embed'><b><span dir=3DLTR style=3D'font-size:22.=
+0pt;
+mso-bidi-font-size:24.0pt;line-height:107%;font-family:"Bahnschrift",sans-s=
+erif;
+mso-bidi-font-family:"B Nazanin";color:#70AD47;mso-themecolor:accent6;
+mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=3DMsoListParagraphCxSpMiddle dir=3DRTL style=3D'margin-top:0in;mar=
+gin-right:
+.75in;margin-bottom:8.0pt;margin-left:0in;mso-add-space:auto;text-align:rig=
+ht;
+text-indent:-.25in;mso-list:l1 level1 lfo6;direction:rtl;unicode-bidi:embed=
+'><![if !supportLists]><b
+style=3D'mso-ansi-font-weight:normal'><span style=3D'font-size:22.0pt;mso-b=
+idi-font-size:
+24.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;color:#70AD47;mso-themecolor:accent6;mso-bidi-l=
+anguage:
+FA'><span style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New R=
+oman"'>&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><span dir=3DRTL></span><b><span lang=3DFA
+style=3D'font-size:24.0pt;mso-ansi-font-size:22.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'>&#1578;&#1608;&#=
+1575;&#1606;
+&#1593;&#1605;&#1604;&#1740;&#1575;&#1578;&#1740; (</span></b><b><span dir=
+=3DLTR
+style=3D'font-size:22.0pt;mso-bidi-font-size:24.0pt;line-height:107%;font-f=
+amily:
+"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";color:#70AD47;
+mso-themecolor:accent6;mso-bidi-language:FA'>Throughput</span></b><span
+dir=3DRTL></span><b><span lang=3DFA style=3D'font-size:24.0pt;mso-ansi-font=
+-size:
+22.0pt;line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahns=
+chrift;
+mso-hansi-font-family:Bahnschrift;color:#70AD47;mso-themecolor:accent6;
+mso-bidi-language:FA'><span dir=3DRTL></span>)(&#1711;&#1584;&#1585;&#1583;=
+&#1607;&#1740;):</span></b><span
+lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:1=
+07%;
+font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-fa=
+mily:
+Bahnschrift;mso-bidi-language:FA'>&#1575;&#1711;&#1585;
+&#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607; <span
+style=3D'mso-spacerun:yes'> </span>&#1605;&#1588;&#1594;&#1608;&#1604;
+&#1575;&#1580;&#1585;&#1575;&#1740; &#1601;&#1585;&#1570;&#1740;&#1606;&#15=
+83;
+&#1607;&#1575; &#1576;&#1575;&#1588;&#1583;&#1548; &#1705;&#1575;&#1585;&#1=
+740;
+&#1705;&#1607; &#1583;&#1585; &#1581;&#1575;&#1604;
+&#1575;&#1606;&#1580;&#1575;&#1605; &#1575;&#1587;&#1578;. &#1740;&#1705;
+&#1605;&#1593;&#1740;&#1575;&#1585; &#1705;&#1575;&#1585;&#1548;
+&#1578;&#1593;&#1583;&#1575; &#1601;&#1585;&#1575;&#1740;&#1606;&#1583; &#1=
+607;&#1575;&#1740;&#1740;
+&#1575;&#1587;&#1578; &#1705;&#1607; &#1583;&#1585;
+&#1608;&#1575;&#1581;&#1583; &#1586;&#1605;&#1575;&#1606;
+&#1705;&#1575;&#1605;&#1604; &#1605;&#1740; &#1588;&#1608;&#1606;&#1583;
+&#1608; &#1578;&#1608;&#1575;&#1606;
+&#1593;&#1605;&#1604;&#1740;&#1575;&#1578;&#1740; &#1606;&#1575;&#1605;
+&#1583;&#1575;&#1585;&#1583;. &#1576;&#1585;&#1575;&#1740;
+&#1601;&#1585;&#1575;&#1740;&#1606;&#1583; &#1607;&#1575;&#1740;
+&#1591;&#1608;&#1604;&#1575;&#1606;&#1740; &#1548;&#1605;&#1605;&#1705;&#16=
+06;
+&#1575;&#1587;&#1578; &#1576;&#1585; &#1581;&#1587;&#1576;
+&#1587;&#1575;&#1593;&#1578; &#1587;&#1606;&#1580;&#1740;&#1583;&#1607;
+&#1588;&#1608;&#1583;. &#1576;&#1585;&#1575;&#1740;
+&#1578;&#1585;&#1575;&#1705;&#1606;&#1588; &#1607;&#1575;&#1740;
+&#1705;&#1608;&#1578;&#1575;&#1607; &#1578;&#1608;&#1575;&#1606;
+&#1593;&#1605;&#1604;&#1740;&#1575;&#1578;&#1740; &#1605;&#1605;&#1705;&#16=
+06;
+&#1575;&#1587;&#1578; 10 &#1601;&#1585;&#1575;&#1740;&#1606;&#1583;
+&#1583;&#1585; &#1579;&#1575;&#1606;&#1740;&#1607; &#1576;&#1575;&#1588;&#1=
+583;</span><b><span
+dir=3DLTR style=3D'font-size:22.0pt;mso-bidi-font-size:24.0pt;line-height:1=
+07%;
+font-family:"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><o:p></o:p></spa=
+n></b></p>
+
+<p class=3DMsoListParagraphCxSpMiddle><b><span lang=3DFA dir=3DRTL style=3D=
+'font-size:
+24.0pt;mso-ansi-font-size:22.0pt;line-height:107%;font-family:"B Nazanin";
+mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnschrift;color:#=
+70AD47;
+mso-themecolor:accent6;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></=
+p>
+
+<p class=3DMsoListParagraphCxSpMiddle dir=3DRTL style=3D'margin-top:0in;mar=
+gin-right:
+.75in;margin-bottom:8.0pt;margin-left:0in;mso-add-space:auto;text-align:rig=
+ht;
+direction:rtl;unicode-bidi:embed'><b><span dir=3DLTR style=3D'font-size:22.=
+0pt;
+mso-bidi-font-size:24.0pt;line-height:107%;font-family:"Bahnschrift",sans-s=
+erif;
+mso-bidi-font-family:"B Nazanin";color:#70AD47;mso-themecolor:accent6;
+mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=3DMsoListParagraphCxSpMiddle dir=3DRTL style=3D'margin-top:0in;mar=
+gin-right:
+.75in;margin-bottom:8.0pt;margin-left:0in;mso-add-space:auto;text-align:rig=
+ht;
+text-indent:-.25in;mso-list:l1 level1 lfo6;direction:rtl;unicode-bidi:embed=
+'><![if !supportLists]><b
+style=3D'mso-ansi-font-weight:normal'><span style=3D'font-size:22.0pt;mso-b=
+idi-font-size:
+24.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;color:#70AD47;mso-themecolor:accent6;mso-bidi-l=
+anguage:
+FA'><span style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New R=
+oman"'>&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><span dir=3DRTL></span><b><span lang=3DFA
+style=3D'font-size:22.0pt;mso-ansi-font-size:20.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'>&#1586;&#1605;&#=
+1575;&#1606;
+&#1576;&#1585;&#1711;&#1588;&#1578; (</span></b><b><span dir=3DLTR
+style=3D'font-size:20.0pt;mso-bidi-font-size:22.0pt;line-height:107%;font-f=
+amily:
+"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";color:#70AD47;
+mso-themecolor:accent6;mso-bidi-language:FA'>Turnaround time</span></b><span
+dir=3DRTL></span><b><span lang=3DFA style=3D'font-size:22.0pt;mso-ansi-font=
+-size:
+20.0pt;line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahns=
+chrift;
+mso-hansi-font-family:Bahnschrift;color:#70AD47;mso-themecolor:accent6;
+mso-bidi-language:FA'><span dir=3DRTL></span>) (&#1740;&#1575; &#1586;&#160=
+5;&#1575;&#1606;
+&#1705;&#1604;):</span></b><span lang=3DFA style=3D'font-size:18.0pt;mso-an=
+si-font-size:
+16.0pt;line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:Bahns=
+chrift;
+mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'>&#1575;&#1586;
+&#1606;&#1602;&#1591;&#1607; &#1606;&#1592;&#1585; &#1740;&#1705;
+&#1601;&#1585;&#1575;&#1740;&#1606;&#1583; &#1582;&#1575;&#1589;&#1548;
+&#1605;&#1607;&#1605; &#1578;&#1585;&#1740;&#1606;
+&#1605;&#1593;&#1740;&#1575;&#1585;&#1548; &#1586;&#1605;&#1575;&#1606;
+&#1575;&#1580;&#1585;&#1575;&#1740; &#1740;&#1705;
+&#1601;&#1585;&#1575;&#1740;&#1606;&#1583; &#1575;&#1587;&#1578;.
+&#1601;&#1575;&#1589;&#1604;&#1607; &#1740; &#1586;&#1605;&#1575;&#1606;&#1=
+740;
+&#1575;&#1586; &#1586;&#1605;&#1575;&#1606; &#1578;&#1581;&#1608;&#1740;&#1=
+604;
+&#1601;&#1585;&#1575;&#1740;&#1606;&#1583; &#1548; &#1578;&#1575;
+&#1586;&#1605;&#1575;&#1606; &#1705;&#1575;&#1605;&#1604; &#1588;&#1583;&#1=
+606;
+&#1575;&#1580;&#1585;&#1575;&#1740; &#1570;&#1606;<span style=3D'background=
+:yellow;
+mso-highlight:yellow'>&#1548; &#1586;&#1605;&#1575;&#1606; &#1576;&#1585;&#=
+1711;&#1588;&#1578;
+&#1606;&#1575;&#1605; &#1583;&#1575;&#1585;&#1583;.</span>
+&#1586;&#1605;&#1575;&#1606; &#1576;&#1575;&#1586;&#1711;&#1588;&#1578;
+&#1605;&#1580;&#1605;&#1608;&#1593; &#1586;&#1605;&#1575;&#1606;
+&#1575;&#1606;&#1578;&#1592;&#1575;&#1585; &#1576;&#1585;&#1575;&#1740;
+&#1602;&#1585;&#1575;&#1585; &#1711;&#1585;&#1601;&#1578;&#1606; &#1583;&#1=
+585;
+&#1581;&#1575;&#1601;&#1590;&#1607;&#1548; &#1605;&#1575;&#1606;
+&#1575;&#1606;&#1578;&#1592;&#1575;&#1585; &#1576;&#1585;&#1575;&#1740;
+&#1602;&#1585;&#1575;&#1585; &#1711;&#1585;&#1601;&#1578;&#1606; &#1583;&#1=
+585;
+&#1589;&#1601; &#1570;&#1605;&#1575;&#1583;&#1607; &#1548;
+&#1575;&#1580;&#1585;&#1575;
+&#1583;&#1585;&#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607; &#16=
+08;
+&#1593;&#1605;&#1604; </span><span dir=3DLTR style=3D'font-size:16.0pt;mso-=
+bidi-font-size:
+18.0pt;line-height:107%;font-family:"Bahnschrift",sans-serif;mso-bidi-font-=
+family:
+"B Nazanin";mso-bidi-language:FA'>i/o</span><span dir=3DRTL></span><span la=
+ng=3DFA
+style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+mso-bidi-language:FA'><span dir=3DRTL></span> &#1575;&#1587;&#1578;.</span>=
+<b><span
+dir=3DLTR style=3D'font-size:22.0pt;mso-bidi-font-size:24.0pt;line-height:1=
+07%;
+font-family:"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><o:p></o:p></spa=
+n></b></p>
+
+<p class=3DMsoListParagraphCxSpMiddle dir=3DRTL style=3D'margin-top:0in;mar=
+gin-right:
+.75in;margin-bottom:8.0pt;margin-left:0in;mso-add-space:auto;text-align:rig=
+ht;
+direction:rtl;unicode-bidi:embed'><b><span dir=3DLTR style=3D'font-size:22.=
+0pt;
+mso-bidi-font-size:24.0pt;line-height:107%;font-family:"Bahnschrift",sans-s=
+erif;
+mso-bidi-font-family:"B Nazanin";color:#70AD47;mso-themecolor:accent6;
+mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=3DMsoListParagraphCxSpMiddle dir=3DRTL style=3D'margin-top:0in;mar=
+gin-right:
+.75in;margin-bottom:8.0pt;margin-left:0in;mso-add-space:auto;text-align:rig=
+ht;
+text-indent:-.25in;mso-list:l1 level1 lfo6;direction:rtl;unicode-bidi:embed=
+'><![if !supportLists]><b
+style=3D'mso-ansi-font-weight:normal'><span style=3D'font-size:22.0pt;mso-b=
+idi-font-size:
+24.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;color:#70AD47;mso-themecolor:accent6;mso-bidi-l=
+anguage:
+FA'><span style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New R=
+oman"'>&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><span dir=3DRTL></span><b><span lang=3DFA
+style=3D'font-size:24.0pt;mso-ansi-font-size:22.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'>&#1586;&#1605;&#=
+1575;&#1606;
+&#1575;&#1606;&#1578;&#1592;&#1575;&#1585;:</span></b><span lang=3DFA
+style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+mso-bidi-language:FA'>&#1575;&#1604;&#1711;&#1608;&#1585;&#1740;&#1578;&#16=
+05;
+&#1586;&#1605;&#1575;&#1606;&#1576;&#1606;&#1583;&#1740;
+&#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607;&#1548; &#1576;&#15=
+85;
+&#1605;&#1583;&#1578; &#1586;&#1605;&#1575;&#1606;&#1740; &#1705;&#1607;
+&#1583;&#1585; &#1575;&#1579;&#1606;&#1575;&#1740; &#1570;&#1606;
+&#1601;&#1585;&#1575;&#1740;&#1606;&#1583;&#1740; &#1705;&#1607;
+&#1575;&#1580;&#1585;&#1575; &#1605;&#1740; &#1588;&#1608;&#1583;
+&#1740;&#1575; &#1593;&#1605;&#1604; </span><span dir=3DLTR style=3D'font-s=
+ize:
+16.0pt;mso-bidi-font-size:18.0pt;line-height:107%;font-family:"Bahnschrift"=
+,sans-serif;
+mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'>i/o</span><span dir=
+=3DRTL></span><span
+lang=3DFA style=3D'font-size:18.0pt;mso-ansi-font-size:16.0pt;line-height:1=
+07%;
+font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-fa=
+mily:
+Bahnschrift;mso-bidi-language:FA'><span dir=3DRTL></span>
+&#1575;&#1606;&#1580;&#1575;&#1605; &#1605;&#1740; &#1583;&#1607;&#1583;&#1=
+548;
+&#1578;&#1575;&#1579;&#1740;&#1585; &#1606;&#1583;&#1575;&#1585;&#1583;.&#1=
+601;&#1602;&#1591;
+&#1576;&#1585; &#1605;&#1583;&#1578; &#1586;&#1605;&#1575;&#1606;&#1740;
+&#1705;&#1607; &#1601;&#1585;&#1575;&#1740;&#1606;&#1583;<span
+style=3D'mso-spacerun:yes'>  </span>&#1583;&#1585; &#1589;&#1601;
+&#1570;&#1605;&#1575;&#1583;&#1607; &#1605;&#1606;&#1578;&#1592;&#1585;
+&#1605;&#1740; &#1605;&#1575;&#1606;&#1583; &#1605;&#1608;&#1579;&#1585;
+&#1575;&#1587;&#1578;&#1548; &#1586;&#1605;&#1575;&#1606;
+&#1575;&#1606;&#1578;&#1592;&#1575;&#1585; &#1576;&#1585;&#1575;&#1576;&#15=
+85; &#1576;&#1575;
+&#1605;&#1580;&#1605;&#1608;&#1593; &#1605;&#1608;&#1583;&#1578;
+&#1607;&#1575;&#1740; &#1575;&#1606;&#1578;&#1592;&#1575;&#1585; &#1740;&#1=
+705;
+&#1601;&#1585;&#1575;&#1740;&#1606;&#1583; &#1583;&#1585; &#1589;&#1601;
+&#1570;&#1605;&#1575;&#1583;&#1607; &#1575;&#1587;&#1578;.</span><b><span
+dir=3DLTR style=3D'font-size:22.0pt;mso-bidi-font-size:24.0pt;line-height:1=
+07%;
+font-family:"Bahnschrift",sans-serif;mso-bidi-font-family:"B Nazanin";
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><o:p></o:p></spa=
+n></b></p>
+
+<p class=3DMsoListParagraphCxSpMiddle><b><span lang=3DFA dir=3DRTL style=3D=
+'font-size:
+24.0pt;mso-ansi-font-size:22.0pt;line-height:107%;font-family:"B Nazanin";
+mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnschrift;color:#=
+70AD47;
+mso-themecolor:accent6;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></=
+p>
+
+<p class=3DMsoListParagraphCxSpLast dir=3DRTL style=3D'margin-top:0in;margi=
+n-right:
+.75in;margin-bottom:8.0pt;margin-left:0in;mso-add-space:auto;text-align:rig=
+ht;
+text-indent:-.25in;mso-list:l1 level1 lfo6;direction:rtl;unicode-bidi:embed=
+'><![if !supportLists]><b
+style=3D'mso-ansi-font-weight:normal'><span style=3D'font-size:22.0pt;mso-b=
+idi-font-size:
+24.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;color:#70AD47;mso-themecolor:accent6;mso-bidi-l=
+anguage:
+FA'><span style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New R=
+oman"'>&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><span dir=3DRTL></span><b><span lang=3DFA
+style=3D'font-size:24.0pt;mso-ansi-font-size:22.0pt;line-height:107%;font-f=
+amily:
+"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-family:Bahnsch=
+rift;
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><span
+style=3D'mso-spacerun:yes'> </span>&#1586;&#1605;&#1575;&#1606;
+&#1662;&#1575;&#1587;&#1582;:</span></b><span lang=3DFA style=3D'font-size:=
+18.0pt;
+mso-ansi-font-size:16.0pt;line-height:107%;font-family:"B Nazanin";mso-asci=
+i-font-family:
+Bahnschrift;mso-hansi-font-family:Bahnschrift;mso-bidi-language:FA'>&#1583;=
+&#1585;
+&#1740;&#1705; &#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1=
+604;
+&#1605;&#1581;&#1575;&#1608;&#1585;&#1607; &#1575;&#1740; &#1548;
+&#1586;&#1605;&#1575;&#1606; &#1576;&#1575;&#1586;&#1711;&#1588;&#1578;
+&#1605;&#1605;&#1705;&#1606; &#1575;&#1587;&#1578;
+&#1605;&#1593;&#1740;&#1575;&#1585; &#1582;&#1608;&#1576;&#1740;
+&#1606;&#1576;&#1575;&#1588;&#1583;. &#1575;&#1594;&#1604;&#1576;
+&#1740;&#1705; &#1601;&#1585;&#1575;&#1740;&#1606;&#1583;
+&#1605;&#1605;&#1705;&#1606; &#1575;&#1587;&#1578; &#1576;&#1593;&#1590;&#1=
+740;
+&#1575;&#1586; &#1606;&#1578;&#1575;&#1740;&#1580; &#1585;&#1575;
+&#1586;&#1608;&#1583; &#1578;&#1608;&#1604;&#1740;&#1583; &#1705;&#1606;&#1=
+583;
+&#1608; &#1607;&#1606;&#1711;&#1575;&#1605;&#1740; &#1705;&#1607;
+&#1575;&#1740;&#1606; &#1606;&#1578;&#1575;&#1740;&#1580; &#1576;&#1607;
+&#1582;&#1585;&#1608;&#1580;&#1740; &#1605;&#1740;
+&#1585;&#1608;&#1606;&#1583;&#1548; &#1605;&#1581;&#1575;&#1587;&#1576;&#15=
+75;&#1578;
+&#1583;&#1740;&#1711;&#1585;&#1740; &#1589;&#1608;&#1585;&#1578; &#1605;&#1=
+740;
+&#1711;&#1740;&#1585;&#1583; &#1608; &#1606;&#1578;&#1575;&#1740;&#1580;
+&#1583;&#1740;&#1711;&#1585;&#1740; &#1576;&#1607;
+&#1582;&#1585;&#1608;&#1580;&#1740; &#1576;&#1585;&#1608;&#1583;.
+&#1604;&#1584;&#1575; &#1605;&#1593;&#1740;&#1575;&#1585;
+&#1583;&#1740;&#1711;&#1585;&#1548; &#1586;&#1605;&#1575;&#1606;
+&#1578;&#1581;&#1608;&#1740;&#1604; <span
+style=3D'mso-spacerun:yes'> </span>&#1740;&#1705;
+&#1583;&#1585;&#1582;&#1608;&#1575;&#1587;&#1578; &#1578;&#1575;
+&#1583;&#1585;&#1740;&#1575;&#1601;&#1578; &#1575;&#1608;&#1604;&#1740;&#16=
+06;
+&#1662;&#1575;&#1587;&#1582; &#1575;&#1587;&#1578;. <span style=3D'backgrou=
+nd:
+yellow;mso-highlight:yellow'>&#1575;&#1740;&#1606;
+&#1605;&#1593;&#1740;&#1575;&#1585; &#1705;&#1607; &#1586;&#1605;&#1575;&#1=
+606;
+&#1662;&#1575;&#1587;&#1582; &#1606;&#1575;&#1605; &#1583;&#1575;&#1585;&#1=
+583;</span>
+&#1548; &#1605;&#1583;&#1578; &#1586;&#1605;&#1575;&#1606;&#1740;
+&#1705;&#1607; &#1591;&#1608;&#1604; &#1605;&#1740; &#1705;&#1588;&#1583;
+&#1662;&#1575;&#1587;&#1582; &#1570;&#1605;&#1575;&#1583;&#1607;
+&#1588;&#1608;&#1583; &#1548; &#1606;&#1607; &#1605;&#1583;&#1578;
+&#1586;&#1605;&#1575;&#1606;&#1740; &#1705;&#1607; &#1591;&#1608;&#1604;
+&#1605;&#1740; &#1705;&#1588;&#1583; &#1578;&#1575; &#1570;&#1606;
+&#1662;&#1575;&#1587;&#1582; &#1670;&#1575;&#1662; &#1588;&#1608;&#1583; .
+&#1586;&#1605;&#1575;&#1606; &#1576;&#1585;&#1711;&#1588;&#1578; &#1548;
+&#1576;&#1607; &#1587;&#1585;&#1593;&#1578;
+&#1583;&#1587;&#1578;&#1711;&#1575;&#1607; &#1582;&#1585;&#1608;&#1580;&#17=
+40;
+&#1576;&#1587;&#1578;&#1711;&#1740; &#1583;&#1575;&#1585;&#1583;.</span><b>=
+<span
+lang=3DFA style=3D'font-size:24.0pt;mso-ansi-font-size:22.0pt;line-height:1=
+07%;
+font-family:"B Nazanin";mso-ascii-font-family:Bahnschrift;mso-hansi-font-fa=
+mily:
+Bahnschrift;color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><o:p=
+></o:p></span></b></p>
 
 </div>
 
@@ -3100,7 +4438,7 @@ line-height:107%;font-family:"Bahnschrift",sans-serif;mso-bidi-font-family:
 
 </html>
 
-------=_NextPart_01D95377.2FF8ABE0
+------=_NextPart_01D95387.BC6EAB00
 Content-Location: file:///C:/AF8A99D3/Lecture-3_files/themedata.thmx
 Content-Transfer-Encoding: base64
 Content-Type: application/vnd.ms-officetheme
@@ -3165,7 +4503,7 @@ FgAAAAAAAAAAAAAAAADWAgAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbFBLAQItABQABgAIAAAAIQAN
 0ZCftgAAABsBAAAnAAAAAAAAAAAAAAAAAJ0KAAB0aGVtZS90aGVtZS9fcmVscy90aGVtZU1hbmFn
 ZXIueG1sLnJlbHNQSwUGAAAAAAUABQBdAQAAmAsAAAAA
 
-------=_NextPart_01D95377.2FF8ABE0
+------=_NextPart_01D95387.BC6EAB00
 Content-Location: file:///C:/AF8A99D3/Lecture-3_files/colorschememapping.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
@@ -3175,7 +4513,7 @@ Content-Type: text/xml
  bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
 2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
 ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
-------=_NextPart_01D95377.2FF8ABE0
+------=_NextPart_01D95387.BC6EAB00
 Content-Location: file:///C:/AF8A99D3/Lecture-3_files/image001.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -14737,7 +16075,7 @@ i467rpOTqR4/a+cnOWtu8dY3HnAba/IB2UBbefIlHit712DAQc/Yn7bZq6agFwuF34xJdGEH3Mau
 GXbs0R9ptvPclKwX5i2o0I2tKWzFY9Z4kWkNjH/7uXm2dgft4m3cEE7ezs9jfPjp8v8H6zrzq2zK
 c5oAAAAASUVORK5CYIJ=
 
-------=_NextPart_01D95377.2FF8ABE0
+------=_NextPart_01D95387.BC6EAB00
 Content-Location: file:///C:/AF8A99D3/Lecture-3_files/image002.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -19048,7 +20386,7 @@ T0pzbHLmqo11G/jpgIN7dzEcg/Hwg9cCsME9+B7jQK6UgSZUqm5u/jajreul00Hi7wJ8wygzbsZR
 YGjgXUucJRp9xcxktrzT87WPaXHIBFFT/8YFyviZC4AfcsgVBOR1aaxd6x7WJQvgzZzJtU5MIolQ
 uJi1f2CDAcUbNkg26JquRCB20zhLcvr/D2lh/RoTuee0AAAAAElFTkSuQmCC
 
-------=_NextPart_01D95377.2FF8ABE0
+------=_NextPart_01D95387.BC6EAB00
 Content-Location: file:///C:/AF8A99D3/Lecture-3_files/image003.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -26554,7 +27892,7 @@ O7X5aLklKL2IcKf7+2yMxVmF5Jv8SVHVN/ND6dxJbXwy+b+Sy8RBKP89cWK/1Zwc/uLHY0qWoFok
 ii7JL7EbFt2zhI4LaTSXkxcbxkOy5lAqF7rfRZ/Q5vs+IRQHf3779v8A7vnQgmfjoWYAAAAASUVO
 RK5CYIJ=
 
-------=_NextPart_01D95377.2FF8ABE0
+------=_NextPart_01D95387.BC6EAB00
 Content-Location: file:///C:/AF8A99D3/Lecture-3_files/image004.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -34756,7 +36094,7 @@ vDsPgTm+z1z9+va84755B/qCn6+gkTwuxncl233hSLo0LsROWYJEurdwpWFu9VqLSLIZOfe2ZCJK
 m7rOa3iIbvogbfr3CkF0KXafv3CYcSMLMX1iwshSDOyLAG6KneN35kxX08gF/KXPiUvkQwPgkeHE
 5M47bBYvtXn1N7eT4xuVS591QC97zQdfblUigDNnz27/P1nrQlI4tZ0iAAAAAElFTkSuQmCC
 
-------=_NextPart_01D95377.2FF8ABE0
+------=_NextPart_01D95387.BC6EAB00
 Content-Location: file:///C:/AF8A99D3/Lecture-3_files/image005.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -40298,7 +41636,7 @@ IQADcNcFPnMwb8g/nyBxAzAmyA5bxsxWA8jnut+e9btdK+ALg9StjkDGcslM8nyQS9i376Qy8Xnc
 1FLZSaVkYJJIqrebFzrv+3OaWy4QkOjAot15sz46cte+Ns6HmmuYceYsQpAVIFjioAHMFvNs/weO
 iR91laNkFwAAAABJRU5ErkJggk==
 
-------=_NextPart_01D95377.2FF8ABE0
+------=_NextPart_01D95387.BC6EAB00
 Content-Location: file:///C:/AF8A99D3/Lecture-3_files/image006.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -40850,7 +42188,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9uf/B3ROVRul7wfeAAAA
 JXRFWHRkYXRlOmNyZWF0ZQAyMDIyLTA2LTE1VDA3OjExOjI1KzAwOjAwAc0oSAAAACV0RVh0ZGF0
 ZTptb2RpZnkAMjAyMi0wNi0xNVQwNzoxMToyNSswMDowMHCQkPQAAAAASUVORK5CYIJ=
 
-------=_NextPart_01D95377.2FF8ABE0
+------=_NextPart_01D95387.BC6EAB00
 Content-Location: file:///C:/AF8A99D3/Lecture-3_files/image007.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -41188,7 +42526,7 @@ Xwq5JiNp4kuGygmNgBEwAmuNwJM3Nr5xRUWI6azNxFUR0zmKkNRk4NwWdW5KHtxHumYesazvdYm8
 ia9LNJ2XETACRmCkCOzcufOdY6maiW8sLel6GAEjYASMQBICJr4kmJzICBgBI2AExoKAiW8sLel6
 GAEjYASMQBIC/x+JFiS80dWMfgAAAABJRU5ErkJggk==
 
-------=_NextPart_01D95377.2FF8ABE0
+------=_NextPart_01D95387.BC6EAB00
 Content-Location: file:///C:/AF8A99D3/Lecture-3_files/image008.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -45756,7 +47094,7 @@ byUxlLDhI73cQ1PlpZM8a8DFvsaW6BxZWUvoNSo3oquSUf7AUgrxUifwenT7iKQ3POz3naN/Yjaf
 ztYmhvEJwUACl6OYzdcZOGEnfCo/Pj6OneLp0eBjJF4MGx+qbL8lm9+TIF5dp9hw2gtLI++hVQxX
 Zq0b6/8PHSNptG8Z4xUAAAAASUVORK5CYIJ=
 
-------=_NextPart_01D95377.2FF8ABE0
+------=_NextPart_01D95387.BC6EAB00
 Content-Location: file:///C:/AF8A99D3/Lecture-3_files/header.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="windows-1252"
@@ -45838,7 +47176,7 @@ r'><![if !supportFootnotes]>
 
 </html>
 
-------=_NextPart_01D95377.2FF8ABE0
+------=_NextPart_01D95387.BC6EAB00
 Content-Location: file:///C:/AF8A99D3/Lecture-3_files/filelist.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml; charset="utf-8"
@@ -45858,4 +47196,4 @@ Content-Type: text/xml; charset="utf-8"
  <o:File HRef=3D"header.htm"/>
  <o:File HRef=3D"filelist.xml"/>
 </xml>
-------=_NextPart_01D95377.2FF8ABE0--
+------=_NextPart_01D95387.BC6EAB00--
