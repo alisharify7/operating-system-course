@@ -23,16 +23,16 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>alisharify</o:Author>
   <o:LastAuthor>alisharify</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>348</o:TotalTime>
-  <o:LastPrinted>2023-03-11T16:30:00Z</o:LastPrinted>
-  <o:Created>2023-03-11T16:30:00Z</o:Created>
-  <o:LastSaved>2023-03-11T16:30:00Z</o:LastSaved>
-  <o:Pages>10</o:Pages>
-  <o:Words>1477</o:Words>
-  <o:Characters>8419</o:Characters>
+  <o:TotalTime>30</o:TotalTime>
+  <o:LastPrinted>2023-04-01T17:59:00Z</o:LastPrinted>
+  <o:Created>2023-04-01T18:01:00Z</o:Created>
+  <o:LastSaved>2023-04-01T18:01:00Z</o:LastSaved>
+  <o:Pages>11</o:Pages>
+  <o:Words>1489</o:Words>
+  <o:Characters>8490</o:Characters>
   <o:Lines>70</o:Lines>
   <o:Paragraphs>19</o:Paragraphs>
-  <o:CharactersWithSpaces>9877</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>9960</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -762,17 +762,18 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<p class=MsoNormal align=center style='text-align:center'><span lang=FA
-dir=RTL style='font-size:36.0pt;line-height:107%;font-family:"B Nazanin";
+<p class=MsoNormal align=center style='text-align:center;line-height:115%'><span
+lang=FA dir=RTL style='font-size:36.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
 &#1593;&#1575;&#1605;&#1604; &#1580;&#1604;&#1587;&#1607; &#1575;&#1608;&#1604;</span><span
-style='font-size:36.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+style='font-size:36.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal align=right style='text-align:right'><span lang=FA dir=RTL
-style='font-size:22.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
-FA'>&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;<br>
-</span><span lang=FA dir=RTL style='font-size:16.0pt;line-height:107%;
+<p class=MsoNormal align=right style='text-align:right;line-height:115%'><span
+lang=FA dir=RTL style='font-size:22.0pt;line-height:115%;font-family:"B Nazanin";
+mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
+&#1593;&#1575;&#1605;&#1604;<br>
+</span><span lang=FA dir=RTL style='font-size:20.0pt;line-height:115%;
 font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
 FA'>&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1575;&#1740; &#1575;&#1587;&#1578;
@@ -786,115 +787,117 @@ FA'>&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
 &#1587;&#1582;&#1578; &#1575;&#1601;&#1586;&#1575;&#1585;
 &#1705;&#1575;&#1605;&#1662;&#1740;&#1608;&#1578;&#1585; &#1593;&#1605;&#1604;
 &#1605;&#1740; &#1705;&#1606;&#1583;</span><span lang=FA dir=RTL
-style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:16.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'><br>
 <br>
 <br>
-</span><span lang=FA dir=RTL style='font-size:22.0pt;line-height:107%;
+</span><span lang=FA dir=RTL style='font-size:24.0pt;line-height:115%;
 font-family:"B Nazanin";mso-bidi-language:FA'>&#1575;&#1607;&#1583;&#1575;&#1601;
 &#1608; &#1608;&#1592;&#1575;&#1740;&#1601; &#1587;&#1740;&#1587;&#1578;&#1605;
-&#1593;&#1575;&#1605;&#1604;<br>
-</span><span lang=FA dir=RTL style='font-size:14.0pt;line-height:107%;
+&#1593;&#1575;&#1605;&#1604;</span><span lang=FA dir=RTL style='font-size:22.0pt;
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'><br>
+</span><span lang=FA dir=RTL style='font-size:16.0pt;line-height:115%;
 font-family:"B Nazanin";mso-bidi-language:FA'>&#1605;&#1740;
 &#1578;&#1608;&#1575;&#1606; &#1711;&#1601;&#1578; &#1705;&#1607;
 &#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604; &#1587;&#1607;
-&#1607;&#1583;&#1601; &#1583;&#1575;&#1585;&#1583;:<o:p></o:p></span></p>
+&#1607;&#1583;&#1601; &#1583;&#1575;&#1585;&#1583;:</span><span lang=FA
+dir=RTL style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
+mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><b><span lang=FA style='font-size:18.0pt;line-height:107%;font-family:
-"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>&#1587;&#1607;&#1608;&#1604;&#1578;
-(</span></b><b><span dir=LTR style='font-size:18.0pt;line-height:107%;
-mso-bidi-font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;
-mso-bidi-language:FA'>convenience</span></b><span dir=RTL></span><b><span
-lang=FA style='font-size:18.0pt;line-height:107%;font-family:"B Nazanin";
-color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'><span dir=RTL></span>)</span></b><span
-lang=FA style='font-size:18.0pt;line-height:107%;font-family:"B Nazanin";
-color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'> </span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:18.0pt;line-height:
+115%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
+FA'>&#1587;&#1607;&#1608;&#1604;&#1578; (</span></b><b><span dir=LTR
+style='font-size:18.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
+color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>convenience</span></b><span
+dir=RTL></span><b><span lang=FA style='font-size:18.0pt;line-height:115%;
+font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
+FA'><span dir=RTL></span>)</span></b><span lang=FA style='font-size:18.0pt;
+line-height:115%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;
+mso-bidi-language:FA'> </span><span lang=FA style='font-size:14.0pt;line-height:
+115%;font-family:"B Nazanin";mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
 &#1593;&#1575;&#1605;&#1604; &#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607;
 &#1575;&#1586; &#1705;&#1575;&#1605;&#1662;&#1740;&#1608;&#1578;&#1585;
-&#1585;&#1575; &#1570;&#1587;&#1575;&#1606; &#1605;&#1740;
-&#1587;&#1575;&#1586;&#1583;<o:p></o:p></span></p>
+&#1585;&#1575; &#1570;&#1587;&#1575;&#1606; &#1605;&#1740; &#1587;&#1575;&#1586;&#1583;<o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><b><span lang=FA style='font-size:18.0pt;line-height:107%;font-family:
-"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>&#1705;&#1575;&#1585;&#1570;&#1605;&#1583;&#1740;
-(</span></b><b><span dir=LTR style='font-size:18.0pt;line-height:107%;
-mso-bidi-font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;
-mso-bidi-language:FA'>efficiency</span></b><span dir=RTL></span><b><span
-lang=FA style='font-size:18.0pt;line-height:107%;font-family:"B Nazanin";
-color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'><span dir=RTL></span>)</span></b><span
-lang=FA style='font-size:18.0pt;line-height:107%;font-family:"B Nazanin";
-color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'> </span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:18.0pt;line-height:
+115%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
+FA'>&#1705;&#1575;&#1585;&#1570;&#1605;&#1583;&#1740; (</span></b><b><span
+dir=LTR style='font-size:18.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
+color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>efficiency</span></b><span
+dir=RTL></span><b><span lang=FA style='font-size:18.0pt;line-height:115%;
+font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
+FA'><span dir=RTL></span>)</span></b><span lang=FA style='font-size:18.0pt;
+line-height:115%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;
+mso-bidi-language:FA'> </span><span lang=FA style='font-size:14.0pt;line-height:
+115%;font-family:"B Nazanin";mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
 &#1593;&#1575;&#1605;&#1604; &#1605;&#1608;&#1580;&#1576;
 &#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607;
 &#1705;&#1575;&#1585;&#1575;&#1605;&#1583; &#1575;&#1586;
 &#1605;&#1606;&#1575;&#1576;&#1593; &#1587;&#1740;&#1587;&#1578;&#1605;
 &#1593;&#1575;&#1605;&#1604; &#1605;&#1740; &#1588;&#1608;&#1583;<o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><b><span lang=FA style='font-size:18.0pt;line-height:107%;font-family:
-"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>&#1602;&#1575;&#1576;&#1740;&#1578;
-&#1578;&#1705;&#1575;&#1605;&#1604; (</span></b><b><span dir=LTR
-style='font-size:18.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:18.0pt;line-height:
+115%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
+FA'>&#1602;&#1575;&#1576;&#1740;&#1578; &#1578;&#1705;&#1575;&#1605;&#1604; (</span></b><b><span
+dir=LTR style='font-size:18.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>ability to evolve</span></b><span
-dir=RTL></span><b><span lang=FA style='font-size:18.0pt;line-height:107%;
+dir=RTL></span><b><span lang=FA style='font-size:18.0pt;line-height:115%;
 font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
 FA'><span dir=RTL></span>)</span></b><span dir=LTR></span><span lang=FA
-dir=LTR style='font-size:18.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+dir=LTR style='font-size:18.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'><span dir=LTR></span>
-</span><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+</span><span lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
 &#1593;&#1575;&#1605;&#1604; &#1576;&#1575;&#1740;&#1583;
 &#1591;&#1608;&#1585;&#1740; &#1587;&#1575;&#1582;&#1578;&#1607;
 &#1588;&#1608;&#1583; &#1578;&#1575; &#1576;&#1607; &#1591;&#1608;&#1585;
-&#1605;&#1608;&#1579;&#1585; &#1578;&#1608;&#1587;&#1593;&#1607; &#1608;
-&#1575;&#1586;&#1605;&#1608;&#1606; &#1608; &#1605;&#1593;&#1585;&#1601;&#1740;
+&#1605;&#1608;&#1579;&#1585;&#1548; &#1578;&#1608;&#1587;&#1593;&#1607; &#1608;
+&#1570;&#1586;&#1605;&#1608;&#1606; &#1608; &#1605;&#1593;&#1585;&#1601;&#1740;
 &#1608;&#1592;&#1575;&#1740;&#1601; &#1580;&#1583;&#1740;&#1583;
 &#1576;&#1583;&#1608;&#1606; &#1578;&#1583;&#1575;&#1582;&#1604; &#1576;&#1575;
 &#1582;&#1583;&#1605;&#1575;&#1578; &#1587;&#1740;&#1587;&#1578;&#1605;
 &#1575;&#1605;&#1705;&#1575;&#1606; &#1662;&#1584;&#1740;&#1585;
 &#1576;&#1575;&#1588;&#1583;<o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><b><span lang=FA style='font-size:20.0pt;line-height:107%;font-family:
-"B Nazanin";color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
-&#1593;&#1575;&#1605;&#1604; &#1576;&#1607; &#1593;&#1606;&#1608;&#1575;&#1606;
-&#1608;&#1575;&#1587;&#1591; &#1705;&#1575;&#1585;&#1576;&#1585; &#1608;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:20.0pt;line-height:
+115%;font-family:"B Nazanin";color:#70AD47;mso-themecolor:accent6;mso-bidi-language:
+FA'>&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
+&#1576;&#1607; &#1593;&#1606;&#1608;&#1575;&#1606; &#1608;&#1575;&#1587;&#1591;
+&#1705;&#1575;&#1585;&#1576;&#1585; &#1608;
 &#1705;&#1575;&#1605;&#1662;&#1740;&#1608;&#1578;&#1585;<o:p></o:p></span></b></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:18.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'>&#1605;&#1740; &#1578;&#1608;&#1575;&#1606;
-&#1587;&#1575;&#1582;&#1578;&#1575;&#1585; &#1587;&#1582;&#1578;
-&#1575;&#1601;&#1586;&#1575;&#1585; &#1608; &#1606;&#1585;&#1605;
-&#1575;&#1601;&#1586;&#1575;&#1585;&#1548; &#1575;&#1585;&#1575;&#1740;&#1607;
-&#1583;&#1607;&#1606;&#1583;&#1607;
-&#1705;&#1575;&#1585;&#1576;&#1585;&#1583;&#1607;&#1575;
-&#1576;&#1585;&#1575;&#1740; &#1705;&#1575;&#1585;&#1576;&#1585; &#1585;&#1575;
-&#1576;&#1607; &#1589;&#1608;&#1585;&#1578; &#1604;&#1575;&#1740;&#1607;
-&#1740;&#1575; &#1587;&#1604;&#1587;&#1604;&#1607; &#1575;&#1740;
-&#1605;&#1585;&#1575;&#1578;&#1576;&#1740; &#1583;&#1585; &#1606;&#1592;&#1585;
-&#1711;&#1585;&#1601;&#1578;<o:p></o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:18.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'>&#1605;&#1740;
+&#1578;&#1608;&#1575;&#1606; &#1587;&#1575;&#1582;&#1578;&#1575;&#1585;
+&#1587;&#1582;&#1578; &#1575;&#1601;&#1586;&#1575;&#1585; &#1608;
+&#1606;&#1585;&#1605; &#1575;&#1601;&#1586;&#1575;&#1585;&#1548;
+&#1575;&#1585;&#1575;&#1740;&#1607; &#1583;&#1607;&#1606;&#1583;&#1607;
+&#1705;&#1575;&#1585;&#1576;&#1585;&#1583;&#1607;&#1575; &#1548; &#1576;&#1585;&#1575;&#1740;
+&#1705;&#1575;&#1585;&#1576;&#1585; &#1585;&#1575; &#1576;&#1607;
+&#1589;&#1608;&#1585;&#1578; &#1604;&#1575;&#1740;&#1607; &#1575;&#1740; &#1740;&#1575;
+&#1587;&#1604;&#1587;&#1604;&#1607; &#1605;&#1585;&#1575;&#1578;&#1576;&#1740;
+&#1583;&#1585; &#1606;&#1592;&#1585; &#1711;&#1585;&#1601;&#1578;<o:p></o:p></span></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;line-height:107%;
-mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;
+line-height:115%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;line-height:107%;
-mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;
+line-height:115%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;line-height:107%;
-mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;
+line-height:115%;mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
  id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
  path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
  <v:stroke joinstyle="miter"/>
@@ -919,101 +922,100 @@ mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shapety
  <v:imagedata src="lecture-1_files/image001.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=516 height=335
 src="lecture-1_files/image002.png" v:shapes="Picture_x0020_1"><![endif]></span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;line-height:107%;
-mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;
+line-height:115%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span dir=LTR style='font-size:10.0pt;line-height:107%;
-mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span dir=LTR style='font-size:10.0pt;
+line-height:115%;mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Picture_x0020_2" o:spid="_x0000_i1030" type="#_x0000_t75" alt="&#1583;&#1585;&#1587;&#1606;&#1575;&#1605;&#1607; &#1570;&#1605;&#1608;&#1586;&#1588;&#1740; &#1583;&#1575;&#1606;&#1588; &#1601;&#1606;&#1740; &#1662;&#1575;&#1740;&#1607; &#1705;&#1604;&#1575;&#1587; &#1583;&#1607;&#1605; &#1588;&#1576;&#1705;&#1607; &#1608; &#1606;&#1585;&#1605; &#1575;&#1601;&#1586;&#1575;&#1585; &#1585;&#1575;&#1740;&#1575;&#1606;&#1607; &#1662;&#1608;&#1583;&#1605;&#1575;&#1606; 1:  &#1705;&#1604;&#1740;&#1575;&#1578; - &#1711;&#1575;&#1605;&#1575;"
- style='width:280.5pt;height:296.25pt;visibility:visible;mso-wrap-style:square'>
+ style='width:255.75pt;height:270pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="lecture-1_files/image003.png" o:title="  &#1705;&#1604;&#1740;&#1575;&#1578; - &#1711;&#1575;&#1605;&#1575;"/>
-</v:shape><![endif]--><![if !vml]><img width=374 height=395
+</v:shape><![endif]--><![if !vml]><img width=341 height=360
 src="lecture-1_files/image004.png"
 alt="&#1583;&#1585;&#1587;&#1606;&#1575;&#1605;&#1607; &#1570;&#1605;&#1608;&#1586;&#1588;&#1740; &#1583;&#1575;&#1606;&#1588; &#1601;&#1606;&#1740; &#1662;&#1575;&#1740;&#1607; &#1705;&#1604;&#1575;&#1587; &#1583;&#1607;&#1605; &#1588;&#1576;&#1705;&#1607; &#1608; &#1606;&#1585;&#1605; &#1575;&#1601;&#1586;&#1575;&#1585; &#1585;&#1575;&#1740;&#1575;&#1606;&#1607; &#1662;&#1608;&#1583;&#1605;&#1575;&#1606; 1:  &#1705;&#1604;&#1740;&#1575;&#1578; - &#1711;&#1575;&#1605;&#1575;"
 v:shapes="Picture_x0020_2"><![endif]></span><span dir=LTR style='font-size:
-14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:
+14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:
 FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:
-"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:
-"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:
-"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span dir=LTR style='font-size:10.0pt;line-height:107%;
-mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_3" o:spid="_x0000_i1029" type="#_x0000_t75" alt="&#1606;&#1585;&#1605; &#1575;&#1601;&#1586;&#1575;&#1585; &#1705;&#1575;&#1605;&#1662;&#1740;&#1608;&#1578;&#1585; &#1670;&#1740;&#1587;&#1578;&#1567;"
- style='width:197.25pt;height:292.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="lecture-1_files/image005.png" o:title="&#1606;&#1585;&#1605; &#1575;&#1601;&#1586;&#1575;&#1585; &#1705;&#1575;&#1605;&#1662;&#1740;&#1608;&#1578;&#1585; &#1670;&#1740;&#1587;&#1578;&#1567;"/>
-</v:shape><![endif]--><![if !vml]><img width=263 height=390
-src="lecture-1_files/image006.png" alt="&#1606;&#1585;&#1605; &#1575;&#1601;&#1586;&#1575;&#1585; &#1705;&#1575;&#1605;&#1662;&#1740;&#1608;&#1578;&#1585; &#1670;&#1740;&#1587;&#1578;&#1567;"
-v:shapes="Picture_x0020_3"><![endif]></span><span dir=LTR style='font-size:
-14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:
-FA'><o:p></o:p></span></p>
-
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;line-height:107%;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;line-height:115%;
 mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span dir=LTR style='font-size:10.0pt;line-height:107%;
-mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;line-height:115%;
+mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;line-height:115%;
+mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span dir=LTR style='font-size:10.0pt;
+line-height:115%;mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Picture_x0020_3" o:spid="_x0000_i1029" type="#_x0000_t75" alt="&#1606;&#1585;&#1605; &#1575;&#1601;&#1586;&#1575;&#1585; &#1705;&#1575;&#1605;&#1662;&#1740;&#1608;&#1578;&#1585; &#1670;&#1740;&#1587;&#1578;&#1567;"
+ style='width:189.75pt;height:281.25pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="lecture-1_files/image005.png" o:title="&#1606;&#1585;&#1605; &#1575;&#1601;&#1586;&#1575;&#1585; &#1705;&#1575;&#1605;&#1662;&#1740;&#1608;&#1578;&#1585; &#1670;&#1740;&#1587;&#1578;&#1567;"/>
+</v:shape><![endif]--><![if !vml]><img width=253 height=375
+src="lecture-1_files/image006.png" alt="&#1606;&#1585;&#1605; &#1575;&#1601;&#1586;&#1575;&#1585; &#1705;&#1575;&#1605;&#1662;&#1740;&#1608;&#1578;&#1585; &#1670;&#1740;&#1587;&#1578;&#1567;"
+v:shapes="Picture_x0020_3"><![endif]></span><span dir=LTR style='font-size:
+14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:
+FA'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;
+line-height:115%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span dir=LTR style='font-size:10.0pt;
+line-height:115%;mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Picture_x0020_4" o:spid="_x0000_i1028" type="#_x0000_t75" alt="System Software ( &#1606;&#1585;&#1605; &#1575;&#1601;&#1586;&#1575;&#1585; &#1587;&#1740;&#1587;&#1578;&#1605;&#1740; ) - &#1608;&#1740;&#1585;&#1711;&#1608;&#1604;"
- style='width:468.75pt;height:229.5pt;visibility:visible;mso-wrap-style:square'>
+ style='width:437.25pt;height:214.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="lecture-1_files/image007.png" o:title="System Software ( &#1606;&#1585;&#1605; &#1575;&#1601;&#1586;&#1575;&#1585; &#1587;&#1740;&#1587;&#1578;&#1605;&#1740; ) - &#1608;&#1740;&#1585;&#1711;&#1608;&#1604;"/>
-</v:shape><![endif]--><![if !vml]><img width=625 height=306
+</v:shape><![endif]--><![if !vml]><img width=583 height=286
 src="lecture-1_files/image008.png"
 alt="System Software ( &#1606;&#1585;&#1605; &#1575;&#1601;&#1586;&#1575;&#1585; &#1587;&#1740;&#1587;&#1578;&#1605;&#1740; ) - &#1608;&#1740;&#1585;&#1711;&#1608;&#1604;"
 v:shapes="Picture_x0020_4"><![endif]></span><span dir=LTR style='font-size:
-14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:
+14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:
 FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:
-"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;line-height:115%;
+mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span dir=LTR style='font-size:10.0pt;line-height:107%;
-mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span dir=LTR style='font-size:10.0pt;
+line-height:115%;mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Picture_x0020_5" o:spid="_x0000_i1027" type="#_x0000_t75" alt="Operating System - Overview"
- style='width:261.75pt;height:270.75pt;visibility:visible;mso-wrap-style:square'>
+ style='width:228.75pt;height:237pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="lecture-1_files/image009.jpg" o:title="Operating System - Overview"/>
-</v:shape><![endif]--><![if !vml]><img width=349 height=361
-src="lecture-1_files/image009.jpg" alt="Operating System - Overview" v:shapes="Picture_x0020_5"><![endif]></span><span
-dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+</v:shape><![endif]--><![if !vml]><img width=305 height=316
+src="lecture-1_files/image010.jpg" alt="Operating System - Overview" v:shapes="Picture_x0020_5"><![endif]></span><span
+dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'>&#1576;&#1585;&#1575;&#1740; &#1705;&#1587;&#1740;
-&#1705;&#1607; &#1575;&#1586; &#1570;&#1606;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'>&#1576;&#1585;&#1575;&#1740;
+&#1705;&#1587;&#1740; &#1705;&#1607; &#1575;&#1586; &#1570;&#1606;
 &#1705;&#1575;&#1585;&#1576;&#1585;&#1583; &#1607;&#1575;
 &#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607; &#1605;&#1740;
-&#1705;&#1606;&#1740;&#1583; (&#1705;&#1575;&#1585;&#1576;&#1585;
-&#1606;&#1607;&#1575;&#1740;&#1740;) &#1605;&#1593;&#1605;&#1608;&#1604;&#1575;
-&#1576;&#1607; &#1580;&#1586;&#1740;&#1740;&#1575;&#1578; &#1587;&#1582;&#1578;
-&#1575;&#1601;&#1586;&#1575;&#1585;
+&#1705;&#1606;&#1740;&#1583; (&#1705;&#1575;&#1585;&#1576;&#1585; &#1606;&#1607;&#1575;&#1740;&#1740;)
+&#1605;&#1593;&#1605;&#1608;&#1604;&#1575; &#1580;&#1586;&#1740;&#1740;&#1575;&#1578;
+&#1587;&#1582;&#1578; &#1575;&#1601;&#1586;&#1575;&#1585;
 &#1705;&#1575;&#1605;&#1662;&#1740;&#1608;&#1578;&#1585;
 &#1575;&#1607;&#1605;&#1740;&#1578;&#1740;</span><span dir=LTR></span><span
-lang=FA dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:
+lang=FA dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:
 "B Nazanin";mso-bidi-language:FA'><span dir=LTR></span> </span><span dir=RTL></span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=RTL></span><span
 style='mso-spacerun:yes'>�</span>&#1606;&#1583;&#1575;&#1585;&#1583;.
 &#1576;&#1606;&#1575;&#1576;&#1585;&#1575;&#1740;&#1606;&#1548;
@@ -1023,9 +1025,9 @@ style='mso-spacerun:yes'>�</span>&#1606;&#1583;&#1575;&#1585;&#1583;.
 &#1576;&#1607; &#1589;&#1608;&#1585;&#1578; &#1605;&#1580;&#1605;&#1608;&#1593;&#1607;
 &#1575;&#1740; &#1575;&#1586; &#1705;&#1575;&#1585;&#1576;&#1585;&#1583;
 &#1607;&#1575; &#1583;&#1585; &#1605;&#1740; &#1711;&#1740;&#1585;&#1583;</span><span
-dir=LTR></span><span dir=LTR style='font-size:14.0pt;line-height:107%;
+dir=LTR></span><span dir=LTR style='font-size:14.0pt;line-height:115%;
 mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><span dir=LTR></span> .</span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1607;&#1585; &#1705;&#1575;&#1585;&#1576;&#1585;&#1583;
 &#1583;&#1585; &#1740;&#1705; &#1586;&#1576;&#1575;&#1606;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1606;&#1608;&#1740;&#1587;&#1740;
@@ -1033,7 +1035,7 @@ background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1607;&#1585; &#17
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1587;&#1575;&#1586;
 &#1705;&#1575;&#1585;&#1576;&#1585;&#1583;&#1740;
 &#1575;&#1740;&#1580;&#1575;&#1583; &#1605;&#1740; &#1588;&#1608;&#1583;</span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'>. <span style='background:lime;mso-highlight:lime'>&#1575;&#1711;&#1585;
 &#1602;&#1585;&#1575;&#1585; &#1576;&#1608;&#1583;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1740; &#1705;&#1575;&#1585;&#1576;&#1585;&#1583;&#1740;
@@ -1044,7 +1046,7 @@ mso-bidi-language:FA'>. <span style='background:lime;mso-highlight:lime'>&#1575;
 &#1576;&#1575; &#1605;&#1587;&#1740;&#1608;&#1604;&#1740;&#1578;
 &#1705;&#1575;&#1605;&#1604; &#1587;&#1582;&#1578;
 &#1575;&#1601;&#1586;&#1575;&#1585; &#1575;&#1740;&#1580;&#1575;&#1583; &#1608;
-&#1705;&#1606;&#1578;&#1585;&#1604; &#1588;&#1608;&#1583; &#1705;&#1575;&#1585;
+&#1705;&#1606;&#1578;&#1585;&#1604; &#1588;&#1608;&#1583; &#1548; &#1705;&#1575;&#1585;
 &#1576;&#1587;&#1740;&#1575;&#1585; &#1662;&#1740;&#1670;&#1740;&#1583;&#1607;
 &#1608; &#1591;&#1575;&#1602;&#1578; &#1601;&#1585;&#1587;&#1575;&#1740;&#1740;
 &#1576;&#1608;&#1583;</span>&#1548; &#1576;&#1585;&#1575;&#1740;
@@ -1053,71 +1055,66 @@ mso-bidi-language:FA'>. <span style='background:lime;mso-highlight:lime'>&#1575;
 &#1605;&#1580;&#1605;&#1608;&#1593;&#1607; &#1575;&#1740; &#1575;&#1586;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1607;&#1575;&#1740;
 &#1587;&#1740;&#1587;&#1578;&#1605;&#1740; &#1576;&#1607;
-&#1608;&#1580;&#1608;&#1583; &#1575;&#1605;&#1583;&#1607;
+&#1608;&#1580;&#1608;&#1583; &#1570;&#1605;&#1583;&#1607;
 &#1575;&#1587;&#1578;&#1548;</span><span dir=LTR style='font-size:14.0pt;
-line-height:107%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p></o:p></span></p>
+line-height:115%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1576;&#1593;&#1590;&#1740;
-&#1575;&#1586; &#1575;&#1740;&#1606; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
-&#1607;&#1575; &#1585;&#1575; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
-&#1607;&#1575;&#1740; &#1587;&#1608;&#1583;&#1605;&#1606;&#1583;(&#1605;&#1575;&#1588;&#1740;&#1606;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
+FA'>&#1576;&#1593;&#1590;&#1740; &#1575;&#1586; &#1575;&#1740;&#1606;
+&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1607;&#1575; &#1585;&#1575;
+&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1607;&#1575;&#1740;
+&#1587;&#1608;&#1583;&#1605;&#1606;&#1583;(&#1605;&#1575;&#1588;&#1740;&#1606;
 &#1581;&#1587;&#1575;&#1576; &#1578;&#1602;&#1608;&#1740;&#1605; &#1740;&#1575;
 &#1608;&#1740;&#1585;&#1575;&#1740;&#1588;&#1711;&#1585; &#1605;&#1578;&#1606;)
 &#1740;&#1575; &#1705;&#1578;&#1575;&#1576;&#1582;&#1575;&#1606;&#1607;
 &#1575;&#1740; &#1605;&#1740; &#1711;&#1608;&#1740;&#1606;&#1583;</span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1575;&#1740;&#1606;
-&#1583;&#1587;&#1578;&#1607; &#1575;&#1586;
-&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1607;&#1575;
-&#1578;&#1608;&#1576;&#1593;&#1740; &#1585;&#1575;
-&#1662;&#1740;&#1575;&#1583;&#1607; &#1587;&#1575;&#1586;&#1740; &#1605;&#1740;
-&#1705;&#1606;&#1606;&#1583; &#1705;&#1607; &#1605;&#1705;&#1585;&#1585;&#1575;
-&#1605;&#1608;&#1585;&#1583; &#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607;
-&#1602;&#1585;&#1575;&#1585; &#1605;&#1740; &#1711;&#1740;&#1585;&#1583;</span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'> <span style='background:yellow;mso-highlight:yellow'>&#1608;
-&#1576;&#1607; &#1575;&#1740;&#1580;&#1575;&#1583;
-&#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
+FA'>&#1575;&#1740;&#1606; &#1583;&#1587;&#1578;&#1607; &#1575;&#1586;
+&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1607;&#1575; &#1578;&#1608;&#1575;&#1576;&#1593;&#1740;
+&#1585;&#1575; &#1662;&#1740;&#1575;&#1583;&#1607; &#1587;&#1575;&#1586;&#1740;
+&#1605;&#1740; &#1705;&#1606;&#1606;&#1583; &#1705;&#1607;
+&#1605;&#1705;&#1585;&#1585;&#1575; &#1605;&#1608;&#1585;&#1583;
+&#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607; &#1602;&#1585;&#1575;&#1585;
+&#1605;&#1740; &#1711;&#1740;&#1585;&#1583;</span><span lang=FA
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
+FA'> <span style='background:yellow;mso-highlight:yellow'>&#1608; &#1576;&#1607;
+&#1575;&#1740;&#1580;&#1575;&#1583; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
 &#1605;&#1583;&#1740;&#1585;&#1740;&#1578; &#1601;&#1575;&#1740;&#1604;
 &#1607;&#1575; &#1608; &#1705;&#1606;&#1578;&#1585;&#1604;
 &#1583;&#1587;&#1578;&#1711;&#1575;&#1607; &#1607;&#1575;&#1740;
 &#1608;&#1585;&#1608;&#1583;&#1740; &#1608; &#1582;&#1585;&#1608;&#1580;&#1740;
-&#1705;&#1605;&#1705; &#1605;&#1740; &#1705;&#1606;&#1583;</span> &#1548;&#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
+&#1705;&#1605;&#1705; &#1605;&#1740; &#1705;&#1606;&#1583;</span> &#1548; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
 &#1587;&#1575;&#1586; &#1575;&#1586; &#1575;&#1740;&#1606;
 &#1575;&#1605;&#1705;&#1575;&#1606;&#1575;&#1578; &#1576;&#1585;&#1575;&#1740;
 &#1578;&#1608;&#1587;&#1593;&#1607; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
-&#1705;&#1575;&#1585;&#1576;&#1585;&#1583;&#1740;
-&#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607; &#1605;&#1740;
-&#1705;&#1606;&#1583; &#1608; <span style='background:yellow;mso-highlight:
-yellow'>&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1607;&#1575;&#1740;
-&#1705;&#1575;&#1585;&#1576;&#1585;&#1583;&#1740; &#1583;&#1585; &#1581;&#1740;&#1606;
-&#1575;&#1580;&#1585;&#1575; </span></span><span dir=LTR></span><span dir=LTR
-style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'><span dir=LTR></span>,</span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
+&#1705;&#1575;&#1585;&#1576;&#1585;&#1583;&#1740; &#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607;
+&#1605;&#1740; &#1705;&#1606;&#1583; &#1608; <span style='background:yellow;
+mso-highlight:yellow'>&#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
+&#1607;&#1575;&#1740; &#1705;&#1575;&#1585;&#1576;&#1585;&#1583;&#1740; &#1583;&#1585;
+&#1581;&#1740;&#1606; &#1575;&#1580;&#1585;&#1575; &#1548; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
 &#1607;&#1575;&#1740; &#1587;&#1608;&#1583;&#1605;&#1606;&#1583;
 &#1576;&#1585;&#1575;&#1740; &#1575;&#1606;&#1580;&#1575;&#1605;
 &#1576;&#1585;&#1582;&#1740; &#1608;&#1592;&#1575;&#1740;&#1601; &#1575;&#1581;&#1592;&#1575;&#1585;
-&#1605;&#1740; &#1705;&#1606;&#1583;</span><span lang=FA style='font-size:14.0pt;
-line-height:107%;font-family:"B Nazanin";mso-bidi-language:FA'> </span><span
-dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+&#1605;&#1740; &#1705;&#1606;&#1583;</span> </span><span dir=LTR
+style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1605;&#1607;&#1605;
-&#1578;&#1585;&#1740;&#1606; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
-&#1587;&#1740;&#1587;&#1578;&#1605;&#1548; &#1587;&#1740;&#1587;&#1578;&#1605;
-&#1593;&#1575;&#1605;&#1604; &#1575;&#1587;&#1578;</span><span lang=FA
-style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
-FA'> <span style='background:lime;mso-highlight:lime'>&#1587;&#1740;&#1587;&#1578;&#1605;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
+FA'>&#1605;&#1607;&#1605; &#1578;&#1585;&#1740;&#1606;
+&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1587;&#1740;&#1587;&#1578;&#1605;&#1548;
+&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
+&#1575;&#1587;&#1578;</span><span lang=FA style='font-size:14.0pt;line-height:
+115%;font-family:"B Nazanin";mso-bidi-language:FA'> <span style='background:
+lime;mso-highlight:lime'>&#1587;&#1740;&#1587;&#1578;&#1605;
 &#1593;&#1575;&#1605;&#1604; &#1587;&#1582;&#1578;
 &#1575;&#1601;&#1586;&#1575;&#1585; &#1585;&#1575; &#1575;&#1586;
 &#1583;&#1740;&#1583; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
@@ -1141,53 +1138,50 @@ style='mso-spacerun:yes'>�</span>&#1608;&#1575;&#1587;&#1591;
 &#1583;&#1575;&#1588;&#1578;&#1607; &#1576;&#1575;&#1588;&#1606;&#1583; &#1608;
 &#1575;&#1586; &#1570;&#1606; &#1607;&#1575;
 &#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607; &#1705;&#1606;&#1583;</span><span
-dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:
-"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span lang=FA style='font-size:20.0pt;line-height:107%;
-font-family:"B Nazanin";color:red;mso-bidi-language:FA'>&#1576;&#1607;
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span lang=FA style='font-size:20.0pt;
+line-height:115%;font-family:"B Nazanin";color:red;mso-bidi-language:FA'>&#1576;&#1607;
 &#1591;&#1608;&#1585; &#1582;&#1604;&#1575;&#1589;&#1607;
 &#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
 &#1605;&#1593;&#1605;&#1608;&#1604;&#1575;
-&#1582;&#1583;&#1605;&#1575;&#1578;&#1740;<span style='mso-spacerun:yes'>�
-</span>&#1583;&#1585; &#1586;&#1605;&#1740;&#1606;&#1607; &#1607;&#1575;&#1740;
-&#1586;&#1740;&#1585; &#1575;&#1585;&#1575;&#1740;&#1607; &#1605;&#1740;
-&#1705;&#1606;&#1583;:<o:p></o:p></span></p>
+&#1582;&#1583;&#1605;&#1575;&#1578;&#1740; &#1583;&#1585;
+&#1586;&#1605;&#1740;&#1606;&#1607; &#1607;&#1575;&#1740; &#1586;&#1740;&#1585;
+&#1575;&#1585;&#1575;&#1740;&#1607; &#1605;&#1740; &#1705;&#1606;&#1583;:<o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><b><span lang=FA style='font-size:20.0pt;line-height:107%;font-family:
-"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>&#1578;&#1608;&#1587;&#1593;&#1607;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:20.0pt;line-height:
+115%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
+FA'>&#1578;&#1608;&#1587;&#1593;&#1607;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;: </span></b><span lang=FA
-style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'>&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
 &#1575;&#1605;&#1705;&#1575;&#1606;&#1575;&#1578; &#1608;
 &#1582;&#1583;&#1605;&#1575;&#1578; &#1605;&#1578;&#1606;&#1608;&#1593;&#1740;
-&#1605;&#1579;&#1604; &#1608;&#1740;&#1585;&#1575;&#1587;&#1578;&#1575;&#1585;
-&#1607;&#1575; &#1608; &#1575;&#1588;&#1705;&#1575;&#1604;
-&#1586;&#1583;&#1575;&#1607;&#1575; &#1585;&#1575; &#1576;&#1585;&#1575;&#1740;
-&#1705;&#1605;&#1705; &#1576;&#1607; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
-&#1587;&#1575;&#1586; &#1583;&#1585; &#1575;&#1740;&#1580;&#1575;&#1583; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
-&#1575;&#1585;&#1575;&#1740;&#1607; &#1605;&#1740; &#1705;&#1606;&#1583; <span
-style='background:yellow;mso-highlight:yellow'>&#1605;&#1593;&#1605;&#1608;&#1604;&#1575;
+&#1605;&#1579;&#1604; &#1608;&#1740;&#1585;&#1575;&#1587;&#1578;&#1575;&#1585; &#1607;&#1575;
+&#1608; &#1575;&#1588;&#1705;&#1575;&#1604; &#1586;&#1583;&#1575; &#1607;&#1575;
+&#1585;&#1575; &#1576;&#1585;&#1575;&#1740; &#1705;&#1605;&#1705;
+&#1576;&#1607; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1587;&#1575;&#1586;
+&#1583;&#1585; &#1575;&#1740;&#1580;&#1575;&#1583;
+&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1575;&#1585;&#1575;&#1740;&#1607;
+&#1605;&#1740; &#1705;&#1606;&#1583; &#1548; <span style='background:yellow;
+mso-highlight:yellow'>&#1605;&#1593;&#1605;&#1608;&#1604;&#1575;
 &#1575;&#1740;&#1606; &#1582;&#1583;&#1605;&#1575;&#1578; &#1576;&#1607;
 &#1588;&#1705;&#1604; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
 &#1607;&#1575;&#1740; &#1587;&#1608;&#1583;&#1605;&#1606;&#1583; &#1607;&#1587;&#1578;&#1606;&#1583;</span>
 <o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'>&#1711;&#1585;&#1670;&#1607; &#1576;&#1607;
-&#1593;&#1606;&#1608;&#1575;&#1606; <span style='background:yellow;mso-highlight:
-yellow'>&#1576;&#1582;&#1588;&#1740; &#1575;&#1586;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'>&#1711;&#1585;&#1670;&#1607;
+&#1576;&#1607; &#1593;&#1606;&#1608;&#1575;&#1606; <span style='background:
+yellow;mso-highlight:yellow'>&#1576;&#1582;&#1588;&#1740; &#1575;&#1586;
 &#1607;&#1587;&#1578;&#1607; &#1587;&#1740;&#1587;&#1578;&#1605;
 &#1593;&#1575;&#1605;&#1604; &#1605;&#1581;&#1587;&#1608;&#1576;
 &#1606;&#1605;&#1740; &#1588;&#1608;&#1583;</span> &#1608;&#1604;&#1740;
@@ -1201,15 +1195,16 @@ yellow'>&#1576;&#1582;&#1588;&#1740; &#1575;&#1586;
 &#1582;&#1608;&#1575;&#1606;&#1583;&#1607; &#1605;&#1740;
 &#1588;&#1608;&#1606;&#1583;</span><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><b><span lang=FA style='font-size:20.0pt;line-height:107%;font-family:
-"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>&#1575;&#1580;&#1585;&#1575;&#1740;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:20.0pt;line-height:
+115%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
+FA'>&#1575;&#1580;&#1585;&#1575;&#1740;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; : </span></b><span lang=FA
-style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'>&#1576;&#1585;&#1575;&#1740; &#1575;&#1580;&#1585;&#1575;&#1740;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
 &#1705;&#1575;&#1585;&#1607;&#1575;&#1740; &#1605;&#1607;&#1605;&#1740;
@@ -1219,7 +1214,7 @@ FA'>&#1576;&#1585;&#1575;&#1740; &#1575;&#1580;&#1585;&#1575;&#1740;
 &#1607;&#1575; &#1608; &#1583;&#1575;&#1583;&#1607; &#1607;&#1575;
 &#1576;&#1575;&#1740;&#1583; &#1576;&#1607; &#1581;&#1575;&#1601;&#1592;&#1607;
 &#1575;&#1589;&#1604;&#1740; &#1576;&#1575;&#1585; &#1588;&#1608;&#1606;&#1583;
-&#1583;&#1587;&#1578;&#1711;&#1575;&#1607; &#1607;&#1575;&#1740;
+&#1548; &#1583;&#1587;&#1578;&#1711;&#1575;&#1607; &#1607;&#1575;&#1740;
 &#1608;&#1585;&#1608;&#1583;&#1740; &#1608; &#1582;&#1585;&#1608;&#1580;&#1740;
 &#1608; &#1601;&#1575;&#1740;&#1604; &#1607;&#1575;
 &#1576;&#1575;&#1740;&#1583; &#1605;&#1602;&#1583;&#1575;&#1585; &#1575;&#1608;&#1604;&#1740;&#1607;
@@ -1232,20 +1227,21 @@ FA'>&#1576;&#1585;&#1575;&#1740; &#1575;&#1580;&#1585;&#1575;&#1740;
 &#1576;&#1585;&#1575;&#1740; &#1705;&#1575;&#1585;&#1576;&#1585;
 &#1575;&#1606;&#1580;&#1575;&#1605; &#1605;&#1740; &#1583;&#1607;&#1583;<o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><b><span lang=FA style='font-size:20.0pt;line-height:107%;font-family:
-"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>&#1583;&#1587;&#1578;&#1585;&#1587;&#1740;
-&#1576;&#1607; &#1583;&#1587;&#1578;&#1711;&#1575;&#1607; &#1607;&#1575;&#1740;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:20.0pt;line-height:
+115%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
+FA'>&#1583;&#1587;&#1578;&#1585;&#1587;&#1740; &#1576;&#1607;
+&#1583;&#1587;&#1578;&#1711;&#1575;&#1607; &#1607;&#1575;&#1740;
 &#1608;&#1585;&#1608;&#1583;&#1740;-&#1582;&#1585;&#1608;&#1580;&#1740; : </span></b><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'>&#1607;&#1585; &#1583;&#1587;&#1578;&#1711;&#1575;&#1607;
 &#1608;&#1585;&#1608;&#1583;&#1740; </span><span lang=FA style='font-size:14.0pt;
-line-height:107%;font-family:"Times New Roman",serif;mso-bidi-language:FA'>�</span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+line-height:115%;font-family:"Times New Roman",serif;mso-bidi-language:FA'>�</span><span
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'> &#1582;&#1585;&#1608;&#1580;&#1740;
 &#1576;&#1585;&#1575;&#1740; &#1575;&#1606;&#1580;&#1575;&#1605;
 &#1705;&#1575;&#1585; &#1576;&#1607; &#1605;&#1580;&#1605;&#1608;&#1593;&#1607;
@@ -1253,31 +1249,31 @@ mso-bidi-language:FA'> &#1582;&#1585;&#1608;&#1580;&#1740;
 &#1607;&#1575; &#1608; &#1593;&#1604;&#1575;&#1605;&#1578;
 &#1705;&#1606;&#1578;&#1585;&#1604;&#1740; &#1606;&#1740;&#1575;&#1586;
 &#1583;&#1575;&#1585;&#1583;&#1548; &#1587;&#1740;&#1587;&#1578;&#1605;
-&#1593;&#1575;&#1605;&#1604; &#1608;&#1575;&#1587;&#1591;
+&#1593;&#1575;&#1605;&#1604; &#1548; &#1608;&#1575;&#1587;&#1591;
 &#1740;&#1705;&#1606;&#1608;&#1575;&#1582;&#1578;&#1740; &#1585;&#1575;
 &#1601;&#1585;&#1575;&#1607;&#1605; &#1605;&#1740; &#1705;&#1606;&#1583;
 &#1705;&#1607; &#1575;&#1740;&#1606; &#1580;&#1586;&#1740;&#1740;&#1575;&#1578;
 &#1585;&#1575; &#1605;&#1582;&#1601;&#1740; &#1605;&#1740;
 &#1587;&#1575;&#1586;&#1583; &#1578;&#1575;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1587;&#1575;&#1586; &#1576;&#1575;
-&#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607; &#1575;&#1586;
-&#1583;&#1587;&#1578;&#1608;&#1585;&#1575;&#1604;&#1593;&#1605;&#1604;
+&#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607; &#1575;&#1586; &#1583;&#1587;&#1578;&#1608;&#1585;&#1575;&#1604;&#1593;&#1605;&#1604;
 &#1607;&#1575;&#1740; &#1587;&#1575;&#1583;&#1607;
-&#1582;&#1608;&#1575;&#1606;&#1583;&#1607; &#1608;
+&#1582;&#1608;&#1575;&#1606;&#1583;&#1606; &#1608;
 &#1606;&#1608;&#1588;&#1578;&#1606; &#1576;&#1607; &#1575;&#1740;&#1606; &#1583;&#1587;&#1578;&#1711;&#1575;&#1607;
-&#1583;&#1587;&#1578;&#1585;&#1587;&#1740; &#1583;&#1575;&#1588;&#1578;&#1607;
-&#1576;&#1575;&#1588;&#1583;<o:p></o:p></span></p>
+&#1607;&#1575; &#1583;&#1587;&#1578;&#1585;&#1587;&#1740;
+&#1583;&#1575;&#1588;&#1578;&#1607; &#1576;&#1575;&#1588;&#1583;<o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><b><span lang=FA style='font-size:20.0pt;line-height:107%;font-family:
-"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>&#1583;&#1587;&#1578;&#1585;&#1587;&#1740;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:20.0pt;line-height:
+115%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
+FA'>&#1583;&#1587;&#1578;&#1585;&#1587;&#1740;
 &#1705;&#1606;&#1578;&#1585;&#1604; &#1588;&#1583;&#1607; &#1576;&#1607;
 &#1601;&#1575;&#1740;&#1604; &#1607;&#1575; : </span></b><span lang=FA
-style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'>&#1576;&#1585;&#1575;&#1740; &#1583;&#1587;&#1578;&#1585;&#1587;&#1740;
 &#1576;&#1607; &#1601;&#1575;&#1740;&#1604; &#1607;&#1575; &#1548; &#1587;&#1740;&#1587;&#1578;&#1605;
 &#1593;&#1575;&#1605;&#1604; &#1606;&#1607; &#1578;&#1606;&#1607;&#1575;
@@ -1286,9 +1282,9 @@ FA'>&#1576;&#1585;&#1575;&#1740; &#1583;&#1587;&#1578;&#1585;&#1587;&#1740;
 &#1608;&#1585;&#1608;&#1583;&#1740;-&#1582;&#1585;&#1608;&#1580;&#1740;
 (&#1711;&#1585;&#1583;&#1575;&#1606;&#1606;&#1583;&#1607;
 &#1583;&#1740;&#1587;&#1705;</span><span dir=LTR></span><span dir=LTR
-style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=LTR></span>,</span><span dir=RTL></span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=RTL></span>
 &#1711;&#1585;&#1583;&#1575;&#1606;&#1606;&#1583;&#1607;
 &#1606;&#1608;&#1575;&#1585;) &#1570;&#1588;&#1606;&#1575;&#1740;&#1740;
@@ -1308,11 +1304,12 @@ mso-bidi-language:FA'><span dir=RTL></span>
 &#1601;&#1575;&#1740;&#1604; &#1607;&#1575; &#1601;&#1585;&#1575;&#1607;&#1605;
 &#1605;&#1740; &#1587;&#1575;&#1586;&#1583;</span><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><b><span lang=FA style='font-size:20.0pt;line-height:107%;font-family:
-"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>&#1583;&#1587;&#1578;&#1585;&#1587;&#1740;
-&#1576;&#1607; &#1587;&#1740;&#1587;&#1578;&#1605; : </span></b><span lang=FA
-style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:20.0pt;line-height:
+115%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
+FA'>&#1583;&#1587;&#1578;&#1585;&#1587;&#1740; &#1576;&#1607;
+&#1587;&#1740;&#1587;&#1578;&#1605; : </span></b><span lang=FA
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'>&#1576;&#1585;&#1575;&#1740; &#1587;&#1740;&#1587;&#1578;&#1605;
 &#1607;&#1575;&#1740; &#1575;&#1588;&#1578;&#1585;&#1575;&#1705;&#1740;
 &#1740;&#1575; &#1593;&#1605;&#1608;&#1605;&#1740; &#1548; &#1587;&#1740;&#1587;&#1578;&#1605;
@@ -1327,20 +1324,21 @@ mso-highlight:yellow'>&#1587;&#1740;&#1587;&#1578;&#1605;
 &#1705;&#1575;&#1585;&#1576;&#1585;&#1575;&#1606; &#1594;&#1740;&#1585;&#1605;&#1580;&#1575;&#1586;
 &#1581;&#1601;&#1575;&#1592;&#1578; &#1705;&#1606;&#1583; &#1608;
 &#1605;&#1588;&#1705;&#1604;&#1575;&#1578; &#1606;&#1575;&#1588;&#1740;
-&#1575;&#1586; &#1585;&#1602;&#1575;&#1576;&#1578; &#1576;&#1585;&#1575;&#1740;
-&#1605;&#1606;&#1575;&#1576;&#1593; &#1585;&#1575; &#1585;&#1601;&#1593;
-&#1705;&#1606;&#1583;</span><o:p></o:p></span></p>
+&#1575;&#1586; &#1585;&#1602;&#1575;&#1576;&#1578;&#1548;
+&#1576;&#1585;&#1575;&#1740; &#1605;&#1606;&#1575;&#1576;&#1593; &#1585;&#1575;
+&#1585;&#1601;&#1593; &#1705;&#1606;&#1583;</span><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><b><span lang=FA style='font-size:20.0pt;line-height:107%;font-family:
-"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>&#1705;&#1588;&#1601;
-&#1608; &#1662;&#1575;&#1587;&#1582;&#1711;&#1608;&#1740; &#1576;&#1607;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:20.0pt;line-height:
+115%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
+FA'>&#1705;&#1588;&#1601; &#1608;
+&#1662;&#1575;&#1587;&#1582;&#1711;&#1608;&#1740;&#1740; &#1576;&#1607;
 &#1582;&#1591;&#1575;&#1607;&#1575;: </span></b><span lang=FA style='font-size:
-14.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:FA'>&#1608;&#1602;&#1578;&#1740;
+14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'>&#1608;&#1602;&#1578;&#1740;
 &#1587;&#1740;&#1587;&#1578;&#1605; &#1581;&#1740;&#1606;
 &#1575;&#1580;&#1585;&#1575;&#1587;&#1578;&#1548; <span
 style='mso-spacerun:yes'>�</span>&#1605;&#1605;&#1705;&#1606;
@@ -1357,83 +1355,83 @@ style='mso-spacerun:yes'>�</span>&#1605;&#1605;&#1705;&#1606;
 </span>&#1608; &#1582;&#1591;&#1575; &#1607;&#1575;&#1740;
 &#1606;&#1585;&#1605; &#1575;&#1601;&#1586;&#1575;&#1585;&#1740;
 &#1605;&#1579;&#1604; &#1578;&#1602;&#1587;&#1740;&#1605; &#1576;&#1585;
-&#1589;&#1601;&#1585; &#1608; &#1587;&#1593;&#1740; &#1583;&#1585;
-&#1583;&#1587;&#1578;&#1585;&#1587;&#1740; &#1576;&#1607;
-&#1605;&#1705;&#1575;&#1606; &#1594;&#1740;&#1585; &#1605;&#1580;&#1575;&#1586;
-&#1608; &#1593;&#1583;&#1605; &#1578;&#1608;&#1575;&#1606;&#1575;&#1740;&#1740;
+&#1589;&#1601;&#1585; &#1608; &#1587;&#1593;&#1740; &#1583;&#1585; &#1583;&#1587;&#1578;&#1585;&#1587;&#1740;
+&#1576;&#1607; &#1605;&#1705;&#1575;&#1606; &#1594;&#1740;&#1585;
+&#1605;&#1580;&#1575;&#1586; &#1608; &#1593;&#1583;&#1605;
+&#1578;&#1608;&#1575;&#1606;&#1575;&#1740;&#1740;
 &#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
 &#1576;&#1585;&#1575;&#1740; &#1662;&#1575;&#1587;&#1582;&#1711;&#1608;&#1740;&#1740;
 &#1576;&#1607; &#1583;&#1585;&#1582;&#1608;&#1575;&#1587;&#1578; &#1740;&#1607;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
 &#1705;&#1575;&#1585;&#1576;&#1585;&#1583;&#1740;&#1548; </span><span dir=LTR></span><span
-lang=FA dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:
+lang=FA dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:
 "B Nazanin";mso-bidi-language:FA'><span dir=LTR></span><span
 style='mso-spacerun:yes'>�</span></span><span lang=FA style='font-size:14.0pt;
-line-height:107%;font-family:"B Nazanin";mso-bidi-language:FA'>&#1583;&#1585;
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'>&#1583;&#1585;
 &#1607;&#1585; &#1605;&#1608;&#1585;&#1583; &#1587;&#1740;&#1587;&#1578;&#1605;
 &#1593;&#1575;&#1605;&#1604; &#1576;&#1575;&#1740;&#1583; &#1576;&#1575;
 &#1705;&#1605;&#1578;&#1585;&#1740;&#1606; &#1578;&#1575;&#1579;&#1740;&#1585;
 &#1576;&#1585; &#1585;&#1608;&#1740; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
 &#1607;&#1575;&#1740; &#1705;&#1575;&#1585;&#1576;&#1585;&#1583;&#1740;
-&#1583;&#1585; &#1581;&#1575;&#1604; &#1575;&#1580;&#1585;&#1575;
+&#1583;&#1585; &#1581;&#1575;&#1604; &#1575;&#1580;&#1585;&#1575; &#1548;
 &#1588;&#1585;&#1575;&#1740;&#1591;</span><span dir=LTR></span><span lang=FA
-dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
-mso-bidi-language:FA'><span dir=LTR></span> </span><span dir=RTL></span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><span dir=RTL></span><span
-style='mso-spacerun:yes'>�</span>&#1582;&#1591;&#1575; &#1585;&#1575;
-&#1575;&#1586; &#1576;&#1740;&#1606; &#1576;&#1576;&#1585;&#1583; </span><span
-dir=LTR></span><span dir=LTR style='font-size:14.0pt;line-height:107%;
-mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><span dir=LTR></span>,</span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1593;&#1705;&#1587;
-&#1575;&#1604;&#1593;&#1605;&#1604; &#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
-&#1605;&#1740; &#1578;&#1608;&#1575;&#1606;&#1583;
-&#1662;&#1575;&#1740;&#1575;&#1606; &#1583;&#1575;&#1583;&#1607; &#1576;&#1607;
+dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
+mso-bidi-language:FA'><span dir=LTR></span> </span><span lang=FA
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
+FA'>&#1582;&#1591;&#1575; &#1585;&#1575; &#1575;&#1586; &#1576;&#1740;&#1606;
+&#1576;&#1576;&#1585;&#1583; </span><span dir=LTR></span><span dir=LTR
+style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
+mso-bidi-language:FA'><span dir=LTR></span>,</span><span lang=FA
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";background:
+yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1593;&#1705;&#1587; &#1575;&#1604;&#1593;&#1605;&#1604;
+&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604; &#1605;&#1740;
+&#1578;&#1608;&#1575;&#1606;&#1583; &#1662;&#1575;&#1740;&#1575;&#1606;
+&#1583;&#1575;&#1583;&#1607; &#1576;&#1607;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1593;&#1575;&#1605;&#1604;
 &#1582;&#1591;&#1575;&#1548;</span><span dir=LTR></span><span dir=LTR
-style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 background:yellow;mso-highlight:yellow;mso-bidi-language:FA'><span dir=LTR></span>,</span><span
-dir=RTL></span><span lang=FA style='font-size:14.0pt;line-height:107%;
+dir=RTL></span><span lang=FA style='font-size:14.0pt;line-height:115%;
 font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
 FA'><span dir=RTL></span> &#1578;&#1705;&#1585;&#1575;&#1585;
 &#1593;&#1605;&#1604;</span><span dir=LTR></span><span lang=FA dir=LTR
-style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 background:yellow;mso-highlight:yellow;mso-bidi-language:FA'><span dir=LTR></span>
-</span><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+</span><span lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1740;&#1575;
 &#1711;&#1586;&#1575;&#1585;&#1588; &#1582;&#1591;&#1575; &#1576;&#1607;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
 &#1705;&#1575;&#1585;&#1576;&#1585;&#1740; &#1576;&#1575;&#1588;&#1583;</span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><b><span lang=FA style='font-size:20.0pt;line-height:107%;font-family:
-"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>&#1581;&#1587;&#1575;&#1576;&#1583;&#1575;&#1585;&#1740;
-: </span></b><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:
-"B Nazanin";mso-bidi-language:FA'>&#1740;&#1705;
-&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
-&#1582;&#1608;&#1576; &#1570;&#1605;&#1575;&#1585; &#1576;&#1607;&#1585;&#1607;
-&#1576;&#1585;&#1583;&#1575;&#1585;&#1740; &#1575;&#1586;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:20.0pt;line-height:
+115%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
+FA'>&#1581;&#1587;&#1575;&#1576;&#1583;&#1575;&#1585;&#1740; : </span></b><span
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
+mso-bidi-language:FA'>&#1740;&#1705; &#1587;&#1740;&#1587;&#1578;&#1605;
+&#1593;&#1575;&#1605;&#1604; &#1582;&#1608;&#1576; &#1570;&#1605;&#1575;&#1585;
+&#1576;&#1607;&#1585;&#1607; &#1576;&#1585;&#1583;&#1575;&#1585;&#1740; &#1575;&#1586;
 &#1605;&#1606;&#1575;&#1576;&#1593; &#1605;&#1582;&#1578;&#1604;&#1601;
-&#1580;&#1605;&#1593; &#1570;&#1608;&#1585;&#1740; &#1705;&#1585;&#1583;&#1607;
-&#1608; &#1662;&#1575;&#1585;&#1575;&#1605;&#1578;&#1585; &#1607;&#1575;&#1740;
+&#1585;&#1575; &#1580;&#1605;&#1593; &#1570;&#1608;&#1585;&#1740;
+&#1705;&#1585;&#1583;&#1607; &#1608;
+&#1662;&#1575;&#1585;&#1575;&#1605;&#1578;&#1585; &#1607;&#1575;&#1740;
 &#1705;&#1575;&#1585;&#1575;&#1740;&#1740; &#1605;&#1579;&#1604;
 &#1586;&#1605;&#1575;&#1606; &#1662;&#1575;&#1587;&#1582; &#1585;&#1575;
-&#1606;&#1592;&#1575;&#1585;&#1578; &#1605;&#1740; &#1705;&#1606;&#1583;
-&#1583;&#1585; &#1607;&#1585; &#1587;&#1740;&#1587;&#1578;&#1605;
+&#1606;&#1592;&#1575;&#1585;&#1578; &#1605;&#1740; &#1705;&#1606;&#1583;.
+&#1583;&#1585; &#1607;&#1585; &#1587;&#1740;&#1587;&#1578;&#1605; &#1575;&#1586;
 &#1575;&#1740;&#1606; &#1575;&#1591;&#1604;&#1575;&#1593;&#1575;&#1578;
 &#1576;&#1585;&#1575;&#1740; &#1662;&#1740;&#1588; &#1576;&#1740;&#1606;&#1740;
 &#1606;&#1740;&#1575;&#1586; &#1607;&#1575;&#1740; &#1575;&#1578;&#1740;
 &#1608; &#1578;&#1606;&#1592;&#1740;&#1605; &#1587;&#1740;&#1587;&#1578;&#1605;
 &#1576;&#1585;&#1575;&#1740; &#1576;&#1607;&#1576;&#1608;&#1583;
 &#1705;&#1575;&#1585;&#1575;&#1740;&#1740; &#1605;&#1601;&#1740;&#1583;
-&#1608;&#1575;&#1602;&#1593; &#1605;&#1740; &#1588;&#1608;&#1583; <span
+&#1608;&#1575;&#1602;&#1593; &#1605;&#1740; &#1588;&#1608;&#1583;. <span
 style='background:yellow;mso-highlight:yellow'>&#1583;&#1585;
 &#1587;&#1740;&#1587;&#1578;&#1605; &#1670;&#1606;&#1583;
 &#1705;&#1575;&#1585;&#1576;&#1585;&#1607; &#1575;&#1586; &#1575;&#1740;&#1606;
@@ -1443,21 +1441,21 @@ style='background:yellow;mso-highlight:yellow'>&#1583;&#1585;
 &#1705;&#1575;&#1585;&#1576;&#1585;&#1575;&#1606;
 &#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607; &#1605;&#1740;
 &#1588;&#1608;&#1583;</span></span><span dir=LTR style='font-size:14.0pt;
-line-height:107%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p></o:p></span></p>
+line-height:115%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:
-"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;line-height:115%;
+mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:22.0pt;line-height:
-107%;font-family:"B Nazanin";color:#70AD47;mso-themecolor:accent6;mso-bidi-language:
-FA'>&#1580;&#1606;&#1576;&#1607; &#1607;&#1575;&#1740;
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:22.0pt;
+line-height:115%;font-family:"B Nazanin";color:#70AD47;mso-themecolor:accent6;
+mso-bidi-language:FA'>&#1580;&#1606;&#1576;&#1607; &#1607;&#1575;&#1740;
 &#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;:<o:p></o:p></span></b></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
 &#1593;&#1575;&#1605;&#1604; &#1605;&#1581;&#1740;&#1591;&#1740; &#1585;&#1575;
 &#1601;&#1585;&#1575;&#1607;&#1605; &#1605;&#1740; &#1587;&#1575;&#1586;&#1583;
 &#1705;&#1607; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1607;&#1575;
@@ -1474,60 +1472,56 @@ mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
 &#1575;&#1740;&#1606; &#1576;&#1582;&#1588; &#1576;&#1585;&#1587;&#1740;
 &#1605;&#1740; &#1588;&#1608;&#1583;<o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span dir=LTR style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:
-"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span dir=LTR style='font-size:16.0pt;line-height:115%;
+mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span dir=LTR style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:
-"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:20.0pt;line-height:
+115%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
+FA'>&#1670;&#1606;&#1583; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
+&#1575;&#1740; (</span></b><b><span dir=LTR style='font-size:20.0pt;line-height:
+115%;mso-bidi-font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;
+mso-bidi-language:FA'>multi program</span></b><span dir=RTL></span><b><span
+lang=FA style='font-size:20.0pt;line-height:115%;font-family:"B Nazanin";
+color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'><span dir=RTL></span>)</span></b><span
+dir=LTR></span><span dir=LTR style='font-size:16.0pt;line-height:115%;
+mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><span dir=LTR></span>:<o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><b><span lang=FA style='font-size:20.0pt;line-height:107%;font-family:
-"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>&#1670;&#1606;&#1583;
-&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1575;&#1740; (</span></b><b><span
-dir=LTR style='font-size:20.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
-color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>multi program</span></b><span
-dir=RTL></span><b><span lang=FA style='font-size:20.0pt;line-height:107%;
-font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
-FA'><span dir=RTL></span>)</span></b><span dir=LTR></span><span dir=LTR
-style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
-mso-bidi-language:FA'><span dir=LTR></span>:<o:p></o:p></span></p>
-
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1740;&#1705;&#1740;
-&#1575;&#1586; &#1605;&#1607;&#1605; &#1578;&#1585;&#1740;&#1606; &#1580;&#1606;&#1576;&#1607;
-&#1607;&#1575;&#1740; &#1587;&#1740;&#1587;&#1578;&#1605;
-&#1593;&#1575;&#1605;&#1604; &#1578;&#1608;&#1575;&#1606;&#1575;&#1740;&#1740;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;line-height:115%;
+font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
+FA'>&#1740;&#1705;&#1740; &#1575;&#1586; &#1605;&#1607;&#1605;
+&#1578;&#1585;&#1740;&#1606; &#1580;&#1606;&#1576;&#1607; &#1607;&#1575;&#1740;
+&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
+&#1578;&#1608;&#1575;&#1606;&#1575;&#1740;&#1740;
 &#1575;&#1606;&#1580;&#1575;&#1605; &#1670;&#1606;&#1583;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1575;&#1740; &#1575;&#1587;&#1578;</span><span
-lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:16.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'> <span style='background:lime;mso-highlight:lime'>&#1576;&#1607;
 &#1591;&#1608;&#1585; &#1705;&#1604;&#1740; &#1740;&#1705;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1606;&#1605;&#1740;
 &#1578;&#1608;&#1575;&#1606;&#1583; &#1576;&#1607; &#1591;&#1608;&#1585;
 &#1583;&#1575;&#1740;&#1605; &#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607;
 &#1608; &#1583;&#1587;&#1578;&#1711;&#1575;&#1607; &#1607;&#1575;&#1740; </span></span><span
-dir=LTR style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+dir=LTR style='font-size:16.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 background:lime;mso-highlight:lime;mso-bidi-language:FA'>i/o </span><span
-dir=RTL></span><span style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
+dir=RTL></span><span style='font-size:16.0pt;line-height:115%;font-family:"B Nazanin";
 background:lime;mso-highlight:lime;mso-bidi-language:FA'><span dir=RTL></span><span
 style='mso-spacerun:yes'>�</span><span lang=FA>&#1585;&#1575; &#1583;&#1585; &#1575;&#1582;&#1578;&#1740;&#1575;&#1585;
 &#1583;&#1575;&#1588;&#1578;&#1607; &#1576;&#1575;&#1588;&#1583;</span></span><span
-lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:16.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'> &#1594;&#1575;&#1604;&#1576;&#1575; &#1607;&#1585;
 &#1740;&#1705; &#1575;&#1586; &#1705;&#1575;&#1585;&#1576;&#1585;&#1575;&#1606;
 &#1670;&#1606;&#1583;&#1740;&#1606; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
 &#1585;&#1575; &#1583;&#1585; &#1581;&#1575;&#1604;
 &#1575;&#1580;&#1585;&#1575; &#1583;&#1575;&#1585;&#1606;&#1583; &#1548;<span
-style='background:yellow;mso-highlight:yellow'>&#1670;&#1606;&#1583;
-&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1575;&#1740;
-&#1576;&#1607;&#1585;&#1607; &#1608;&#1585;&#1740;
+style='background:yellow;mso-highlight:yellow'>&#1670;&#1606;&#1583; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
+&#1575;&#1740; &#1576;&#1607;&#1585;&#1607; &#1608;&#1585;&#1740;
 &#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607; &#1585;&#1575;
 &#1575;&#1601;&#1586;&#1575;&#1740;&#1588; &#1605;&#1740; &#1583;&#1607;&#1583;</span>
 &#1586;&#1740;&#1585;&#1575; &#1705;&#1575;&#1585;&#1607;&#1575;
@@ -1539,16 +1533,16 @@ style='background:yellow;mso-highlight:yellow'>&#1670;&#1606;&#1583;
 &#1576;&#1585;&#1575;&#1740; &#1575;&#1580;&#1585;&#1575;
 &#1583;&#1575;&#1585;&#1583;<o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'>&#1575;&#1740;&#1583;&#1607; &#1670;&#1606;&#1583;
-&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1575;&#1740; &#1576;&#1607;
-&#1575;&#1740;&#1606; &#1589;&#1608;&#1585;&#1578; &#1575;&#1587;&#1578;
-&#1705;&#1607; &#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'>&#1575;&#1740;&#1583;&#1607;
+&#1670;&#1606;&#1583; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1575;&#1740;
+&#1576;&#1607; &#1575;&#1740;&#1606; &#1589;&#1608;&#1585;&#1578;
+&#1575;&#1587;&#1578; &#1705;&#1607; &#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
 &#1607;&#1605;&#1586;&#1605;&#1575;&#1606; &#1670;&#1606;&#1583;&#1740;&#1606;
 &#1705;&#1575;&#1585; &#1585;&#1575; &#1583;&#1585;
 &#1581;&#1575;&#1601;&#1592;&#1607; &#1583;&#1575;&#1585;&#1583; &#1576;&#1607;
@@ -1562,15 +1556,15 @@ mso-bidi-language:FA'>&#1575;&#1740;&#1583;&#1607; &#1670;&#1606;&#1583;
 &#1608; &#1583;&#1585; <span style='color:black;mso-themecolor:text1;
 background:yellow;mso-highlight:yellow'>&#1605;&#1582;&#1586;&#1606;
 &#1705;&#1575;&#1585; (</span></span><span dir=LTR style='font-size:16.0pt;
-line-height:107%;mso-bidi-font-family:"B Nazanin";color:black;mso-themecolor:
+line-height:115%;mso-bidi-font-family:"B Nazanin";color:black;mso-themecolor:
 text1;background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>Job pool</span><span
-dir=RTL></span><span lang=FA style='font-size:16.0pt;line-height:107%;
+dir=RTL></span><span lang=FA style='font-size:16.0pt;line-height:115%;
 font-family:"B Nazanin";color:black;mso-themecolor:text1;background:yellow;
 mso-highlight:yellow;mso-bidi-language:FA'><span dir=RTL></span>)</span><span
-dir=LTR></span><span lang=FA dir=LTR style='font-size:16.0pt;line-height:107%;
+dir=LTR></span><span lang=FA dir=LTR style='font-size:16.0pt;line-height:115%;
 mso-bidi-font-family:"B Nazanin";color:black;mso-themecolor:text1;mso-bidi-language:
 FA'><span dir=LTR></span> </span><span lang=FA style='font-size:16.0pt;
-line-height:107%;font-family:"B Nazanin";mso-bidi-language:FA'>&#1584;&#1582;&#1740;&#1585;&#1607;
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'>&#1584;&#1582;&#1740;&#1585;&#1607;
 &#1605;&#1740; &#1588;&#1608;&#1606;&#1583; &#1575;&#1740;&#1606;
 &#1605;&#1582;&#1586;&#1606; &#1588;&#1575;&#1605;&#1604;
 &#1578;&#1605;&#1575;&#1605; &#1601;&#1585;&#1575;&#1740;&#1606;&#1583;
@@ -1579,80 +1573,76 @@ line-height:107%;font-family:"B Nazanin";mso-bidi-language:FA'>&#1584;&#1582;&#1
 &#1602;&#1585;&#1575;&#1585; &#1583;&#1575;&#1585;&#1606;&#1583; &#1608;
 &#1605;&#1606;&#1578;&#1592;&#1585; &#1607;&#1587;&#1578;&#1606;&#1583;
 &#1578;&#1575; &#1581;&#1575;&#1601;&#1592;&#1607; &#1575;&#1589;&#1604;&#1740;
-&#1576;&#1607; &#1575;&#1606; &#1607;&#1575; &#1578;&#1582;&#1589;&#1740;&#1589;
-&#1740;&#1575;&#1576;&#1583;<o:p></o:p></span></p>
+&#1576;&#1607; &#1570;&#1606; &#1607;&#1575;
+&#1578;&#1582;&#1589;&#1740;&#1589; &#1740;&#1575;&#1576;&#1583;<o:p></o:p></span></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span dir=LTR style='font-size:16.0pt;line-height:107%;
-mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span dir=LTR style='font-size:16.0pt;
+line-height:115%;mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Picture_x0020_6" o:spid="_x0000_i1026" type="#_x0000_t75" style='width:180.75pt;
  height:129pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="lecture-1_files/image010.png" o:title=""/>
+ <v:imagedata src="lecture-1_files/image011.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=241 height=172
-src="lecture-1_files/image011.png" v:shapes="Picture_x0020_6"><![endif]></span><span
-lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
+src="lecture-1_files/image012.png" v:shapes="Picture_x0020_6"><![endif]></span><span
+lang=FA style='font-size:16.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span dir=LTR style='font-size:16.0pt;line-height:107%;
-mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span dir=LTR style='font-size:16.0pt;
+line-height:115%;mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Picture_x0020_8" o:spid="_x0000_i1025" type="#_x0000_t75" style='width:225.75pt;
  height:126pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="lecture-1_files/image012.png" o:title=""/>
+ <v:imagedata src="lecture-1_files/image013.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=301 height=168
-src="lecture-1_files/image012.png" v:shapes="Picture_x0020_8"><![endif]></span><span
-dir=LTR style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+src="lecture-1_files/image013.png" v:shapes="Picture_x0020_8"><![endif]></span><span
+dir=LTR style='font-size:16.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;line-height:107%;
-font-family:"B Nazanin";mso-bidi-language:FA'>&#1605;&#1580;&#1605;&#1608;&#1593;&#1607;
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'>&#1605;&#1580;&#1605;&#1608;&#1593;&#1607;
 &#1575;&#1740; &#1575;&#1586; &#1705;&#1575;&#1585; &#1607;&#1575; (</span><span
-dir=LTR style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+dir=LTR style='font-size:16.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'>Jobs</span><span dir=RTL></span><span lang=FA
-style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:16.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'><span dir=RTL></span>)</span><span dir=LTR></span><span lang=FA dir=LTR
-style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+style='font-size:16.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=LTR></span> </span><span lang=FA
-style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:16.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'>&#1583;&#1585; &#1581;&#1575;&#1601;&#1592;&#1607; &#1605;&#1740;
-&#1578;&#1608;&#1575;&#1606;&#1583; &#1586;&#1740;&#1585;
-&#1605;&#1580;&#1605;&#1608;&#1593;&#1607; &#1575;&#1740; &#1575;&#1586;
-&#1705;&#1575;&#1585; &#1607;&#1575;&#1740;&#1740; &#1576;&#1575;&#1588;&#1583;
-&#1705;&#1607; &#1583;&#1585; &#1605;&#1582;&#1586;&#1606;
-&#1705;&#1575;&#1585; &#1607;&#1575; <span
+&#1578;&#1608;&#1575;&#1606;&#1583; &#1586;&#1740;&#1585; &#1605;&#1580;&#1605;&#1608;&#1593;&#1607;
+&#1575;&#1740; &#1575;&#1586; &#1705;&#1575;&#1585;
+&#1607;&#1575;&#1740;&#1740; &#1576;&#1575;&#1588;&#1583; &#1705;&#1607;
+&#1583;&#1585; &#1605;&#1582;&#1586;&#1606; &#1705;&#1575;&#1585;
+&#1607;&#1575; <span
 style='mso-spacerun:yes'>�</span>&#1606;&#1711;&#1607;&#1583;&#1575;&#1585;&#1740;
 &#1605;&#1740; &#1588;&#1608;&#1606;&#1583;</span><span dir=LTR></span><span
-dir=LTR style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+dir=LTR style='font-size:16.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=LTR></span>.</span><span dir=RTL></span><span
-lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:16.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=RTL></span> &#1587;&#1740;&#1587;&#1578;&#1605;
 &#1593;&#1575;&#1605;&#1604; &#1740;&#1705;&#1740; &#1575;&#1586;
 &#1705;&#1575;&#1585;&#1607;&#1575;&#1740; &#1605;&#1608;&#1580;&#1608;&#1583;
 &#1583;&#1585; &#1581;&#1575;&#1601;&#1592;&#1607; &#1585;&#1575; &#1575;&#1606;&#1578;&#1582;&#1575;&#1576;
 &#1608; &#1588;&#1585;&#1608;&#1593; &#1576;&#1607; &#1575;&#1580;&#1585;&#1575;&#1740;
-&#1570;&#1606; &#1605;&#1740; &#1705;&#1606;&#1583;
-&#1587;&#1585;&#1575;&#1606;&#1580;&#1575;&#1605; </span><span dir=LTR></span><span
-dir=LTR style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
-mso-bidi-language:FA'><span dir=LTR></span>,</span><span lang=FA
-style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
-FA'>&#1575;&#1740;&#1606; &#1705;&#1575;&#1585; &#1605;&#1605;&#1705;&#1606;
-&#1575;&#1587;&#1578; &#1605;&#1606;&#1578;&#1592;&#1585;
-&#1576;&#1605;&#1575;&#1606;&#1583; &#1578;&#1575;
+&#1570;&#1606; &#1605;&#1740; &#1705;&#1606;&#1583;.
+&#1587;&#1585;&#1575;&#1606;&#1580;&#1575;&#1605; &#1548; &#1575;&#1740;&#1606;
+&#1705;&#1575;&#1585; &#1605;&#1605;&#1705;&#1606; &#1575;&#1587;&#1578;
+&#1605;&#1606;&#1578;&#1592;&#1585; &#1576;&#1605;&#1575;&#1606;&#1583; &#1578;&#1575;
 &#1593;&#1605;&#1604;&#1740;&#1575;&#1578;&#1740; &#1605;&#1579;&#1604; </span><span
-dir=LTR style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+dir=LTR style='font-size:16.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'>i/o </span><span dir=RTL></span><span lang=FA
-style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:16.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'><span dir=RTL></span><span
 style='mso-spacerun:yes'>�</span>&#1575;&#1606;&#1580;&#1575;&#1605;
 &#1711;&#1740;&#1585;&#1583;</span><span dir=LTR></span><span dir=LTR
-style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+style='font-size:16.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=LTR></span>.</span><span dir=RTL></span><span
-style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:16.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'><span dir=RTL></span> <span lang=FA style='background:lime;mso-highlight:
 lime'>&#1583;&#1585; &#1575;&#1740;&#1606; &#1581;&#1575;&#1604;&#1578;
 &#1587;&#1740;&#1587;&#1578;&#1605; &#1594;&#1740;&#1585; &#1670;&#1606;&#1583;
@@ -1662,15 +1652,14 @@ lime'>&#1583;&#1585; &#1575;&#1740;&#1606; &#1581;&#1575;&#1604;&#1578;
 lang=FA> &#1575;&#1605;&#1575; &#1583;&#1585;
 &#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
 &#1670;&#1606;&#1583; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1575;&#1740;
-&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604; &#1705;&#1575;&#1585;
-&#1583;&#1740;&#1711;&#1585;&#1575; &#1585;&#1575; &#1575;&#1580;&#1585;&#1575;
-&#1605;&#1740; &#1705;&#1606;&#1583; &#1608;&#1602;&#1578;&#1740;
-&#1575;&#1740;&#1606; &#1705;&#1575;&#1585; &#1602;&#1585;&#1575;&#1585;
+&#1548; &#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
+&#1705;&#1575;&#1585; &#1583;&#1740;&#1711;&#1585;&#1740; &#1585;&#1575;
+&#1575;&#1580;&#1585;&#1575; &#1605;&#1740; &#1705;&#1606;&#1583;.
+&#1608;&#1602;&#1578;&#1740; &#1575;&#1740;&#1606; &#1705;&#1575;&#1585; &#1602;&#1585;&#1575;&#1585;
 &#1575;&#1587;&#1578; &#1605;&#1606;&#1578;&#1592;&#1585;
 &#1576;&#1605;&#1575;&#1606;&#1583; &#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
-&#1576;&#1607; &#1576;&#1607; &#1705;&#1575;&#1585;
-&#1583;&#1740;&#1711;&#1585;&#1740; &#1605;&#1740;
-&#1662;&#1585;&#1583;&#1575;&#1586;&#1583; &#1608;
+&#1576;&#1607; &#1705;&#1575;&#1585; &#1583;&#1740;&#1711;&#1585;&#1740;
+&#1605;&#1740; &#1662;&#1585;&#1583;&#1575;&#1586;&#1583; &#1608;
 &#1587;&#1585;&#1575;&#1606;&#1580;&#1575;&#1605; &#1705;&#1575;&#1585;
 &#1575;&#1608;&#1604; &#1575;&#1586; &#1581;&#1575;&#1604;&#1578;
 &#1575;&#1606;&#1578;&#1592;&#1575;&#1585; &#1582;&#1575;&#1585;&#1580;
@@ -1683,24 +1672,24 @@ lime'>&#1578;&#1575; &#1586;&#1605;&#1575;&#1606;&#1740; &#1705;&#1607;
 &#1576;&#1585;&#1575;&#1740; &#1575;&#1580;&#1585;&#1575;
 &#1608;&#1580;&#1608;&#1583; &#1583;&#1575;&#1585;&#1583;
 &#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607; &#1576;&#1740;
-&#1705;&#1575;&#1585; &#1606;&#1582;&#1608;&#1575;&#1607;&#1583;
-&#1576;&#1608;&#1583;</span></span></span><span dir=LTR style='font-size:16.0pt;
-line-height:107%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p></o:p></span></p>
+&#1705;&#1575;&#1585; &#1606;&#1582;&#1608;&#1575;&#1607;&#1583; &#1576;&#1608;&#1583;</span></span></span><span
+dir=LTR style='font-size:16.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
+mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;line-height:107%;
-font-family:"B Nazanin";mso-bidi-language:FA'>&#1575;&#1740;&#1606;
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'>&#1575;&#1740;&#1606;
 &#1575;&#1740;&#1583;&#1607; &#1583;&#1585; &#1588;&#1585;&#1575;&#1740;&#1591;
 &#1586;&#1606;&#1583;&#1711;&#1740; &#1606;&#1740;&#1586;
 &#1608;&#1580;&#1608;&#1583; &#1583;&#1575;&#1585;&#1583;
 &#1605;&#1579;&#1604;&#1575; &#1740;&#1705; &#1608;&#1705;&#1740;&#1604;
-&#1583;&#1585; &#1607;&#1585; &#1586;&#1605;&#1575;&#1606; &#1601;&#1602;&#1591;
-&#1576;&#1585;&#1575;&#1740; &#1740;&#1705; &#1605;&#1588;&#1578;&#1585;&#1740;
-&#1705;&#1575;&#1585; &#1606;&#1605;&#1740; &#1705;&#1606;&#1583;
-&#1608;&#1602;&#1578;&#1740; &#1740;&#1705;&#1740; &#1575;&#1586; &#1570;&#1606;
-&#1607;&#1575; &#1606;&#1740;&#1575;&#1586; &#1576;&#1607;
-&#1705;&#1575;&#1585; &#1583;&#1740;&#1711;&#1585; &#1605;&#1579;&#1604;
-&#1578;&#1575;&#1740;&#1662; &#1606;&#1575;&#1605;&#1607;
+&#1583;&#1585; &#1607;&#1585; &#1586;&#1605;&#1575;&#1606;
+&#1601;&#1602;&#1591; &#1576;&#1585;&#1575;&#1740; &#1740;&#1705;
+&#1605;&#1588;&#1578;&#1585;&#1740; &#1705;&#1575;&#1585; &#1606;&#1605;&#1740;
+&#1705;&#1606;&#1583; &#1608;&#1602;&#1578;&#1740; &#1740;&#1705;&#1740;
+&#1575;&#1586; &#1570;&#1606; &#1607;&#1575; &#1606;&#1740;&#1575;&#1586;
+&#1576;&#1607; &#1705;&#1575;&#1585; &#1583;&#1740;&#1711;&#1585;
+&#1605;&#1579;&#1604; &#1578;&#1575;&#1740;&#1662; &#1606;&#1575;&#1605;&#1607;
 &#1583;&#1575;&#1585;&#1583; &#1608;&#1705;&#1740;&#1604; &#1576;&#1607;
 &#1605;&#1588;&#1578;&#1585;&#1740; &#1583;&#1740;&#1711;&#1585; &#1605;&#1740;
 &#1662;&#1585;&#1583;&#1575;&#1586;&#1583; &#1575;&#1711;&#1585;
@@ -1710,11 +1699,11 @@ font-family:"B Nazanin";mso-bidi-language:FA'>&#1575;&#1740;&#1606;
 &#1705;&#1575;&#1585; &#1606;&#1582;&#1608;&#1575;&#1607;&#1583;
 &#1576;&#1608;&#1583;<o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
-background:lime;mso-highlight:lime;mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
-&#1607;&#1575;&#1740; &#1670;&#1606;&#1583;
-&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1575;&#1740;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;line-height:115%;
+font-family:"B Nazanin";background:lime;mso-highlight:lime;mso-bidi-language:
+FA'>&#1587;&#1740;&#1587;&#1578;&#1605; &#1607;&#1575;&#1740;
+&#1670;&#1606;&#1583; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1575;&#1740;
 &#1605;&#1581;&#1740;&#1591;&#1740; &#1585;&#1575;
 &#1601;&#1585;&#1575;&#1607;&#1605; &#1605;&#1740; &#1705;&#1606;&#1606;&#1583;
 &#1705;&#1607; &#1583;&#1585; &#1570;&#1606;
@@ -1730,41 +1719,54 @@ background:lime;mso-highlight:lime;mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#
 &#1576;&#1585;&#1575;&#1740; &#1578;&#1593;&#1575;&#1605;&#1604; &#1576;&#1575;
 &#1705;&#1575;&#1585;&#1576;&#1585; &#1601;&#1585;&#1575;&#1607;&#1605;
 &#1606;&#1588;&#1583;&#1607; &#1575;&#1606;&#1583;</span><span lang=FA
-style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:16.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;line-height:107%;
-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><b><span lang=FA style='font-size:16.0pt;line-height:107%;font-family:
-"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>&#1575;&#1588;&#1578;&#1585;&#1575;&#1705;
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:16.0pt;line-height:
+115%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
+FA'>&#1575;&#1588;&#1578;&#1585;&#1575;&#1705;
 &#1586;&#1605;&#1575;&#1606;&#1740;(</span></b><b><span dir=LTR
-style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+style='font-size:16.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>Time Sharing</span></b><span
-dir=RTL></span><b><span lang=FA style='font-size:16.0pt;line-height:107%;
+dir=RTL></span><b><span lang=FA style='font-size:16.0pt;line-height:115%;
 font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
 FA'><span dir=RTL></span>) &#1670;&#1606;&#1583;
 &#1608;&#1592;&#1740;&#1601;&#1607; &#1575;&#1740; (</span></b><span
-class=SpellE><b><span dir=LTR style='font-size:16.0pt;line-height:107%;
+class=SpellE><b><span dir=LTR style='font-size:16.0pt;line-height:115%;
 mso-bidi-font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;
 mso-bidi-language:FA'>multi tasking</span></b></span><span dir=RTL></span><b><span
-lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:16.0pt;line-height:115%;font-family:"B Nazanin";
 color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'><span dir=RTL></span>)</span></b><span
-dir=LTR></span><b><span dir=LTR style='font-size:16.0pt;line-height:107%;
+dir=LTR></span><b><span dir=LTR style='font-size:16.0pt;line-height:115%;
 mso-bidi-font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;
 mso-bidi-language:FA'><span dir=LTR></span>:</span></b><b><span lang=FA
-style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";color:#4472C4;
+style='font-size:16.0pt;line-height:115%;font-family:"B Nazanin";color:#4472C4;
 mso-themecolor:accent1;mso-bidi-language:FA'><o:p></o:p></span></b></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;line-height:107%;
-font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
-FA'>&#1576;&#1587;&#1591; &#1605;&#1606;&#1591;&#1602;&#1740;
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;
+line-height:115%;font-family:"B Nazanin";background:yellow;mso-highlight:yellow;
+mso-bidi-language:FA'>&#1576;&#1587;&#1591; &#1605;&#1606;&#1591;&#1602;&#1740;
 &#1670;&#1606;&#1583; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1575;&#1740;
 &#1575;&#1587;&#1578;</span><span lang=FA style='font-size:16.0pt;line-height:
-107%;font-family:"B Nazanin";mso-bidi-language:FA'> &#1583;&#1585;
+115%;font-family:"B Nazanin";mso-bidi-language:FA'>. &#1583;&#1585;
 &#1587;&#1740;&#1587;&#1578;&#1605; &#1607;&#1575;&#1740;
 &#1575;&#1588;&#1578;&#1585;&#1575;&#1705; &#1586;&#1605;&#1575;&#1606;&#1740;&#1548;
 &#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607;
@@ -1780,39 +1782,43 @@ FA'>&#1576;&#1587;&#1591; &#1605;&#1606;&#1591;&#1602;&#1740;
 &#1740;&#1575; &#1705;&#1575;&#1585;&#1576;&#1585;&#1575;&#1606; &#1605;&#1740;
 &#1578;&#1608;&#1575;&#1606;&#1606;&#1583; &#1576;&#1575; &#1607;&#1585;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1583;&#1585; &#1581;&#1575;&#1604;
-&#1575;&#1580;&#1585;&#1575; &#1578;&#1593;&#1575;&#1605;&#1604; &#1583;&#1575;&#1588;&#1578;&#1607;
-&#1576;&#1575;&#1588;&#1606;&#1583;<o:p></o:p></span></p>
+&#1575;&#1580;&#1585;&#1575; &#1578;&#1593;&#1575;&#1605;&#1604;
+&#1583;&#1575;&#1588;&#1578;&#1607; &#1576;&#1575;&#1588;&#1606;&#1583;<o:p></o:p></span></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:107%;
-font-family:"B Nazanin";background:lime;mso-highlight:lime;mso-bidi-language:
-FA'>&#1575;&#1588;&#1578;&#1585;&#1575;&#1705;
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;
+line-height:115%;font-family:"B Nazanin";background:lime;mso-highlight:lime;
+mso-bidi-language:FA'>&#1575;&#1588;&#1578;&#1585;&#1575;&#1705;
 &#1586;&#1605;&#1575;&#1606;&#1740; &#1576;&#1607; </span><b><span lang=FA
-style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";background:
+style='font-size:16.0pt;line-height:115%;font-family:"B Nazanin";background:
 yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
 &#1705;&#1575;&#1605;&#1662;&#1740;&#1608;&#1578;&#1585;
 &#1605;&#1581;&#1575;&#1608;&#1585;&#1607; &#1575;&#1740; (</span></b><b><span
-dir=LTR style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+dir=LTR style='font-size:16.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>interactive</span></b><span
-dir=RTL></span><b><span lang=FA style='font-size:16.0pt;line-height:107%;
+dir=RTL></span><b><span lang=FA style='font-size:16.0pt;line-height:115%;
 font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
 FA'><span dir=RTL></span>)</span></b><span dir=LTR></span><b><span lang=FA
-dir=LTR style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+dir=LTR style='font-size:16.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 background:yellow;mso-highlight:yellow;mso-bidi-language:FA'><span dir=LTR></span>
 </span></b><span dir=RTL></span><b><span lang=FA style='font-size:16.0pt;
-line-height:107%;font-family:"B Nazanin";background:yellow;mso-highlight:yellow;
+line-height:115%;font-family:"B Nazanin";background:yellow;mso-highlight:yellow;
 mso-bidi-language:FA'><span dir=RTL></span><span
 style='mso-spacerun:yes'>�</span></span></b><span lang=FA style='font-size:
-14.0pt;line-height:107%;font-family:"B Nazanin";background:lime;mso-highlight:
+14.0pt;line-height:115%;font-family:"B Nazanin";background:lime;mso-highlight:
 lime;mso-bidi-language:FA'>&#1606;&#1740;&#1575;&#1586;
 &#1583;&#1575;&#1585;&#1583;</span><span lang=FA style='font-size:14.0pt;
-line-height:107%;font-family:"B Nazanin";mso-bidi-language:FA'> &#1705;&#1607;
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'> &#1705;&#1607;
 &#1575;&#1585;&#1578;&#1576;&#1575;&#1591;
 &#1605;&#1587;&#1578;&#1602;&#1740;&#1605;&#1740; &#1576;&#1740;&#1606;
 &#1705;&#1575;&#1585;&#1576;&#1585; &#1608; &#1587;&#1740;&#1587;&#1578;&#1605;
 &#1576;&#1585;&#1602;&#1585;&#1575;&#1585; &#1605;&#1740;
-&#1587;&#1575;&#1586;&#1583; &#1705;&#1575;&#1585;&#1576;&#1585; &#1576;&#1575;
-&#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607; &#1575;&#1586;
+&#1587;&#1575;&#1586;&#1583;. &#1705;&#1575;&#1585;&#1576;&#1585;
+&#1576;&#1575; &#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607; &#1575;&#1586;
 &#1583;&#1587;&#1578;&#1711;&#1575;&#1607; &#1608;&#1585;&#1608;&#1583;&#1740;
 &#1605;&#1579;&#1604; &#1589;&#1601;&#1581;&#1607; &#1705;&#1604;&#1740;&#1583;
 &#1740;&#1575; &#1605;&#1608;&#1587; &#1576;&#1607;
@@ -1824,34 +1830,38 @@ line-height:107%;font-family:"B Nazanin";mso-bidi-language:FA'> &#1705;&#1607;
 &#1605;&#1606;&#1578;&#1592;&#1585; &#1606;&#1578;&#1740;&#1580;&#1607; &#1740;
 &#1570;&#1606; &#1583;&#1585; &#1740;&#1705;
 &#1583;&#1587;&#1578;&#1711;&#1575;&#1607; &#1582;&#1585;&#1608;&#1580;&#1740;
-&#1605;&#1740; &#1605;&#1575;&#1606;&#1583; <span style='background:yellow;
-mso-highlight:yellow'>&#1576;&#1606;&#1575;&#1576;&#1585;&#1575;&#1740;&#1606; </span></span><b><span
-lang=FA style='font-size:18.0pt;line-height:107%;font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1586;&#1605;&#1575;&#1606;
-&#1662;&#1575;&#1587;&#1582; </span></b><span lang=FA style='font-size:14.0pt;
-line-height:107%;font-family:"B Nazanin";background:yellow;mso-highlight:yellow;
-mso-bidi-language:FA'>&#1576;&#1575;&#1740;&#1583;
+&#1605;&#1740; &#1605;&#1575;&#1606;&#1583; &#1548; <span style='background:
+yellow;mso-highlight:yellow'>&#1576;&#1606;&#1575;&#1576;&#1585;&#1575;&#1740;&#1606;
+</span></span><b><span lang=FA style='font-size:18.0pt;line-height:115%;
+font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
+FA'>&#1586;&#1605;&#1575;&#1606; &#1662;&#1575;&#1587;&#1582; </span></b><span
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
+background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1576;&#1575;&#1740;&#1583;
 &#1705;&#1608;&#1578;&#1575;&#1607; &#1576;&#1575;&#1588;&#1583;</span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'> </span><span lang=FA style='font-size:14.0pt;line-height:
-107%;font-family:"Times New Roman",serif;mso-bidi-language:FA'>�</span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+115%;font-family:"Times New Roman",serif;mso-bidi-language:FA'>�</span><span
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'> &#1605;&#1593;&#1605;&#1608;&#1604;&#1575;
 &#1705;&#1605;&#1578;&#1585; &#1575;&#1586; &#1740;&#1705;
 &#1579;&#1575;&#1606;&#1740;&#1607;<o:p></o:p></span></p>
 
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:107%;
-font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
-FA'>&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
-&#1575;&#1588;&#1578;&#1585;&#1575;&#1705; &#1586;&#1605;&#1575;&#1606;&#1740;
-&#1575;&#1580;&#1575;&#1586;&#1607; &#1605;&#1740; &#1583;&#1607;&#1583;
-&#1705;&#1575;&#1585;&#1576;&#1585;&#1575;&#1606;
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;
+line-height:115%;font-family:"B Nazanin";background:yellow;mso-highlight:yellow;
+mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
+&#1593;&#1575;&#1605;&#1604; &#1575;&#1588;&#1578;&#1585;&#1575;&#1705;
+&#1586;&#1605;&#1575;&#1606;&#1740; &#1575;&#1580;&#1575;&#1586;&#1607;
+&#1605;&#1740; &#1583;&#1607;&#1583; &#1705;&#1575;&#1585;&#1576;&#1585;&#1575;&#1606;
 &#1605;&#1578;&#1593;&#1583;&#1583;&#1740; &#1576;&#1607; &#1591;&#1608;&#1585;
 &#1607;&#1605;&#1586;&#1605;&#1575;&#1606; &#1583;&#1585; &#1740;&#1705;
 &#1705;&#1575;&#1605;&#1662;&#1740;&#1608;&#1578;&#1585;
 &#1605;&#1588;&#1578;&#1585;&#1705; &#1576;&#1575;&#1588;&#1606;&#1583;</span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'> &#1670;&#1608;&#1606; &#1607;&#1585;
 &#1601;&#1593;&#1575;&#1604;&#1740;&#1578; &#1740;&#1575;
 &#1601;&#1585;&#1605;&#1575;&#1606; &#1583;&#1585;
@@ -1874,72 +1884,92 @@ style='background:yellow;mso-highlight:yellow'>&#1670;&#1608;&#1606;
 &#1670;&#1606;&#1583;&#1740;&#1606; &#1705;&#1575;&#1585;&#1576;&#1585;
 &#1605;&#1588;&#1578;&#1585;&#1705; &#1575;&#1587;&#1578;<o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
 &#1593;&#1575;&#1605;&#1604; &#1575;&#1588;&#1578;&#1585;&#1575;&#1705;
 &#1586;&#1605;&#1575;&#1606;&#1740; &#1576;&#1575;
 &#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607; &#1575;&#1586;
 &#1586;&#1605;&#1575;&#1606;&#1576;&#1583;&#1740; &#1670;&#1606;&#1583;
-&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1575;&#1740; &#1576;&#1582;&#1588;
+&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1575;&#1740; &#1548; &#1576;&#1582;&#1588;
 &#1705;&#1608;&#1670;&#1705;&#1740; &#1575;&#1586; &#1705;&#1604;
 &#1705;&#1575;&#1605;&#1662;&#1740;&#1608;&#1578;&#1585;
 &#1575;&#1588;&#1578;&#1585;&#1575;&#1705; &#1586;&#1605;&#1575;&#1606;&#1740;
 &#1585;&#1575; &#1583;&#1585; &#1575;&#1582;&#1578;&#1740;&#1575;&#1585;
 &#1607;&#1585; &#1705;&#1575;&#1585;&#1576;&#1585; &#1602;&#1585;&#1575;&#1585;
-&#1605;&#1740; &#1583;&#1607;&#1583; <o:p></o:p></span></p>
+&#1605;&#1740; &#1583;&#1607;&#1583;<o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
-&#1575;&#1740; &#1608;&#1575;&#1585;&#1583; &#1581;&#1575;&#1601;&#1592;&#1607;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><span
+style='mso-spacerun:yes'>�</span><o:p></o:p></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
+FA'>&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1575;&#1740;
+&#1608;&#1575;&#1585;&#1583; &#1581;&#1575;&#1601;&#1592;&#1607;
 &#1588;&#1583;&#1607; &#1575;&#1587;&#1578; &#1608; &#1583;&#1585;
 &#1581;&#1575;&#1604; &#1575;&#1580;&#1585;&#1575; &#1575;&#1587;&#1578;
 &#1601;&#1585;&#1575;&#1740;&#1606;&#1583;&#1607; (</span><span dir=LTR
-style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>process</span><span
-dir=RTL></span><span lang=FA style='font-size:14.0pt;line-height:107%;
+style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
+background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>Process</span><span
+dir=RTL></span><span lang=FA style='font-size:14.0pt;line-height:115%;
 font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
 FA'><span dir=RTL></span>)</span><span dir=LTR></span><span lang=FA dir=LTR
-style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 background:yellow;mso-highlight:yellow;mso-bidi-language:FA'><span dir=LTR></span>
-</span><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+</span><span lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1606;&#1575;&#1605;
 &#1583;&#1575;&#1585;&#1583;</span><span lang=FA style='font-size:14.0pt;
-line-height:107%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p></o:p></span></p>
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
-&#1740;&#1705; &#1606;&#1607;&#1575;&#1583;
-&#1594;&#1740;&#1585;&#1601;&#1593;&#1575;&#1604; &#1608;&#1604;&#1740;
-&#1601;&#1585;&#1575;&#1740;&#1606;&#1583; &#1740;&#1705;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
+FA'>&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1740;&#1705;
+&#1606;&#1607;&#1575;&#1583; &#1594;&#1740;&#1585;&#1601;&#1593;&#1575;&#1604;
+&#1608;&#1604;&#1740; &#1601;&#1585;&#1575;&#1740;&#1606;&#1583; &#1740;&#1705;
 &#1606;&#1607;&#1575;&#1583; &#1601;&#1593;&#1575;&#1604; &#1605;&#1740;
 &#1576;&#1575;&#1588;&#1583;</span><span lang=FA style='font-size:14.0pt;
-line-height:107%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p></o:p></span></p>
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'>&#1608;&#1602;&#1578;&#1740;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'>&#1608;&#1602;&#1578;&#1740;
 &#1601;&#1585;&#1575;&#1740;&#1606;&#1583;&#1740; &#1575;&#1580;&#1585;&#1575;
-&#1605;&#1740; &#1588;&#1608;&#1583; &#1601;&#1602;&#1591; &#1583;&#1585;
-&#1605;&#1583;&#1578; &#1586;&#1605;&#1575;&#1606; &#1705;&#1608;&#1578;&#1575;&#1607;&#1740;
-&#1575;&#1580;&#1585;&#1575; &#1605;&#1740; &#1588;&#1608;&#1583;
-&#1578;&#1575; &#1578;&#1605;&#1575;&#1605; &#1588;&#1608;&#1583;
-&#1740;&#1575; &#1606;&#1740;&#1575;&#1586; &#1576;&#1607;
-&#1575;&#1606;&#1580;&#1575;&#1605; &#1593;&#1605;&#1604; </span><span dir=LTR
-style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
-mso-bidi-language:FA'>i/o</span><span dir=RTL></span><span style='font-size:
-14.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:FA'><span
-dir=RTL></span> <span style='mso-spacerun:yes'>�</span><span lang=FA>&#1583;&#1575;&#1588;&#1578;&#1607;
-&#1576;&#1575;&#1588;&#1583; &#1605;&#1606;&#1578;&#1592;&#1585; &#1576;&#1605;&#1575;&#1606;&#1583;</span></span><span
-dir=LTR></span><span dir=LTR style='font-size:14.0pt;line-height:107%;
+&#1605;&#1740; &#1588;&#1608;&#1583; &#1548; &#1601;&#1602;&#1591;
+&#1583;&#1585; &#1605;&#1583;&#1578; &#1586;&#1605;&#1575;&#1606;
+&#1705;&#1608;&#1578;&#1575;&#1607;&#1740; &#1575;&#1580;&#1585;&#1575;
+&#1605;&#1740; &#1588;&#1608;&#1583; &#1578;&#1575;
+&#1578;&#1605;&#1575;&#1605; &#1588;&#1608;&#1583; &#1740;&#1575;
+&#1606;&#1740;&#1575;&#1586; &#1576;&#1607; &#1575;&#1606;&#1580;&#1575;&#1605;
+&#1593;&#1605;&#1604; </span><span dir=LTR style='font-size:14.0pt;line-height:
+115%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'>i/o</span><span
+dir=RTL></span><span style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
+mso-bidi-language:FA'><span dir=RTL></span> <span
+style='mso-spacerun:yes'>�</span><span lang=FA>&#1583;&#1575;&#1588;&#1578;&#1607;
+&#1576;&#1575;&#1588;&#1583;&#1608; <span
+style='mso-spacerun:yes'>�</span>&#1605;&#1606;&#1578;&#1592;&#1585; &#1576;&#1605;&#1575;&#1606;&#1583;</span></span><span
+dir=LTR></span><span dir=LTR style='font-size:14.0pt;line-height:115%;
 mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><span dir=LTR></span>.</span><span
-dir=RTL></span><span style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+dir=RTL></span><span style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=RTL></span> <span lang=FA>&#1605;&#1605;&#1705;&#1606;
 &#1575;&#1587;&#1578; </span></span><span dir=LTR style='font-size:14.0pt;
-line-height:107%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'>i/o</span><span
-dir=RTL></span><span style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+line-height:115%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'>i/o</span><span
+dir=RTL></span><span style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=RTL></span> <span
 style='mso-spacerun:yes'>�</span><span lang=FA>&#1605;&#1581;&#1575;&#1608;&#1585;&#1607;
 &#1575;&#1740; &#1576;&#1575;&#1588;&#1583; &#1740;&#1593;&#1606;&#1740;
@@ -1949,24 +1979,27 @@ style='mso-spacerun:yes'>�</span><span lang=FA>&#1605;&#1581;&#1575;&#1608;&#1
 &#1576;&#1576;&#1740;&#1606;&#1583; &#1608; &#1740;&#1575;
 &#1608;&#1585;&#1608;&#1583;&#1740; &#1575;&#1586; &#1589;&#1601;&#1581;&#1607;
 &#1705;&#1604;&#1740;&#1583; </span></span><span dir=LTR></span><span dir=LTR
-style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=LTR></span>,</span><span dir=RTL></span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=RTL></span> &#1605;&#1575;&#1608;&#1587;
-&#1740;&#1575; &#1583;&#1587;&#1578;&#1711;&#1575;&#1607;<span
-style='mso-spacerun:yes'>� </span>&#1583;&#1740;&#1711;&#1585;&#1740; &#1605;&#1740;
-&#1570;&#1740;&#1583; &#1670;&#1608;&#1606; </span><span dir=LTR
-style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+&#1740;&#1575; &#1583;&#1587;&#1578;&#1711;&#1575;&#1607; &#1583;&#1740;&#1711;&#1585;&#1740;
+&#1605;&#1740; &#1570;&#1740;&#1583;</span><span dir=LTR></span><span dir=LTR
+style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
+mso-bidi-language:FA'><span dir=LTR></span>.</span><span dir=RTL></span><span
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
+mso-bidi-language:FA'><span dir=RTL></span> &#1670;&#1608;&#1606;</span><span
+dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'>i/o </span><span dir=RTL></span><span lang=FA
-style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'><span dir=RTL></span><span
 style='mso-spacerun:yes'>�</span>&#1605;&#1581;&#1575;&#1608;&#1585;&#1607;
 &#1575;&#1740; &#1576;&#1575; &#1587;&#1585;&#1593;&#1578;
 &#1578;&#1575;&#1740;&#1662; &#1575;&#1606;&#1587;&#1575;&#1606;&#1740;
 &#1575;&#1580;&#1585;&#1575; &#1605;&#1740; &#1588;&#1608;&#1583;
 &#1605;&#1605;&#1705;&#1606; &#1575;&#1587;&#1578;
-&#1586;&#1605;&#1575;&#1606;&#1740; &#1586;&#1740;&#1575;&#1583;&#1740;
-&#1589;&#1585;&#1601; &#1705;&#1606;&#1583; &#1608;&#1585;&#1608;&#1583;&#1740;
+&#1586;&#1605;&#1575;&#1606;&#1740; &#1586;&#1740;&#1575;&#1583;&#1740; &#1605;&#1589;&#1585;&#1601;
+&#1705;&#1606;&#1583;. &#1608;&#1585;&#1608;&#1583;&#1740;
 &#1605;&#1605;&#1705;&#1606; &#1575;&#1587;&#1578; &#1578;&#1608;&#1587;&#1591;
 &#1587;&#1585;&#1593;&#1578; &#1578;&#1575;&#1740;&#1662;
 &#1575;&#1606;&#1587;&#1575;&#1606;&#1740; &#1605;&#1581;&#1583;&#1608;&#1583; &#1588;&#1608;&#1583;
@@ -1980,9 +2013,9 @@ style='mso-spacerun:yes'>�</span>&#1605;&#1581;&#1575;&#1608;&#1585;&#1607;
 &#1705;&#1606;&#1583; &#1575;&#1587;&#1578; <br>
 <span style='background:yellow;mso-highlight:yellow'>&#1583;&#1585;
 &#1605;&#1583;&#1578;&#1740; &#1705;&#1607; </span></span><span dir=LTR
-style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>i/o</span><span
-dir=RTL></span><span lang=FA style='font-size:14.0pt;line-height:107%;
+dir=RTL></span><span lang=FA style='font-size:14.0pt;line-height:115%;
 font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
 FA'><span dir=RTL></span> &#1575;&#1606;&#1580;&#1575;&#1605; &#1605;&#1740;
 &#1711;&#1740;&#1585;&#1583;
@@ -1992,19 +2025,20 @@ FA'><span dir=RTL></span> &#1575;&#1606;&#1580;&#1575;&#1605; &#1605;&#1740;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1740;
 &#1705;&#1575;&#1585;&#1576;&#1585; &#1583;&#1740;&#1711;&#1585;&#1740;
 &#1605;&#1740; &#1662;&#1585;&#1583;&#1575;&#1586;&#1583;</span><span lang=FA
-style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1583;&#1585;
-&#1575;&#1588;&#1578;&#1585;&#1575;&#1705; &#1586;&#1605;&#1575;&#1606;&#1740;
-&#1608; &#1670;&#1606;&#1583; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
-&#1575;&#1740; &#1604;&#1575;&#1586;&#1605; &#1575;&#1587;&#1578;
-&#1670;&#1606;&#1583;&#1740;&#1606; &#1705;&#1575;&#1585; &#1576;&#1607; &#1591;&#1608;&#1585;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
+FA'>&#1583;&#1585; &#1575;&#1588;&#1578;&#1585;&#1575;&#1705;
+&#1586;&#1605;&#1575;&#1606;&#1740; &#1608; &#1670;&#1606;&#1583;
+&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1575;&#1740;
+&#1604;&#1575;&#1586;&#1605; &#1575;&#1587;&#1578; &#1670;&#1606;&#1583;&#1740;&#1606;
+&#1705;&#1575;&#1585; &#1576;&#1607; &#1591;&#1608;&#1585;
 &#1607;&#1605;&#1586;&#1605;&#1575;&#1606; &#1583;&#1585;
 &#1581;&#1575;&#1601;&#1592;&#1607; &#1576;&#1575;&#1588;&#1606;&#1583;</span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'> &#1608; &#1575;&#1711;&#1585;
 &#1670;&#1606;&#1583;&#1740;&#1606; &#1705;&#1575;&#1585;
 &#1570;&#1605;&#1575;&#1583;&#1607; &#1608;&#1585;&#1608;&#1583; &#1576;&#1607;
@@ -2020,26 +2054,28 @@ style='background:yellow;mso-highlight:yellow'>&#1575;&#1740;&#1606;
 &#1578;&#1589;&#1605;&#1740;&#1605; &#1711;&#1740;&#1585;&#1740;
 &#1578;&#1608;&#1587;&#1591; &#1586;&#1605;&#1575;&#1606; &#1576;&#1606;&#1583;
 &#1705;&#1575;&#1585; (</span></span><span dir=LTR style='font-size:14.0pt;
-line-height:107%;mso-bidi-font-family:"B Nazanin";background:yellow;mso-highlight:
+line-height:115%;mso-bidi-font-family:"B Nazanin";background:yellow;mso-highlight:
 yellow;mso-bidi-language:FA'>job Scheduling</span><span dir=RTL></span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 background:yellow;mso-highlight:yellow;mso-bidi-language:FA'><span dir=RTL></span>)
 </span><span dir=LTR></span><span lang=FA dir=LTR style='font-size:14.0pt;
-line-height:107%;mso-bidi-font-family:"B Nazanin";background:yellow;mso-highlight:
+line-height:115%;mso-bidi-font-family:"B Nazanin";background:yellow;mso-highlight:
 yellow;mso-bidi-language:FA'><span dir=LTR></span><span
 style='mso-spacerun:yes'>�</span></span><span lang=FA style='font-size:14.0pt;
-line-height:107%;font-family:"B Nazanin";background:yellow;mso-highlight:yellow;
+line-height:115%;font-family:"B Nazanin";background:yellow;mso-highlight:yellow;
 mso-bidi-language:FA'>&#1575;&#1606;&#1580;&#1575;&#1605; &#1605;&#1740;
 &#1711;&#1740;&#1585;&#1583;</span><span lang=FA style='font-size:14.0pt;
-line-height:107%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p></o:p></span></p>
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'> </span><span
+dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
+mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'>&#1608;&#1602;&#1578;&#1740; &#1587;&#1740;&#1587;&#1578;&#1605;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'>&#1608;&#1602;&#1578;&#1740; &#1587;&#1740;&#1587;&#1578;&#1605;
 &#1593;&#1575;&#1605;&#1604; &#1705;&#1575;&#1585;&#1740; &#1585;&#1575;
 &#1575;&#1586; &#1605;&#1582;&#1586;&#1606; &#1705;&#1575;&#1585;
 &#1607;&#1575; &#1575;&#1606;&#1578;&#1582;&#1575;&#1576; &#1605;&#1740;
@@ -2050,9 +2086,9 @@ mso-bidi-language:FA'>&#1608;&#1602;&#1578;&#1740; &#1587;&#1740;&#1587;&#1578;&
 &#1670;&#1606;&#1583;&#1740;&#1606; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607;
 &#1576;&#1607; &#1591;&#1608;&#1585; &#1607;&#1605;&#1586;&#1605;&#1575;&#1606;
 &#1583;&#1585; &#1581;&#1575;&#1601;&#1592;&#1607; </span><span dir=LTR></span><span
-dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=LTR></span>, </span><span lang=FA
-style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'>&#1606;&#1740;&#1575;&#1586;&#1605;&#1606;&#1583;
 &#1606;&#1608;&#1593;&#1740; &#1605;&#1583;&#1740;&#1585;&#1740;&#1578; &#1581;&#1575;&#1601;&#1592;&#1607;
 &#1575;&#1587;&#1578; &#1593;&#1604;&#1575;&#1608;&#1607; &#1576;&#1585;
@@ -2060,58 +2096,71 @@ FA'>&#1606;&#1740;&#1575;&#1586;&#1605;&#1606;&#1583;
 &#1607;&#1605;&#1586;&#1605;&#1575;&#1606; &#1670;&#1606;&#1583;&#1740;&#1606;
 &#1705;&#1575;&#1585; &#1570;&#1605;&#1575;&#1583;&#1607;
 &#1575;&#1580;&#1585;&#1575; &#1576;&#1575;&#1588;&#1606;&#1583; </span><span
-dir=LTR></span><span dir=LTR style='font-size:14.0pt;line-height:107%;
+dir=LTR></span><span dir=LTR style='font-size:14.0pt;line-height:115%;
 mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><span dir=LTR></span>, </span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'>&#1587;&#1740;&#1587;&#1578;&#1605;
 &#1576;&#1575;&#1740;&#1583; &#1705;&#1575;&#1585;&#1607;&#1575;&#1740;&#1740;
 &#1585;&#1575; &#1575;&#1586; &#1576;&#1740;&#1606; &#1570;&#1606;
 &#1607;&#1575; &#1575;&#1606;&#1578;&#1582;&#1575;&#1576; &#1705;&#1606;&#1583;
 <span style='background:yellow;mso-highlight:yellow'>&#1575;&#1740;&#1606;
 &#1578;&#1589;&#1605;&#1740;&#1605; &#1711;&#1740;&#1585;&#1740; &#1576;&#1585;
-&#1593;&#1607;&#1583;&#1607; &#1586;&#1605;&#1575;&#1606;&#1576;&#1606;&#1583; &#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607;
-&#1575;&#1587;&#1578;</span> &#1587;&#1585;&#1575;&#1606;&#1580;&#1575;&#1605;
-&#1608;&#1602;&#1578;&#1740; &#1670;&#1606;&#1583;&#1740;&#1606;
-&#1705;&#1575;&#1585; &#1576;&#1607; &#1591;&#1608;&#1585; &#1607;&#1605;&#1585;&#1608;&#1606;&#1583;
-&#1575;&#1580;&#1585;&#1575; &#1605;&#1740; &#1588;&#1608;&#1606;&#1583;
+&#1593;&#1607;&#1583;&#1607; &#1586;&#1605;&#1575;&#1606;&#1576;&#1606;&#1583;
+&#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607; &#1575;&#1587;&#1578;</span></span><span
+dir=LTR></span><span dir=LTR style='font-size:14.0pt;line-height:115%;
+mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><span dir=LTR></span>.</span><span
+dir=RTL></span><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><span dir=RTL></span>
+&#1587;&#1585;&#1575;&#1606;&#1580;&#1575;&#1605; &#1608;&#1602;&#1578;&#1740;
+&#1670;&#1606;&#1583;&#1740;&#1606; &#1705;&#1575;&#1585; &#1576;&#1607; &#1591;&#1608;&#1585;
+&#1607;&#1605;&#1585;&#1608;&#1606;&#1583;</span><span dir=LTR></span><span
+dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
+mso-bidi-language:FA'><span dir=LTR></span> (Concurrent) </span><span lang=FA
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
+FA'>&#1575;&#1580;&#1585;&#1575; &#1605;&#1740; &#1588;&#1608;&#1606;&#1583;
 &#1575;&#1605;&#1705;&#1575;&#1606; &#1578;&#1575;&#1579;&#1740;&#1585; &#1570;&#1606;
 &#1607;&#1575; &#1576;&#1585; &#1740;&#1705;&#1583;&#1740;&#1711;&#1585;
 &#1583;&#1585; &#1578;&#1605;&#1575;&#1605;
 &#1601;&#1575;&#1586;&#1607;&#1575;&#1740; &#1587;&#1740;&#1587;&#1578;&#1605;
 &#1593;&#1575;&#1605;&#1604; &#1575;&#1586; &#1580;&#1605;&#1604;&#1607; &#1586;&#1605;&#1575;&#1606;&#1576;&#1606;&#1583;&#1740;
 &#1601;&#1585;&#1575;&#1740;&#1606;&#1583; </span><span dir=LTR></span><span
-dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=LTR></span>,</span><span lang=FA
-style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'>&#1584;&#1582;&#1740;&#1585;&#1607; &#1587;&#1575;&#1586;&#1740; </span><span
-dir=LTR></span><span dir=LTR style='font-size:14.0pt;line-height:107%;
+dir=LTR></span><span dir=LTR style='font-size:14.0pt;line-height:115%;
 mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><span dir=LTR></span>,</span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'>&#1583;&#1585; &#1583;&#1740;&#1587;&#1705; &#1608;
 &#1605;&#1583;&#1740;&#1585;&#1740;&#1578; &#1581;&#1575;&#1601;&#1592;&#1607;
 &#1576;&#1575;&#1740;&#1583; &#1605;&#1581;&#1583;&#1608;&#1583;
 &#1576;&#1575;&#1588;&#1583;<o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1583;&#1585;
-&#1587;&#1740;&#1587;&#1578;&#1605; &#1575;&#1588;&#1578;&#1585;&#1575;&#1705;
-&#1586;&#1605;&#1575;&#1606;&#1740; &#1587;&#1740;&#1587;&#1578;&#1605;
-&#1593;&#1575;&#1605;&#1604; &#1576;&#1575;&#1740;&#1583;
-&#1586;&#1605;&#1575;&#1606; &#1662;&#1575;&#1587;&#1582; &#1605;&#1593;&#1602;&#1608;&#1604;&#1740;
-&#1585;&#1575; &#1578;&#1590;&#1605;&#1740;&#1606; &#1705;&#1606;&#1583;
-&#1705;&#1607; &#1711;&#1575;&#1607;&#1740; &#1575;&#1586;
-&#1591;&#1585;&#1740;&#1602; &#1605;&#1576;&#1575;&#1583;&#1604;&#1607;
-&#1589;&#1608;&#1585;&#1578; &#1605;&#1740; &#1711;&#1740;&#1585;&#1583;
-&#1705;&#1607; &#1583;&#1585; &#1570;&#1606;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
+FA'>&#1583;&#1585; &#1587;&#1740;&#1587;&#1578;&#1605;
+&#1575;&#1588;&#1578;&#1585;&#1575;&#1705; &#1586;&#1605;&#1575;&#1606;&#1740;
+&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
+&#1576;&#1575;&#1740;&#1583; &#1586;&#1605;&#1575;&#1606; &#1662;&#1575;&#1587;&#1582;
+&#1605;&#1593;&#1602;&#1608;&#1604;&#1740; &#1585;&#1575;
+&#1578;&#1590;&#1605;&#1740;&#1606; &#1705;&#1606;&#1583;&#1548; &#1705;&#1607;
+&#1711;&#1575;&#1607;&#1740; &#1575;&#1586; &#1591;&#1585;&#1740;&#1602;
+&#1605;&#1576;&#1575;&#1583;&#1604;&#1607; &#1589;&#1608;&#1585;&#1578;
+&#1605;&#1740; &#1711;&#1740;&#1585;&#1583;.</span><span dir=LTR></span><span
+lang=FA dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:
+"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:FA'><span
+dir=LTR></span> </span><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
+FA'>&#1705;&#1607; &#1583;&#1585; &#1570;&#1606;
 &#1601;&#1585;&#1575;&#1740;&#1606;&#1583;&#1607;&#1575; &#1575;&#1586;
 &#1581;&#1575;&#1601;&#1592;&#1607; &#1740; &#1575;&#1589;&#1604;&#1740;
 &#1576;&#1607; &#1583;&#1740;&#1587;&#1705; &#1608;
@@ -2122,14 +2171,22 @@ background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1583;&#1585;
 &#1583;&#1587;&#1578;&#1740;&#1575;&#1576;&#1740; &#1576;&#1607;
 &#1575;&#1740;&#1606; &#1607;&#1583;&#1601; &#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607;
 &#1575;&#1586; </span><b><span lang=FA style='font-size:18.0pt;line-height:
-107%;font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
-FA'>&#1581;&#1575;&#1601;&#1592;&#1607; &#1605;&#1580;&#1575;&#1586;&#1740;</span></b><span
-lang=FA style='font-size:18.0pt;line-height:107%;font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'> </span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1575;&#1587;&#1578;</span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'> &#1705;&#1607; &#1576;&#1575; &#1575;&#1740;&#1606; &#1578;&#1705;&#1606;&#1740;&#1606;&#1705;
+115%;font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
+FA'>&#1581;&#1575;&#1601;&#1592;&#1607; &#1605;&#1580;&#1575;&#1586;&#1740; (</span></b><span
+dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
+background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>Virtual Memory</span><span
+dir=RTL></span><b><span lang=FA style='font-size:18.0pt;line-height:115%;
+font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
+FA'><span dir=RTL></span>)</span></b><span lang=FA style='font-size:18.0pt;
+line-height:115%;font-family:"B Nazanin";background:yellow;mso-highlight:yellow;
+mso-bidi-language:FA'> </span><span lang=FA style='font-size:14.0pt;line-height:
+115%;font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
+FA'>&#1575;&#1587;&#1578;</span><span dir=LTR></span><span dir=LTR
+style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
+mso-bidi-language:FA'><span dir=LTR></span>.</span><span dir=RTL></span><span
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
+FA'><span dir=RTL></span> <span lang=FA>&#1705;&#1607; &#1576;&#1575; &#1575;&#1740;&#1606;
+&#1578;&#1705;&#1606;&#1740;&#1606;&#1705;
 &#1601;&#1585;&#1575;&#1740;&#1606;&#1583;&#1740; &#1705;&#1607;
 &#1705;&#1575;&#1605;&#1604;&#1575; &#1583;&#1585;
 &#1581;&#1575;&#1601;&#1592;&#1607; &#1606;&#1740;&#1587;&#1578; &#1605;&#1740;
@@ -2142,81 +2199,94 @@ mso-bidi-language:FA'> &#1705;&#1607; &#1576;&#1575; &#1575;&#1740;&#1606; &#157
 &#1602;&#1575;&#1583;&#1585; &#1605;&#1740; &#1587;&#1575;&#1586;&#1583; <span
 style='background:yellow;mso-highlight:yellow'>&#1705;&#1607;
 &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1607;&#1575;&#1740; &#1576;&#1586;&#1585;&#1711;
-&#1578;&#1585; </span></span><b><span lang=FA style='font-size:18.0pt;
-line-height:107%;font-family:"B Nazanin";background:yellow;mso-highlight:yellow;
+&#1578;&#1585; </span></span></span><b><span lang=FA style='font-size:18.0pt;
+line-height:115%;font-family:"B Nazanin";background:yellow;mso-highlight:yellow;
 mso-bidi-language:FA'>&#1575;&#1586;&#1581;&#1575;&#1601;&#1592;&#1607;
 &#1601;&#1740;&#1586;&#1740;&#1705;&#1740; &#1608;&#1575;&#1602;&#1593;&#1740;</span></b><span
-lang=FA style='font-size:18.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:18.0pt;line-height:115%;font-family:"B Nazanin";
 background:yellow;mso-highlight:yellow;mso-bidi-language:FA'> </span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1575;&#1580;&#1585;&#1575;
 &#1705;&#1606;&#1606;&#1583;</span><span lang=FA style='font-size:14.0pt;
-line-height:107%;font-family:"B Nazanin";mso-bidi-language:FA'>
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'>
 &#1593;&#1604;&#1575;&#1608;&#1607; &#1576;&#1585; &#1575;&#1740;&#1606; </span><span
-dir=LTR></span><span dir=LTR style='font-size:14.0pt;line-height:107%;
+dir=LTR></span><span dir=LTR style='font-size:14.0pt;line-height:115%;
 mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><span dir=LTR></span>,</span><span
-dir=RTL></span><span style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+dir=RTL></span><span style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=RTL></span> </span><span dir=LTR></span><span
-dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=LTR></span><span
 style='mso-spacerun:yes'>�</span></span><span lang=FA style='font-size:14.0pt;
-line-height:107%;font-family:"B Nazanin";mso-bidi-language:FA'>&#1576;&#1607;
+line-height:115%;font-family:"B Nazanin";mso-bidi-language:FA'>&#1576;&#1607;
 &#1589;&#1608;&#1585;&#1578; &#1575;&#1606;&#1578;&#1586;&#1575;&#1593;&#1740; &#1581;&#1575;&#1601;&#1592;&#1607;
 &#1575;&#1589;&#1604;&#1740; &#1585;&#1575; &#1576;&#1607; &#1740;&#1705;
 &#1570;&#1585;&#1575;&#1740;&#1607; &#1576;&#1586;&#1585;&#1711; &#1608;
 &#1740;&#1705;&#1606;&#1608;&#1575;&#1582;&#1578; &#1575;&#1586; &#1581;&#1575;&#1601;&#1592;&#1607;
 &#1578;&#1576;&#1583;&#1740;&#1604; &#1605;&#1740; &#1705;&#1606;&#1583; </span><span
-dir=LTR></span><span dir=LTR style='font-size:14.0pt;line-height:107%;
+dir=LTR></span><span dir=LTR style='font-size:14.0pt;line-height:115%;
 mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><span dir=LTR></span>, </span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";
 mso-bidi-language:FA'>&#1576;&#1607; &#1591;&#1608;&#1585;&#1740;
 &#1705;&#1607; &#1705;&#1575;&#1585;&#1576;&#1585; </span><span dir=LTR></span><span
-dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=LTR></span>,</span><span lang=FA
-style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'>&#1581;&#1575;&#1601;&#1592;&#1607; &#1740;
 &#1605;&#1606;&#1591;&#1602;&#1740; &#1585;&#1575; &#1605;&#1579;&#1604;
 &#1581;&#1575;&#1601;&#1592;&#1607; &#1601;&#1740;&#1586;&#1740;&#1705;&#1740;
 &#1605;&#1740; &#1576;&#1740;&#1606;&#1583; </span><span dir=LTR></span><span
-dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=LTR></span>,</span><span lang=FA
-style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'>&#1575;&#1740;&#1606; &#1587;&#1575;&#1586;&#1605;&#1575;&#1606;
 &#1583;&#1607;&#1740; &#1605;&#1575;&#1606;&#1593; &#1575;&#1586;
 &#1575;&#1740;&#1606; &#1605;&#1740; &#1588;&#1608;&#1583;</span><span dir=LTR></span><span
-lang=FA dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:
+lang=FA dir=LTR style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:
 "B Nazanin";mso-bidi-language:FA'><span dir=LTR></span> </span><span lang=FA
-style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'>&#1705;&#1607;</span><span dir=LTR></span><span lang=FA dir=LTR
-style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><span dir=LTR></span> </span><span lang=FA
-style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
+style='font-size:14.0pt;line-height:115%;font-family:"B Nazanin";mso-bidi-language:
 FA'>&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1606;&#1608;&#1740;&#1587;&#1575;&#1606;
 &#1606;&#1711;&#1585;&#1575;&#1606; &#1605;&#1581;&#1583;&#1608;&#1583;&#1740;&#1578;
 &#1607;&#1575;&#1740; &#1581;&#1575;&#1601;&#1592;&#1607; </span><span lang=FA
-style='font-size:14.0pt;line-height:107%;font-family:"Times New Roman",serif;
+style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif;
 mso-bidi-language:FA'>�</span><span lang=FA style='font-size:14.0pt;line-height:
-107%;font-family:"B Nazanin";mso-bidi-language:FA'>
+115%;font-family:"B Nazanin";mso-bidi-language:FA'>
 &#1601;&#1590;&#1575;&#1740; &#1584;&#1582;&#1740;&#1585;&#1607;
 &#1587;&#1575;&#1586;&#1740; &#1576;&#1575;&#1588;&#1606;&#1583; <o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span dir=LTR style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:
-"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1575;&#1740;&#1606;
-&#1587;&#1740;&#1587;&#1578;&#1605; &#1607;&#1575;&#1740;
-&#1575;&#1588;&#1578;&#1585;&#1575;&#1705; &#1586;&#1605;&#1575;&#1606;&#1740;
-&#1576;&#1575;&#1740;&#1583; &#1740;&#1705; &#1587;&#1740;&#1587;&#1578;&#1605;
-&#1601;&#1575;&#1740;&#1604; &#1585;&#1575; &#1606;&#1740;&#1586;
-&#1601;&#1585;&#1575;&#1607;&#1605; &#1705;&#1606;&#1606;&#1583; - &#1587;&#1740;&#1587;&#1578;&#1605;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;line-height:115%;
+mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:16.0pt;line-height:115%;
+font-family:"B Nazanin";background:yellow;mso-highlight:yellow;mso-bidi-language:
+FA'>&#1575;&#1740;&#1606; &#1587;&#1740;&#1587;&#1578;&#1605;
+&#1607;&#1575;&#1740; &#1575;&#1588;&#1578;&#1585;&#1575;&#1705;
+&#1586;&#1605;&#1575;&#1606;&#1740; &#1576;&#1575;&#1740;&#1583; &#1740;&#1705;
+&#1587;&#1740;&#1587;&#1578;&#1605; &#1601;&#1575;&#1740;&#1604; &#1585;&#1575;
+&#1606;&#1740;&#1586; &#1601;&#1585;&#1575;&#1607;&#1605;
+&#1705;&#1606;&#1606;&#1583; - &#1587;&#1740;&#1587;&#1578;&#1605;
 &#1601;&#1575;&#1740;&#1604;&#1548; &#1576;&#1585; &#1585;&#1608;&#1740;
 &#1605;&#1580;&#1605;&#1608;&#1593;&#1607; &#1575;&#1740; &#1575;&#1586;
 &#1583;&#1740;&#1587;&#1705; &#1607;&#1575; &#1602;&#1585;&#1575;&#1585;
-&#1605;&#1740; &#1711;&#1740;&#1585;&#1583; &#1608; &#1583;&#1585;
-&#1606;&#1578;&#1740;&#1580;&#1607; &#1576;&#1575;&#1740;&#1583; &#1605;&#1583;&#1740;&#1585;&#1740;&#1578;
+&#1605;&#1740; &#1711;&#1740;&#1585;&#1583; &#1608; &#1583;&#1585; &#1606;&#1578;&#1740;&#1580;&#1607;
+&#1576;&#1575;&#1740;&#1583; &#1605;&#1583;&#1740;&#1585;&#1740;&#1578;
 &#1583;&#1740;&#1587;&#1705; &#1606;&#1740;&#1586;
 &#1601;&#1585;&#1575;&#1607;&#1605; &#1588;&#1608;&#1583;.
 &#1587;&#1740;&#1587;&#1578;&#1605; &#1607;&#1575;&#1740;
@@ -2237,27 +2307,27 @@ background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1575;&#1740;&#160
 &#1705;&#1606;&#1583; &#1608; &#1605;&#1605;&#1705;&#1606;
 &#1575;&#1587;&#1578; &#1578;&#1590;&#1605;&#1740;&#1606; &#1705;&#1606;&#1583;
 &#1705;&#1607; &#1705;&#1575;&#1585;&#1607;&#1575; &#1583;&#1670;&#1575;&#1585;
-</span><b><span lang=FA style='font-size:18.0pt;line-height:107%;font-family:
+</span><b><span lang=FA style='font-size:20.0pt;line-height:115%;font-family:
 "B Nazanin";color:red;background:yellow;mso-highlight:yellow;mso-bidi-language:
 FA'>&#1576;&#1606; &#1576;&#1587;&#1578;</span></b><span lang=FA
-style='font-size:18.0pt;line-height:107%;font-family:"B Nazanin";color:red;
+style='font-size:20.0pt;line-height:115%;font-family:"B Nazanin";color:red;
 background:yellow;mso-highlight:yellow;mso-bidi-language:FA'> </span><span
-lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
+lang=FA style='font-size:16.0pt;line-height:115%;font-family:"B Nazanin";
 background:yellow;mso-highlight:yellow;mso-bidi-language:FA'>&#1606;&#1605;&#1740;
-&#1588;&#1608;&#1583;</span><span lang=FA style='font-size:14.0pt;line-height:
-107%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p></o:p></span></p>
+&#1588;&#1608;&#1583;</span><span lang=FA style='font-size:16.0pt;line-height:
+115%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p></o:p></span></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:107%;
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
 font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;line-height:115%;direction:
+rtl;unicode-bidi:embed'><span lang=FA style='font-size:14.0pt;line-height:115%;
+font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center dir=RTL style='text-align:center;line-height:
+115%;direction:rtl;unicode-bidi:embed'><span dir=LTR style='font-size:14.0pt;
+line-height:115%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></p>
 
 </div>
 
