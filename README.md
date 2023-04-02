@@ -70,6 +70,8 @@ feel free to contribute and add or update topics :)
 
 
  Access to knowledge is the beginning of wisdom, and sharing it is the beginning of progress.
+ 
  دسترسی به دانش، آغاز عقلانیت است و به اشتراک گذاشتن آن، آغاز پیشرفت است.
- Albert Einstein
+ 
+ "Albert Einstein"
 
