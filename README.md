@@ -26,7 +26,7 @@ feel free to contribute and add or update topics :)
 
 # درس سیستم عامل 
 
-### جزوه های درس سیستم عامل تدرس شده در دانشکده شهید بهشتی 
+### جزوه های درس سیستم عامل تدرس شده در دانشکده شهید بهشتی + محتوای اضافه خودم 
 
 ####  سیستم عامل
 <img src="https://techsevi.com/wp-content/uploads/2021/04/Operating-System-Kya-Hai.jpg">
