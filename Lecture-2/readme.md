@@ -11,21 +11,29 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
 <link rel=File-List href="Lecture-2-1_files/filelist.xml">
-<!--[if gte mso 9]><xml>
+<link rel=Edit-Time-Data href="Lecture-2-1_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>alisharify</o:Author>
   <o:LastAuthor>alisharify</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>119</o:TotalTime>
-  <o:LastPrinted>2023-04-12T17:34:00Z</o:LastPrinted>
-  <o:Created>2023-04-12T17:34:00Z</o:Created>
-  <o:LastSaved>2023-04-12T17:34:00Z</o:LastSaved>
-  <o:Pages>6</o:Pages>
-  <o:Words>772</o:Words>
-  <o:Characters>4406</o:Characters>
-  <o:Lines>36</o:Lines>
+  <o:TotalTime>0</o:TotalTime>
+  <o:LastPrinted>2023-04-25T18:21:00Z</o:LastPrinted>
+  <o:Created>2023-04-25T18:22:00Z</o:Created>
+  <o:LastSaved>2023-04-25T18:22:00Z</o:LastSaved>
+  <o:Pages>10</o:Pages>
+  <o:Words>813</o:Words>
+  <o:Characters>4636</o:Characters>
+  <o:Lines>38</o:Lines>
   <o:Paragraphs>10</o:Paragraphs>
-  <o:CharactersWithSpaces>5168</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>5439</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -668,10 +676,11 @@ xmlns="http://www.w3.org/TR/REC-html40">
 @font-face
 	{font-family:"B Nazanin";
 	panose-1:0 0 4 0 0 0 0 0 0 0;
+	mso-font-alt:"Courier New";
 	mso-font-charset:178;
 	mso-generic-font-family:auto;
 	mso-font-pitch:variable;
-	mso-font-signature:8193 -2147483648 8 0 64 0;}
+	mso-font-signature:8192 -2147483648 8 0 64 0;}
 @font-face
 	{font-family:"Segoe UI";
 	panose-1:2 11 5 2 4 2 4 2 2 3;
@@ -859,6 +868,9 @@ p.fonttools-rtl, li.fonttools-rtl, div.fonttools-rtl
 	mso-fareast-font-family:"Times New Roman";}
 span.fonttools-rtl1
 	{mso-style-name:fonttools-rtl1;
+	mso-style-unhide:no;}
+span.hgkelc
+	{mso-style-name:hgkelc;
 	mso-style-unhide:no;}
 .MsoChpDefault
 	{mso-style-type:export-only;
@@ -1448,7 +1460,7 @@ ul
 	mso-bidi-theme-font:minor-bidi;}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="1026"/>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -1461,7 +1473,7 @@ ul
 
 <p class=MsoNormal align=center style='text-align:center'><span dir=RTL></span><b><span
 dir=RTL style='font-size:20.0pt;line-height:107%;font-family:"B Nazanin";
-mso-bidi-language:FA'><span dir=RTL></span><span
+color:red;mso-bidi-language:FA'><span dir=RTL></span><span
 style='mso-spacerun:yes'> </span><span style='mso-spacerun:yes'> </span><span
 lang=FA>&#1587;&#1740;&#1587;&#1578;&#1605; &#1593;&#1575;&#1605;&#1604;
 &#1580;&#1604;&#1587;&#1607; &#1583;&#1608;&#1605; (&#1576;&#1582;&#1588;
@@ -1576,10 +1588,6 @@ embed'><b><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:
 
 <p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
 embed'><b><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:
-"B Nazanin";color:black;mso-themecolor:text1;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></p>
-
-<p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><b><span lang=FA style='font-size:14.0pt;line-height:107%;font-family:
 "B Nazanin";color:black;mso-themecolor:text1;mso-bidi-language:FA'>&#1583;&#1585;
 &#1705;&#1575;&#1605;&#1662;&#1740;&#1608;&#1578;&#1585; &#1607;&#1575;&#1740;
 &#1606;&#1587;&#1604; &#1583;&#1608;&#1605; &#1587;&#1740;&#1587;&#1578;&#1605;
@@ -1638,7 +1646,14 @@ color:black;mso-themecolor:text1;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span><
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
 rtl;unicode-bidi:embed'><b><u><span lang=FA style='font-size:22.0pt;line-height:
 107%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
-FA'>&#1576;&#1575;&#1601;&#1585;&#1740;&#1606;&#1711;<o:p></o:p></span></u></b></p>
+FA'>&#1576;&#1575;&#1601;&#1585;&#1740;&#1606;&#1711;</span></u></b><span
+dir=LTR></span><b><u><span lang=FA dir=LTR style='font-size:22.0pt;line-height:
+107%;mso-bidi-font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;
+mso-bidi-language:FA'><span dir=LTR></span> </span></u></b><b><u><span dir=LTR
+style='font-size:22.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>buffering </span></u></b><b><u><span
+lang=FA style='font-size:22.0pt;line-height:107%;font-family:"B Nazanin";
+color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'><o:p></o:p></span></u></b></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
 embed'><b><span lang=FA style='font-size:16.0pt;line-height:107%;font-family:
@@ -1680,7 +1695,14 @@ embed'><b><span lang=FA style='font-size:16.0pt;line-height:107%;font-family:
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
 rtl;unicode-bidi:embed'><b><u><span lang=FA style='font-size:22.0pt;line-height:
 107%;font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;mso-bidi-language:
-FA'>&#1575;&#1587;&#1662;&#1608;&#1604;&#1740;&#1606;&#1711;<o:p></o:p></span></u></b></p>
+FA'>&#1575;&#1587;&#1662;&#1608;&#1604;&#1740;&#1606;&#1711;</span></u></b><span
+dir=LTR></span><b><u><span lang=FA dir=LTR style='font-size:22.0pt;line-height:
+107%;mso-bidi-font-family:"B Nazanin";color:#4472C4;mso-themecolor:accent1;
+mso-bidi-language:FA'><span dir=LTR></span> </span></u></b><b><u><span dir=LTR
+style='font-size:22.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'>spooling </span></u></b><b><u><span
+lang=FA style='font-size:22.0pt;line-height:107%;font-family:"B Nazanin";
+color:#4472C4;mso-themecolor:accent1;mso-bidi-language:FA'><o:p></o:p></span></u></b></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
 rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:16.0pt;line-height:
@@ -1711,6 +1733,14 @@ FA'><span dir=RTL></span> &#1576;&#1575; &#1583;&#1740;&#1587;&#1705;
 &#1583;&#1585; &#1578;&#1605;&#1575;&#1587; &#1575;&#1587;&#1578;</span></b><b><span
 lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
 mso-bidi-language:FA'> <o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=right dir=RTL style='text-align:left;tab-stops:97.5pt;
+direction:rtl;unicode-bidi:embed'><span class=hgkelc><b><span lang=EN dir=LTR
+style='background:silver;mso-highlight:silver;mso-ansi-language:EN'>Spooling,
+an acronym of Simultaneous Peripheral Operation On-line (SPOOL), puts data into
+a temporary working area so it can be accessed and processed by another program
+or resource.</span></b></span><b><span dir=LTR style='font-size:16.0pt;
+line-height:107%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
 rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:16.0pt;line-height:
@@ -1773,6 +1803,51 @@ FA'><span dir=RTL></span> &#1670;&#1606;&#1583;&#1740;&#1606;
 style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><o:p></o:p></span></b></p>
 
+<p class=MsoNormal align=center dir=RTL style='text-align:center;tab-stops:
+97.5pt;direction:rtl;unicode-bidi:embed'><span dir=LTR style='mso-no-proof:
+yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+ o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+ stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1031" type="#_x0000_t75"
+ alt="Spooling in Operating System - javatpoint" style='width:468pt;height:211.5pt;
+ visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="Lecture-2-1_files/image001.png" o:title="Spooling in Operating System - javatpoint"/>
+</v:shape><![endif]--><![if !vml]><img width=624 height=282
+src="Lecture-2-1_files/image002.png"
+alt="Spooling in Operating System - javatpoint" v:shapes="Picture_x0020_1"><![endif]></span><b><span
+dir=LTR style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+mso-bidi-language:FA'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center dir=RTL style='text-align:center;tab-stops:
+97.5pt;direction:rtl;unicode-bidi:embed'><span dir=LTR style='mso-no-proof:
+yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_2" o:spid="_x0000_i1030"
+ type="#_x0000_t75" alt="What is the Difference Between Spooling and Buffering - Pediaa.Com"
+ style='width:356.25pt;height:395.25pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="Lecture-2-1_files/image003.jpg" o:title="What is the Difference Between Spooling and Buffering - Pediaa"/>
+</v:shape><![endif]--><![if !vml]><img width=475 height=527
+src="Lecture-2-1_files/image003.jpg"
+alt="What is the Difference Between Spooling and Buffering - Pediaa.Com"
+v:shapes="Picture_x0020_2"><![endif]></span><b><span dir=LTR style='font-size:
+16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:
+FA'><o:p></o:p></span></b></p>
+
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
 rtl;unicode-bidi:embed'><b><span dir=LTR style='font-size:16.0pt;line-height:
 107%;mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></p>
@@ -1797,13 +1872,24 @@ FA'>&#1587;&#1740;&#1587;&#1578;&#1605; &#1607;&#1575;&#1740;&#1740;
 &#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607; &#1583;&#1585;
 &#1570;&#1606; &#1607;&#1575; &#1608;&#1580;&#1608;&#1583;
 &#1583;&#1575;&#1585;&#1583; &#1585;&#1575; &#1587;&#1740;&#1587;&#1578;&#1605;
-&#1607;&#1575;&#1740; </span></b><b><span dir=LTR style='font-size:16.0pt;
+&#1607;&#1575;&#1740;</span></b><b><span dir=LTR style='font-size:16.0pt;
 line-height:107%;mso-bidi-font-family:"B Nazanin";background:yellow;mso-highlight:
-yellow;mso-bidi-language:FA'>Multi Processor </span></b><span dir=RTL></span><b><span
-lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
-background:yellow;mso-highlight:yellow;mso-bidi-language:FA'><span dir=RTL></span><span
-style='mso-spacerun:yes'> </span>&#1606;&#1575;&#1605;&#1740;&#1583;&#1607;
-&#1605;&#1740; &#1588;&#1608;&#1583;</span></b><b><span lang=FA
+yellow;mso-bidi-language:FA'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
+rtl;unicode-bidi:embed'><span dir=RTL></span><b><span style='font-size:16.0pt;
+line-height:107%;font-family:"B Nazanin";background:yellow;mso-highlight:yellow;
+mso-bidi-language:FA'><span dir=RTL></span><span
+style='mso-spacerun:yes'> </span></span></b><span dir=LTR></span><b><span
+dir=LTR style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+background:yellow;mso-highlight:yellow;mso-bidi-language:FA'><span dir=LTR></span><span
+style='mso-spacerun:yes'> </span>Multi Processor </span></b><span dir=RTL></span><b><span
+style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";background:
+yellow;mso-highlight:yellow;mso-bidi-language:FA'><span dir=RTL></span><span
+style='mso-spacerun:yes'> </span><span style='mso-spacerun:yes'> </span><span
+lang=FA>&#1740;&#1575; &#1670;&#1606;&#1583;
+&#1662;&#1585;&#1583;&#1575;&#1586;&#1606;&#1583;&#1607; &#1575;&#1740; &#1606;&#1575;&#1605;&#1740;&#1583;&#1607;
+&#1605;&#1740; &#1588;&#1608;&#1583;</span></span></b><b><span lang=FA
 style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
 FA'><o:p></o:p></span></b></p>
 
@@ -1830,11 +1916,77 @@ mso-bidi-language:FA'> </span></b><span dir=RTL></span><b><span
 style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";mso-bidi-language:
 FA'><span dir=RTL></span><span style='mso-spacerun:yes'> </span><span
 style='mso-spacerun:yes'> </span><span lang=FA>&#1606;&#1740;&#1586;
-&#1605;&#1740; &#1606;&#1575;&#1605;&#1606;&#1583;<o:p></o:p></span></span></b></p>
+&#1605;&#1740; &#1606;&#1575;&#1605;&#1606;&#1583;</span></span></b><b><span
+dir=LTR style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+mso-bidi-language:FA'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center dir=RTL style='text-align:center;tab-stops:
+97.5pt;direction:rtl;unicode-bidi:embed'><span dir=LTR style='mso-no-proof:
+yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_3" o:spid="_x0000_i1029"
+ type="#_x0000_t75" alt="Multiprocessing Operating System | GATE Notes"
+ style='width:468pt;height:225pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="Lecture-2-1_files/image004.png" o:title="Multiprocessing Operating System | GATE Notes"/>
+</v:shape><![endif]--><![if !vml]><img width=624 height=300
+src="Lecture-2-1_files/image005.jpg"
+alt="Multiprocessing Operating System | GATE Notes" v:shapes="Picture_x0020_3"><![endif]></span><b><span
+lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
+mso-bidi-language:FA'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
-rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:16.0pt;line-height:
-107%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></p>
+rtl;unicode-bidi:embed'><!--[if mso & !supportInlineShapes & supportFields]><span
+style='mso-element:field-begin;mso-field-lock:yes'></span><span dir=LTR></span><span
+dir=LTR><span dir=LTR></span><span style='mso-spacerun:yes'> </span>SHAPE <span
+style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span style='mso-element:field-separator'></span></span><![endif]--><span
+dir=LTR><!--[if gte vml 1]><v:rect id="Rectangle_x0020_4" o:spid="_x0000_s1026"
+ alt="Symmetric multiprocessing - Wikipedia" style='width:24pt;height:24pt;
+ visibility:visible;mso-wrap-style:square;mso-left-percent:-10001;
+ mso-top-percent:-10001;mso-position-horizontal:absolute;
+ mso-position-horizontal-relative:char;mso-position-vertical:absolute;
+ mso-position-vertical-relative:line;mso-left-percent:-10001;mso-top-percent:-10001;
+ v-text-anchor:top' o:gfxdata="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
+UEsFBgAAAAAEAAQA8wAAAC0GAAAAAA==
+" filled="f" stroked="f">
+ <o:lock v:ext="edit" aspectratio="t"/>
+ <w:wrap type="none"/>
+ <w:anchorlock/>
+</v:rect><![endif]--></span><!--[if mso & !supportInlineShapes & supportFields]><span
+dir=LTR><v:shape id="_x0000_i1028" type="#_x0000_t75" style='width:24pt;
+ height:24pt'>
+ <v:imagedata croptop="-65520f" cropbottom="65520f"/>
+</v:shape><span style='mso-element:field-end'></span></span><![endif]--><b><span
+lang=FA style='font-size:16.0pt;line-height:107%;font-family:"B Nazanin";
+mso-bidi-language:FA'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
 rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:24.0pt;line-height:
@@ -1877,6 +2029,17 @@ FA'><span dir=RTL></span>) &#1607;&#1585;
 &#1589;&#1608;&#1585;&#1578; &#1604;&#1586;&#1608;&#1605; &#1576;&#1575;
 &#1740;&#1705; &#1583;&#1740;&#1711;&#1585; &#1583;&#1585;
 &#1575;&#1585;&#1578;&#1576;&#1575;&#1591; &#1607;&#1587;&#1578;&#1606;&#1583;</span></b><b><span
+dir=LTR style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
+mso-bidi-language:FA'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center dir=RTL style='text-align:center;tab-stops:
+97.5pt;direction:rtl;unicode-bidi:embed'><b><span dir=LTR style='font-size:
+16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Picture_x0020_6" o:spid="_x0000_i1027" type="#_x0000_t75" style='width:318.75pt;
+ height:196.5pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="Lecture-2-1_files/image006.png" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img width=425 height=262
+src="Lecture-2-1_files/image006.png" v:shapes="Picture_x0020_6"><![endif]></span></b><b><span
 dir=LTR style='font-size:16.0pt;line-height:107%;mso-bidi-font-family:"B Nazanin";
 mso-bidi-language:FA'><o:p></o:p></span></b></p>
 
@@ -1966,17 +2129,51 @@ line-height:107%;font-family:"B Nazanin";mso-bidi-language:FA'> <o:p></o:p></spa
 rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:16.0pt;line-height:
 107%;font-family:"B Nazanin";mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></p>
 
-<p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
-rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span lang=FA
-style='font-size:12.0pt;line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:
-"Segoe UI";mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:
-"Segoe UI";color:#C9D1D9;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></span></p>
+<p class=MsoNormal align=center dir=RTL style='text-align:center;tab-stops:
+97.5pt;direction:rtl;unicode-bidi:embed'><span dir=LTR style='mso-no-proof:
+yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_7" o:spid="_x0000_i1026"
+ type="#_x0000_t75" alt="Multiprocessor: Operating System, Types, Advantages and Limitations"
+ style='width:354.75pt;height:199.5pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="Lecture-2-1_files/image007.jpg" o:title=" Operating System, Types, Advantages and Limitations"/>
+</v:shape><![endif]--><![if !vml]><img width=473 height=266
+src="Lecture-2-1_files/image008.jpg"
+alt="Multiprocessor: Operating System, Types, Advantages and Limitations"
+v:shapes="Picture_x0020_7"><![endif]></span><span class=fonttools-rtl1><b><span
+lang=FA style='font-size:12.0pt;line-height:107%;font-family:"B Nazanin";
+mso-ascii-font-family:"Segoe UI";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Segoe UI";color:#C9D1D9;mso-bidi-language:FA'><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal align=center dir=RTL style='text-align:center;tab-stops:
+97.5pt;direction:rtl;unicode-bidi:embed'><span dir=LTR style='mso-no-proof:
+yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_8" o:spid="_x0000_i1025"
+ type="#_x0000_t75" alt="What is the Difference Between Symmetric and Asymmetric Multiprocessing -  Pediaa.Com"
+ style='width:356.25pt;height:522.75pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="Lecture-2-1_files/image009.jpg" o:title="What is the Difference Between Symmetric and Asymmetric Multiprocessing -  Pediaa"/>
+</v:shape><![endif]--><![if !vml]><img width=475 height=697
+src="Lecture-2-1_files/image009.jpg"
+alt="What is the Difference Between Symmetric and Asymmetric Multiprocessing -  Pediaa.Com"
+v:shapes="Picture_x0020_8"><![endif]></span><span class=fonttools-rtl1><b><span
+lang=FA style='font-size:12.0pt;line-height:107%;font-family:"B Nazanin";
+mso-ascii-font-family:"Segoe UI";mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:"Segoe UI";color:#C9D1D9;mso-bidi-language:FA'><o:p></o:p></span></b></span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
-rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span lang=FA
-style='font-size:12.0pt;line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:
-"Segoe UI";mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:
-"Segoe UI";color:#C9D1D9;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></span></p>
+rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span dir=LTR
+style='font-size:22.0pt;line-height:107%;font-family:"Segoe UI",sans-serif;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"B Nazanin";
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
+rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span dir=LTR
+style='font-size:22.0pt;line-height:107%;font-family:"Segoe UI",sans-serif;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"B Nazanin";
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
+rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span dir=LTR
+style='font-size:22.0pt;line-height:107%;font-family:"Segoe UI",sans-serif;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"B Nazanin";
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
 rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span lang=FA
@@ -2027,15 +2224,20 @@ font-family:"B Nazanin";mso-ascii-font-family:"Segoe UI";mso-fareast-font-family
 &#1583;&#1575;&#1585;&#1606;&#1583; &#1587;&#1740;&#1587;&#1578;&#1605;
 &#1607;&#1575;&#1740; &#1578;&#1608;&#1586;&#1740;&#1593;&#1740; &#1585;&#1575;
 &#1587;&#1740;&#1587;&#1578;&#1605; &#1607;&#1575;&#1740;
-&#1575;&#1585;&#1578;&#1576;&#1575;&#1591; &#1590;&#1593;&#1740;&#1601; (</span></span><span
+&#1575;&#1585;&#1578;&#1576;&#1575;&#1591; &#1590;&#1593;&#1740;&#1601; <span
+style='background:yellow;mso-highlight:yellow'>(</span></span></span><span
 class=fonttools-rtl1><span dir=LTR style='font-size:18.0pt;line-height:107%;
 font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'>loosely coupled</span></span><span
-dir=RTL></span><span class=fonttools-rtl1><span lang=FA style='font-size:18.0pt;
-line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:"Segoe UI";
-mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:"Segoe UI";
-mso-bidi-language:FA'><span dir=RTL></span>) &#1606;&#1740;&#1586;
-&#1605;&#1740; &#1711;&#1608;&#1740;&#1606;&#1583;.<o:p></o:p></span></span></p>
+mso-bidi-font-family:"B Nazanin";background:yellow;mso-highlight:yellow;
+mso-bidi-language:FA'>loosely coupled</span></span><span dir=RTL></span><span
+class=fonttools-rtl1><span lang=FA style='font-size:18.0pt;line-height:107%;
+font-family:"B Nazanin";mso-ascii-font-family:"Segoe UI";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Segoe UI";background:yellow;
+mso-highlight:yellow;mso-bidi-language:FA'><span dir=RTL></span>)</span></span><span
+class=fonttools-rtl1><span lang=FA style='font-size:18.0pt;line-height:107%;
+font-family:"B Nazanin";mso-ascii-font-family:"Segoe UI";mso-fareast-font-family:
+"Times New Roman";mso-hansi-font-family:"Segoe UI";mso-bidi-language:FA'>
+&#1606;&#1740;&#1586; &#1605;&#1740; &#1711;&#1608;&#1740;&#1606;&#1583;.<o:p></o:p></span></span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
 rtl;unicode-bidi:embed'><span class=fonttools-rtl1><span lang=FA
@@ -2109,16 +2311,22 @@ style='background:yellow;mso-highlight:yellow'>&#1740;&#1593;&#1606;&#1740;
 &#1605;&#1740; &#1576;&#1575;&#1588;&#1606;&#1583;.<o:p></o:p></span></span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
-rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span lang=FA
-style='font-size:22.0pt;line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:
-"Segoe UI";mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:
-"Segoe UI";color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></span></p>
+rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span dir=LTR
+style='font-size:22.0pt;line-height:107%;font-family:"Segoe UI",sans-serif;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"B Nazanin";
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
-rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span lang=FA
-style='font-size:22.0pt;line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:
-"Segoe UI";mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:
-"Segoe UI";color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></span></p>
+rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span dir=LTR
+style='font-size:22.0pt;line-height:107%;font-family:"Segoe UI",sans-serif;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"B Nazanin";
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
+rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span dir=LTR
+style='font-size:22.0pt;line-height:107%;font-family:"Segoe UI",sans-serif;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"B Nazanin";
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
 rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span lang=FA
@@ -2133,6 +2341,13 @@ style='font-size:24.0pt;line-height:107%;font-family:"B Nazanin";mso-ascii-font-
 "Segoe UI";color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'>&#1578;&#1705;&#1575;&#1605;&#1604;
 &#1578;&#1583;&#1585;&#1740;&#1580;&#1740; &#1587;&#1740;&#1587;&#1578;&#1605;
 &#1607;&#1575;&#1740; &#1593;&#1575;&#1605;&#1604;<o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
+rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span dir=LTR
+style='font-size:20.0pt;line-height:107%;font-family:"Segoe UI",sans-serif;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"B Nazanin";
+color:#4472C4;mso-themecolor:accent1;background:yellow;mso-highlight:yellow;
+mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
 rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span lang=FA
@@ -2189,6 +2404,13 @@ mso-bidi-language:FA'>&#1576;&#1585;&#1606;&#1575;&#1605;&#1607; &#1607;&#1575;
 &#1575;&#1585;&#1587;&#1575;&#1604; &#1605;&#1740; &#1588;&#1583;<o:p></o:p></span></b></span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
+rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span dir=LTR
+style='font-size:20.0pt;line-height:107%;font-family:"Segoe UI",sans-serif;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"B Nazanin";
+color:#4472C4;mso-themecolor:accent1;background:yellow;mso-highlight:yellow;
+mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
 rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span lang=FA
 style='font-size:20.0pt;line-height:107%;font-family:"B Nazanin";mso-ascii-font-family:
 "Segoe UI";mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:
@@ -2241,6 +2463,13 @@ mso-bidi-language:FA'>&#1605;&#1578;&#1589;&#1583;&#1740; &#1662;&#1587;
 &#1606;&#1575;&#1592;&#1585; &#1585;&#1608;&#1740;
 &#1583;&#1587;&#1578;&#1711;&#1575;&#1607; &#1608;&#1585;&#1608;&#1583;&#1740;
 &#1602;&#1585;&#1575;&#1585; &#1605;&#1740; &#1583;&#1607;&#1583;<o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
+rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span dir=LTR
+style='font-size:20.0pt;line-height:107%;font-family:"Segoe UI",sans-serif;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"B Nazanin";
+color:#4472C4;mso-themecolor:accent1;background:yellow;mso-highlight:yellow;
+mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
 rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span lang=FA
@@ -2376,6 +2605,12 @@ mso-bidi-language:FA'>&#1583;&#1585; &#1575;&#1740;&#1606;
 class=fonttools-rtl1><b><span dir=LTR style='font-size:16.0pt;line-height:107%;
 font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:"B Nazanin";mso-bidi-language:FA'><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
+rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span dir=LTR
+style='font-size:22.0pt;line-height:107%;font-family:"Segoe UI",sans-serif;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"B Nazanin";
+color:#70AD47;mso-themecolor:accent6;mso-bidi-language:FA'><o:p>&nbsp;</o:p></span></b></span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;tab-stops:97.5pt;direction:
 rtl;unicode-bidi:embed'><span class=fonttools-rtl1><b><span lang=FA
@@ -2563,7 +2798,6 @@ FA'><span dir=RTL></span> &#1608; &#1583;&#1587;&#1578;&#1711;&#1575;&#1607;
 </body>
 
 </html>
-
 
 
 <html xmlns:v="urn:schemas-microsoft-com:vml"
