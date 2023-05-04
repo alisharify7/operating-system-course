@@ -1,6 +1,13 @@
 # operating-system-course
 operating-system-course in <a href="https://en.sbu.ac.ir/">shahid beheshti univercity </a>  + additional content
 
+<p>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/alisharify7/operating-system-course">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alisharify7/operating-system-course">
+</p>
+
+
+
 ## OS (Oprating System)
 <img src="https://techsevi.com/wp-content/uploads/2021/04/Operating-System-Kya-Hai.jpg">
 
