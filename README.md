@@ -70,6 +70,7 @@ feel free to contribute and add or update topics :)
 | <a href="https://github.com/alisharify7/operating-system-course/tree/main/Lecture-5">مشاهده<a>  | پنجم    |
 | <a href="https://github.com/alisharify7/operating-system-course/tree/main/Lecture-6">مشاهده<a>  | ششم    |
 | <a href="https://github.com/alisharify7/operating-system-course/tree/main/Lecture-7">مشاهده<a>  | هفتم    |
+| <a href="https://github.com/alisharify7/operating-system-course/tree/main/Lecture-8">مشاهده<a>  | هشتم    |
 
  
  
