@@ -54,8 +54,7 @@ feel free to contribute and add or update topics :)
 
 Lecture 2 topics:
 
-     Interactive os
-     batch os
+     Interactive and batch os
      buffering and spooling
      
 
