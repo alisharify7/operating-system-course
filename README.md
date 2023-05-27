@@ -54,10 +54,23 @@ feel free to contribute and add or update topics :)
 
 Lecture 2 topics:
 
-     Interactive os
-     batch os
-     
-
+     Interactive and batch os
+     buffering and spooling
+     Multi Process (summetric and asymmetric) 
+     Distributed and RealTime(Soft-Hard)
+     Process Management
+     File Management 
+     I/O management 
+     Storage Management
+     Memory Management
+     Operating System Architecture
+         Monolithic os
+         Layered Os
+         Micro kernel
+         Modules
+         Virtual Machine
+         Client-Server
+         Hybrid Os
 
 ------------
 
