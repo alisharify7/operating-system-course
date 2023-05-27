@@ -57,7 +57,13 @@ Lecture 2 topics:
      Interactive and batch os
      buffering and spooling
      Multi Process (summetric and asymmetric) 
-     Distributed and RealTime
+     Distributed and RealTime(Soft-Hard)
+     Process Management
+     File Management 
+     I/O management 
+     Storage Management
+     Memory Management
+     
      
 
 
