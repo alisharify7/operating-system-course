@@ -28,6 +28,30 @@ this repository contain OS Lectures(Operating System) of shahid beheshti univers
 feel free to contribute and add or update topics :) 
 
 
+ 
+ Lecture 1 topics:
+ 
+ 
+      Definition of OS
+      use of os
+      services that os provide
+              File management
+              Program development
+              Program execution
+              I/O Management 
+              Debugging
+              Accounting
+              Access Control
+     Multi Programming
+     Time Sharing and multi Tasking
+     Job Pool and Job scheduler
+     Virtual Memory
+     Swap
+     Job Scheduling
+     Process and program
+
+
+
 
 ------------
 
@@ -74,26 +98,7 @@ feel free to contribute and add or update topics :)
 
  
  
- 
- Lecture 1 topics:
- 
- 
-      Definition of OS
-      use of os
-      services that os provide
-              File management
-              Program development
-              Program execution
-              I/O Management 
-              Debugging
-              Accounting
-              Access Control
-     Multi Programming
-     Time Sharing and multi Tasking
-     Job Pool and Job scheduler
-     Virtual Memory
-     Swap
- 
+
  
  
  live content table : https://alisharify7.github.io/operating-system-course/
