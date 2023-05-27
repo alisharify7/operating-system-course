@@ -75,7 +75,7 @@ feel free to contribute and add or update topics :)
  
  
  
- Lecture 1:
+ Lecture 1 topics:
  
  
       Definition of OS
@@ -87,8 +87,12 @@ feel free to contribute and add or update topics :)
               I/O Management 
               Debugging
               Accounting
-              
-     
+              Access Control
+     Multi Programming
+     Time Sharing and multi Tasking
+     Job Pool and Job scheduler
+     Virtual Memory
+     Swap
  
  
  
