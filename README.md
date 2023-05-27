@@ -63,13 +63,14 @@ Lecture 2 topics:
      I/O management 
      Storage Management
      Memory Management
-     Monolithic os
-     Layered Os
-     Micro kernel
-     Modules
-     Virtual Machine
-     Client-Server
-     Hybrid Os
+     Operating System Architecture
+         Monolithic os
+         Layered Os
+         Micro kernel
+         Modules
+         Virtual Machine
+         Client-Server
+         Hybrid Os
 
 ------------
 
