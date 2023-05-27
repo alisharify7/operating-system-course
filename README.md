@@ -52,6 +52,11 @@ feel free to contribute and add or update topics :)
      Process and program
 
 
+Lecture 2 topics:
+
+     Interactive os
+     batch os
+     
 
 
 ------------
