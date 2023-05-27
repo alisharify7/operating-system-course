@@ -56,6 +56,7 @@ Lecture 2 topics:
 
      Interactive and batch os
      buffering and spooling
+     Multi Process (summetric and asymmetric) 
      
 
 
