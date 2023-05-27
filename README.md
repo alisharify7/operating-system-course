@@ -75,6 +75,23 @@ feel free to contribute and add or update topics :)
  
  
  
+ Lecture 1:
+ 
+ 
+      Definition of OS
+      use of os
+      services that os provide
+              File management
+              Program development
+              Program execution
+              I/O Management 
+              Debugging
+              Accounting
+              
+     
+ 
+ 
+ 
  live content table : https://alisharify7.github.io/operating-system-course/
  
  
