@@ -83,12 +83,21 @@ Lecture 3 topics:
               Terminate
               Running
         I/O and CPU Burst
+        Scheduling
         Schedulers in OS
              Long Term Scheduler
              Middle Term Scheduler
              Short Term Scheduler
              I/O Scheduler
-             
+        CPU scheduling
+        Preemptive and Non Preemptive Scheduling
+        Interrupt
+             Internal interrupts (Trap)
+             External interrupts (Hw)
+             software interrupts svc
+        Dispatcher
+        Dispatch Latency
+        The criteria for scheduling.      
        
 
 ------------
