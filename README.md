@@ -111,6 +111,16 @@ Lecture 4 topics:
       PCB
       Convoy Effect 
 
+Lecture 5 topics:
+
+      Priority scheduling
+      indefinite Blocking
+      Starvation
+      (Round Robin) RR
+      Context Switch
+      Multilevel feedback queue
+      Aging
+
 ------------
 
 # درس سیستم عامل 
