@@ -71,6 +71,25 @@ Lecture 2 topics:
          Virtual Machine
          Client-Server
          Hybrid Os
+         
+         
+
+Lecture 3 topics:
+        
+        Process Status
+              New
+              Ready
+              Wait - Suspend
+              Terminate
+              Running
+        I/O and CPU Burst
+        Schedulers in OS
+             Long Term Scheduler
+             Middle Term Scheduler
+             Short Term Scheduler
+             I/O Scheduler
+             
+       
 
 ------------
 
