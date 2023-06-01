@@ -100,6 +100,17 @@ Lecture 3 topics:
         The criteria for scheduling.      
        
 
+
+
+Lecture 4 topics:
+ 
+      Scheduling algorithms
+         First come First Serve 
+         Shortest Job First
+
+      FIFO
+      PCB
+
 ------------
 
 # درس سیستم عامل 
