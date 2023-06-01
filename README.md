@@ -106,15 +106,16 @@ Lecture 4 topics:
  
       Scheduling algorithms
       First come First Serve 
-      Shortest Job First
+      Shortest Job First - Shortest-remaining-time-first 
       FIFO
       PCB
+      Convoy Effect 
 
 ------------
 
 # درس سیستم عامل 
 
-### جزوه های درس سیستم عامل تدرس شده در دانشکده شهید بهشتی + محتوای اضافه خودم 
+### جزوه های درس سیستم عامل تدرس شده در دانشگاه  شهید بهشتی + محتوای اضافه خودم 
 
 ####  سیستم عامل
 <img src="https://techsevi.com/wp-content/uploads/2021/04/Operating-System-Kya-Hai.jpg">
