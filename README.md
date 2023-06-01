@@ -106,9 +106,10 @@ Lecture 4 topics:
  
       Scheduling algorithms
       First come First Serve 
-      Shortest Job First
+      Shortest Job First - Shortest-remaining-time-first 
       FIFO
       PCB
+      Convoy Effect 
 
 ------------
 
