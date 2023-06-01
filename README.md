@@ -71,6 +71,34 @@ Lecture 2 topics:
          Virtual Machine
          Client-Server
          Hybrid Os
+         
+         
+
+Lecture 3 topics:
+        
+        Process Status
+              New
+              Ready
+              Wait - Suspend
+              Terminate
+              Running
+        I/O and CPU Burst
+        Scheduling
+        Schedulers in OS
+             Long Term Scheduler
+             Middle Term Scheduler
+             Short Term Scheduler
+             I/O Scheduler
+        CPU scheduling
+        Preemptive and Non Preemptive Scheduling
+        Interrupt
+             Internal interrupts (Trap)
+             External interrupts (Hw)
+             software interrupts svc
+        Dispatcher
+        Dispatch Latency
+        The criteria for scheduling.      
+       
 
 ------------
 
