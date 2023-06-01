@@ -105,9 +105,8 @@ Lecture 3 topics:
 Lecture 4 topics:
  
       Scheduling algorithms
-         First come First Serve 
-         Shortest Job First
-
+      First come First Serve 
+      Shortest Job First
       FIFO
       PCB
 
