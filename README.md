@@ -118,7 +118,7 @@ Lecture 5 topics:
       Starvation
       (Round Robin) RR
       Context Switch
-      Multilevel level queue
+      Multilevel queue
       Multilevel feedback queue
       Aging
 
