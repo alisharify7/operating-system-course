@@ -118,8 +118,40 @@ Lecture 5 topics:
       Starvation
       (Round Robin) RR
       Context Switch
+      Multilevel queue
       Multilevel feedback queue
       Aging
+
+
+lecture 6 topics:
+         
+      Storage hierarchy 
+           register
+           cache 
+           memory
+           disk cache
+           optical disk
+           usb etc
+     Paging
+     Base Hardware
+     Address binding
+     Physical and logical Address
+          logical and physical address space
+          mmu
+     swapping
+     Contiguous Memory allocation
+     Memory Allocation
+     Memory Allocation Algorithm
+           First-Fit
+           Best-Fit
+           Wors-Fit
+           Next-Fit
+    External Fragmentation
+    Internal Fragmentation
+    compaction
+           
+           
+     
 
 ------------
 
