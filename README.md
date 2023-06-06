@@ -151,6 +151,15 @@ lecture 6 topics:
     compaction
            
            
+Lecture 7 topics:
+      
+      Memory segmentation
+      Paging
+      Segmentation Methods
+      Segmentation Hardware
+      
+
+           
      
 
 ------------
