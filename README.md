@@ -97,7 +97,7 @@ Lecture 3 topics:
              software interrupts svc
         Dispatcher
         Dispatch Latency
-        The criteria for scheduling.      
+        scheduling criteria      
        
 
 
