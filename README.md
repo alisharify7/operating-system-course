@@ -28,6 +28,18 @@ this repository contain OS Lectures(Operating System) of shahid beheshti univers
 feel free to contribute and add or update topics :) 
 
 
+
+# todo :
+
+add more schduling algorithm to lecture 5:
+
+fair share scheduling
+
+garantie scheduling
+
+lottery scheduling
+
+
 ---
  
  Lecture 1 topics:
