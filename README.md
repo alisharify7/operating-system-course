@@ -170,9 +170,16 @@ Lecture 7 topics:
       Segmentation Methods
       Segmentation Hardware
       
-
            
-     
+Lecture 8 topics:
+      
+       DeadLock
+       Methods for handling deadlock 
+        1. Eliminate mutual exclusion
+        2. Solve hold and wait
+        3. Allow preemption
+        4. Circular wait Solution    
+        system resource allocation graph
 
 ------------
 
