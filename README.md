@@ -1,5 +1,5 @@
 # operating-system-course
-operating-system-course in <a href="https://en.sbu.ac.ir/">shahid beheshti univercity </a>  + additional content
+operating-system-course notes + additional content
 
 <p>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/alisharify7/operating-system-course">
@@ -31,7 +31,7 @@ feel free to contribute and add or update topics :)
 
 # todo :
 
-add more schduling algorithm to lecture 5:
+add more scheduling algorithm to lecture 5:
 
 fair share scheduling
 
@@ -68,7 +68,7 @@ Lecture 2 topics:
 
      Interactive and batch os
      buffering and spooling
-     Multi Process (summetric and asymmetric) 
+     Multi-Process (symmetric and asymmetric) 
      Distributed and RealTime(Soft-Hard)
      Process Management
      File Management 
@@ -78,7 +78,7 @@ Lecture 2 topics:
      Operating System Architecture
          Monolithic os
          Layered Os
-         Micro kernel
+         Microkernel
          Modules
          Virtual Machine
          Client-Server
@@ -102,7 +102,7 @@ Lecture 3 topics:
              Short Term Scheduler
              I/O Scheduler
         CPU scheduling
-        Preemptive and Non Preemptive Scheduling
+        Preemptive and Non-Preemptive Scheduling
         Interrupt
              Internal interrupts (Trap)
              External interrupts (Hw)
@@ -149,7 +149,7 @@ lecture 6 topics:
      Address binding
      Physical and logical Address
           logical and physical address space
-          mmu
+          MMU
      swapping
      Contiguous Memory allocation
      Memory Allocation
@@ -185,7 +185,7 @@ Lecture 8 topics:
 
 # درس سیستم عامل 
 
-### جزوه های درس سیستم عامل تدرس شده در دانشگاه  شهید بهشتی + محتوای اضافه خودم 
+### جزوه های درس سیستم عامل  + محتوای اضافه ] 
 
 ####  سیستم عامل
 <img src="https://techsevi.com/wp-content/uploads/2021/04/Operating-System-Kya-Hai.jpg">
@@ -232,7 +232,7 @@ Lecture 8 topics:
  live content table : https://alisharify7.github.io/operating-system-course/
  
  
-#### هدف این ریپازیتوری صرفا به اشتراک گذاری چیزایی هست که شاید به درد بعضی افراد بخوره و مفید باشند از اونجایی که من خودم به شخصه طرفدار دنیای Open Source و آزادی  نرم افزار و اشتراک گذاری و دسترسی عامه مردم به اطلاعات و دانش هستم خواستم جزوه هایی  که در توان خودم هست و در کلاس نوشتم رو تایپ کنم و توی یه فرمت تمیز برای  باقی اینجا بزارم باشه :) - 1401/12/19 * 2022/3/10
+#### هدف این ریپازیتوری صرفا به اشتراک گذاری چیزایی هست که شاید به درد بعضی افراد بخوره و مفید باشند از اونجایی که من خودم به شخصه طرفدار دنیای Open Source و آزادی  نرم افزار و اشتراک گذاری و دسترسی عامه مردم به اطلاعات و دانش هستم خواستم جزوه هایی که در توان خودم هست و در کلاس نوشتم رو تایپ کنم و توی یه فرمت تمیز برای باقی اینجا بزارم باشه :) - 1401/12/19 * 2022/3/10
 
  
 
