@@ -251,6 +251,10 @@ Lecture 8 topics:
  
  
  
- 
+
+
+ ## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=alisharify7/operating-system-course&type=Date)](https://star-history.com/#alisharify7/operating-system-course&Date)
  
  
